@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_UI_PAUSE_TITLE">
+			<Text>Pause Menu</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_GAME">
+			<Text>Game</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_OPTIONS">
+			<Text>Options</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_REMAP_KBM">
+			<Text>Keyboard and Mouse Controls</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_REMAP_CONTROLLER">
+			<Text>Controller Mapping</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_QUICK_SAVE">
+			<Text>Quick Save</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_SAVE">
+			<Text>Save Game</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_LOAD">
+			<Text>Load Game</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_RETIRE">
+			<Text>Retire</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_NOMORETURNS">
+			<Text>No More Turns</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_EVENT_RULES">
+			<Text>Event Rules</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_RANKINGS">
+			<Text>Rankings</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_QUIT_TO_DESKTOP">
+			<Text>Exit to Desktop</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_QUIT_TO_MENU">
+			<Text>Exit to Main Menu</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_CONFIRM_QUIT">
+			<Text>Are you sure you wish to exit? All unsaved progress will be lost!</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_CONFIRM_QUIT_TO_MENU">
+			<Text>Are you sure you wish to exit to main menu? All unsaved progress will be lost!</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_CONFIRM_QUIT_TO_DESKTOP">
+			<Text>Are you sure you wish to exit to desktop? All unsaved progress will be lost!</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_CONFIRM_RETIRE">
+			<Text>Are you sure you wish to retire?  This will be treated as if you were defeated.</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_WELCOME_INSTRUCTIONS">
+			<Text>View Instructions</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_COPY_JOIN_CODE">
+			<Text>Join Code: {1_JoinCode}</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_BUILD_INFO">
+			<Text>Build: {1_Info}</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_RETIRE_DISABLED">
+			<Text>You cannot retire when it is not your turn.</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_SHOW_MORE">
+			<Text>Show More</Text>
+		</Row>
+		<Row Tag="LOC_PAUSE_MENU_SHOW_LESS">
+			<Text>Show Less</Text>
+		</Row>
+	</EnglishText>
+</Database>

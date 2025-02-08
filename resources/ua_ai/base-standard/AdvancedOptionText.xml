@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_ADVANCED_OPTIONS_GAME_SETTINGS">
+			<Text>Game Settings</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_PLAYER_SETTINGS">
+			<Text>Player Settings</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ADD_PLAYER">
+			<Text>Add AI Player</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_RULESET">
+			<Text>Ruleset</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_DIFFICULTY">
+			<Text>Game Difficulty</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_START_ERA">
+			<Text>Start Era</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_CITY_STATES">
+			<Text>City-States</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_MAP">
+			<Text>Map</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_LEADER_POOL">
+			<Text>Leader Pool {1_value}</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_RESOURCE">
+			<Text>Resources</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_SELECT_CITY_STATES">
+			<Text>Select City-States</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_NATURAL">
+			<Text>Select Natural Wonders</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_WORLD_AGE">
+			<Text>World Age</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_START_POSITION">
+			<Text>Start Position</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_TEMPERATURE">
+			<Text>Temperature</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_RAINFALL">
+			<Text>Rainfall</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_SEA_LEVEL">
+			<Text>Sea Level</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS">
+			<Text>Options</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_GAME_MODES">
+			<Text>Game Modes</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_VICTORY_CONDITIONS">
+			<Text>Victory Conditions</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ADVANCED">
+			<Text>Advanced Options</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ONLINE">
+			<Text>Online</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_QUICK">
+			<Text>Quick</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_EPIC">
+			<Text>Epic</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_MARATHON">
+			<Text>Marathon</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_EVERYTHING">
+			<Text>Everything</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_SPARSE">
+			<Text>Sparse</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ABUNDANT">
+			<Text>Abundant</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_RANDOM">
+			<Text>Random</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_NEW">
+			<Text>New</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_OLD">
+			<Text>Old</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_HOT">
+			<Text>Hot</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_COLD">
+			<Text>Cold</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_HIGH">
+			<Text>High</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_LOW">
+			<Text>Low</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_CULTURE_VICTORY">
+			<Text>Culture Victory</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_DOMINATION_VICTORY">
+			<Text>Domination</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_LEGACY_VICTORY">
+			<Text>Legacy Victory</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_MILITARY_VICTORY">
+			<Text>Military Victory</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_SCIENCE_VICTORY">
+			<Text>Science Victory</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ECONOMIC_VICTORY">
+			<Text>Economic Victory</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_SCORE_VICTORY">
+			<Text>Score Victory</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ENABLE">
+			<Text>Enable</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_DISABLE">
+			<Text>Disable</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_LIMIT_TURNS">
+			<Text>Limit Turns</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_LIMIT_1">
+			<Text>By Game Speed</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_LIMIT_2">
+			<Text>Custom</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_LIMIT_3">
+			<Text>No Turn Limit</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_DUPLICATE_CIV">
+			<Text>No Duplicate Civilizations</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_DUPLICATE_LEADER">
+			<Text>No Duplicate Leaders</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_TEAM_SHARE_VIS">
+			<Text>Teams Share Visibility</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_NO_TEAMS">
+			<Text>No Teams</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_TRIBAL">
+			<Text>No Tribal Villages</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ANTIQUITY_CRISIS_1">
+			<Text>Invasion</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ANTIQUITY_CRISIS_2">
+			<Text>Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ANTIQUITY_CRISIS_3">
+			<Text>Plague</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_EXPLORATION_CRISIS_1">
+			<Text>Revolution</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_EXPLORATION_CRISIS_2">
+			<Text>Wars of Religion</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_EXPLORATION_CRISIS_3">
+			<Text>Plague</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_AGE_LENGTH">
+			<Text>Age Length</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_AGE_LENGTH_DESC">
+			<Text>Determines how much age progress is required to complete an age</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_DISASTER_INTENSITY">
+			<Text>Disaster Intensity</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_DISASTER_INTENSITY_DESC">
+			<Text>Determines the strength and frequency of disasters</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_CRISIS">
+			<Text>Crises</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_CRISIS_DESC">
+			<Text>Enables Crisis Events in Ages without Victory Unlocks</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ABBREVIATED">
+			<Text>Abbreviated</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_LONG">
+			<Text>Long</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_LIGHT">
+			<Text>Light</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_MODERATE">
+			<Text>Moderate</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_STANDARD">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_CATASTROPHIC">
+			<Text>Catastrophic</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_SELECT_OPPONENTS">
+			<Text>Select Opponents</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_FREQUENT">
+			<Text>Frequent</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_ON">
+			<Text>On</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS_OFF">
+			<Text>Off</Text>
+		</Row>
+	</EnglishText>
+</Database>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- Internal Modding Errors -->
+		<Row Tag="LOC_MODDING_ERROR_UNKNOWN">
+			<Text>Сталася невідома помилка під час спроби запустити гру.</Text>
+		</Row>
+		<Row Tag="LOC_MODDING_ERROR_CONTENT">
+			<Text>Сталася одна або кілька помилок під час спроби налаштувати модифікаційний контент.</Text>
+		</Row>
+		<Row Tag="LOC_MODDING_ERROR_REASON_GAMEPLAY_DATABASE">
+			<Text>Перевірка бази даних ігрового процесу не вдалася! Дивіться додаткові деталі в Database.log.</Text>
+		</Row>
+	</EnglishText>
+</Database>
+		

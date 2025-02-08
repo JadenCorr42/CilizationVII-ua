@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <EnglishText>
+        <Row Tag="LOC_COPYRIGHT_BLOCK">
+            <Text>© 1991-2025 Take-Two Interactive Software, Inc. Developed by Firaxis Games. 2K, Firaxis Games, Sid
+                Meier's Civilization VII, Sid Meier's Civilization, Civilization, Civ, and their respective logos are
+                trademarks of Take-Two Interactive Software, Inc. Sid Meier's Civilization VII uses Coherent Labs user
+                interface technology. Copyright 2012-2025 Coherent Labs. All Rights Reserved. Powered by Wwise ©
+                2006-2025 Audiokinetic Inc. All rights reserved. Uses Oodle. Copyright © 2008-2025 by Epic Games Tools,
+                LLC. Uses Quixel Megascans ®, Copyright © 2017 Quixel AB.
+            </Text>
+        </Row>
+        <Row Tag="LOC_LEADER_RANDOM_NAME">
+            <Text>Випадковий</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_RANDOM_DESCRIPTION">
+            <Text>Лідера буде обрано для вас.</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_RANDOM_NAME">
+            <Text>Випадковий</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_RANDOM_DESCRIPTION">
+            <Text>Цивілізацію буде обрано для вас.</Text>
+        </Row>
+        <!-- Multiplayer Lobby -->
+        <Row Tag="LOC_UI_MP_STAGING_TITLE">
+            <Text>БАГАТОКОРИСТУВАЦЬКА ГРА</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_STAGING_SUBTITLE">
+            <Text>Екран підготовки</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_STAGING_READY_BUTTON_READY">
+            <Text>ГОТОВИЙ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_STAGING_READY_BUTTON_UNREADY">
+            <Text>НЕ ГОТОВИЙ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_STAGING_HOST_TITLE">
+            <Text>Екран підготовки багатокористувацької гри: Налаштування хоста</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_STAGING_CLIENT_TITLE">
+            <Text>Екран підготовки багатокористувацької гри: Налаштування клієнта</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_STAGING_PLAYER_LIST_TITLE">
+            <Text>Список гравців:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_STAGING_INVITE_BUTTON">
+            <Text>Запросити друзів</Text>
+        </Row>
+        <Row Tag="LOC_GAME_SUMMARY_JOIN_CODE">
+            <Text>Код приєднання: {1_JoinCode}</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_SUBTITLE">
+            <Text>Лобі</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_TIME_REMAINING">
+            <Text>Час, що залишився</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_SHOW_JOIN_CODE">
+            <Text>Показати код приєднання</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_SHOW_FRIENDS">
+            <Text>Показати друзів</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_HEADER_PLAYER">
+            <Text>Гравець</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_HEADER_TEAM">
+            <Text>Команда</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_HEADER_CIV">
+            <Text>Цив</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_HEADER_LEADER">
+            <Text>Лідер</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_HEADER_READY">
+            <Text>Готовий?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_HEADER_KICK">
+            <Text>Вигнати</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_CHAT">
+            <Text>Чат</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_RULES">
+            <Text>Переглянути всі правила</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_MEMENTO">
+            <Text>Вибрати сувеніри</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_GAME_OPTION">
+            <Text>Параметри гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_PLAYERS">
+            <Text>{1_currentPlayers}/{2_maxPlayers} гравців</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_DIFFICULTY">
+            <Text>Складність:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_RULE_SET">
+            <Text>Набір правил:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_MAP_TYPE">
+            <Text>Тип карти:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_MAP_SIZE">
+            <Text>Розмір карти:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_GAME_SPEED">
+            <Text>Швидкість гри:</Text>
+        </Row>
+
+        <Row Tag="LOC_UI_MP_LOBBY_READY_BUTTON_NOT_READY">
+            <Text>Готовий?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_READY_BUTTON_WAITING_FOR_OTHERS">
+            <Text>Очікування гравців</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_READY_BUTTON_STARTING_GAME">
+            <Text>Запуск...</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_DROPDOWN_ACTION_DESC">
+            <Text>Вибір дій для цього слота гравця.</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_DROPDOWN_TEAM_DESC">
+            <Text>Вибір команди для цього гравця.</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_DROPDOWN_CIV_DESC">
+            <Text>Вибір цивілізації для цього гравця.</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_DROPDOWN_LEADER_DESC">
+            <Text>Вибір лідера для цього гравця.</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_DROPDOWN_ACTION_DEFAULT">
+            <Text>Дії над гравцем</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_DROPDOWN_TEAM_DEFAULT">
+            <Text>Без команди</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LOBBY_TEAM">
+            <Text>Команда {1_TeamNumber}</Text>
+        </Row>
+        <!-- Landing Page -->
+        <Row Tag="LOC_UI_MP_LANDING_TITLE">
+            <Text>РЕЖИМ БАГАТОКОРИСТУВАЦЬКОЇ ГРИ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_SUBTITLE">
+            <Text>ЕКРАН ПРИЗЕМЛЕННЯ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_LAN">
+            <Text>ЛВС</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_INTERNET">
+            <Text>Інтернет</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_WIRELESS">
+            <Text>Бездротовий</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_MATCHMAKE_GAME">
+            <Text>ШВИДКЕ ПРИЄДНАННЯ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_CREATE_GAME">
+            <Text>СТВОРИТИ ГРУ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_JOIN_GAME">
+            <Text>ПРИЄДНАТИСЯ ДО ГРИ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_LOAD_GAME">
+            <Text>ЗАВАНТАЖИТИ ГРУ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_GAMES_BROWSER">
+            <Text>ПЕРЕГЛЯД ІГОР</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_ERROR_ROOM_FULL">
+            <Text>Кімната заповнена</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_ERROR_GAME_STARTED">
+            <Text>Гра розпочата</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_ERROR_TOO_MANY_MATCHES">
+            <Text>Забагато матчів</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_ERROR_NO_CONNECTION">
+            <Text>Немає з'єднання</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_UNKNOWN_ERROR">
+            <Text>Повернено невідому помилку: {1_ErrorNumber}</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_ERROR_BODY">
+            <Text>Не вдалося приєднатися до лобі: {1_Reason}</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_MATCHMAKE_START_ERROR">
+            <Text>Не вдалося розпочати підбір гравців</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_LANDING_RELAY_SERVER_ADDRESS_PROMPT">
+            <Text>Адреса релейного сервера:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_REPORT_TITLE">
+            <Text>Повідомити про гру</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_REPORT_BODY">
+            <Text>Ви впевнені, що хочете повідомити про хоста гри та приховати цю гру зі списку?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_JOIN_CODE_TITLE">
+            <Text>Код приєднання</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_JOIN_CODE_PLACEHOLDER">
+            <Text>Введіть код</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_NEW_GAME_TITLE">
+            <Text>НОВА ГРА</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_NEW_GAME_JOIN">
+            <Text>ПРИЄДНАТИСЯ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_NEW_GAME_CREATE">
+            <Text>СТВОРИТИ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_NEW_GAME_ENTER_JOIN_CODE">
+            <Text>Будь ласка, введіть код приєднання:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_STATUS_JOINING">
+            <Text>Приєднання до гри ...</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAY_MODE_TITLE">
+            <Text>ОБЕРІТЬ РЕЖИМ ГРИ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAY_MODE_SUBTITLE">
+            <Text>БАГАТОКОРИСТУВАЦЬКА ГРА</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAY_MODE_ONLINE">
+            <Text>Онлайн</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAY_MODE_ONLINE_DESCRIPTION">
+            <Text>Створіть багатокористувацьку онлайн-гру з друзями або приєднайтеся до автоматичного матчу</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAY_MODE_LOCAL">
+            <Text>Локальна</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAY_MODE_LOCAL_DESCRIPTION">
+            <Text>Створіть локальну гру та запросіть друзів</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_MODE_TITLE">
+            <Text>ОБЕРІТЬ РЕЖИМ ГРИ</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_MODE_SUBTITLE">
+            <Text>БАГАТОКОРИСТУВАЦЬКА ГРА</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_MODE_CREATE_GAME">
+            <Text>Створити гру</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_MODE_CREATE_GAME_DESCRIPTION">
+            <Text>Створіть онлайн-гру та запросіть друзів</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_MODE_AUTOMATCH">
+            <Text>Автоматичний матч</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_MODE_AUTOMATCH_DESCRIPTION">
+            <Text>Автоматичний матч з випадковими гравцями</Text>
+        </Row>
+        <!-- Multiplayer Dialogs -->
+        <Row Tag="LOC_MP_PARENT_PERMISSIONS_TITLE">
+            <Text>Батьківські дозволи</Text>
+        </Row>
+        <Row Tag="LOC_MP_JOIN_PARENT_PERMISSIONS_DISABLED">
+            <Text>Обліковий запис 2K не авторизований, будь ласка, попросіть батьків або опікунів дозволити грати
+                онлайн.
+            </Text>
+        </Row>
+        <Row Tag="LOC_MP_JOINING_GAME_TITLE">
+            <Text>Приєднання до гри</Text>
+        </Row>
+        <Row Tag="LOC_MP_JOINING_GAME_BODY">
+            <Text>Будь ласка, зачекайте . . .</Text>
+        </Row>
+        <Row Tag="LOC_MP_MATCHMAKING_GAME_TITLE">
+            <Text>Пошук лобі</Text>
+        </Row>
+        <Row Tag="LOC_MP_JOINING_ERROR_TITLE">
+            <Text>Помилка приєднання</Text>
+        </Row>
+        <Row Tag="LOC_MP_CREATE_GAME_WAITING_BODY">
+            <Text>Будь ласка, зачекайте . . .</Text>
+        </Row>
+        <Row Tag="LOC_MP_CREATE_GAME_WAITING_TITLE">
+            <Text>Створення гри</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_BUILD_INFO">
+            <Text>Збірка: {1_BuildString}</Text>
+        </Row>
+        <Row Tag="LOC_MP_CANT_PLAY_ONLINE_ERROR_TITLE">
+            <Text>Неможливо грати онлайн</Text>
+        </Row>
+        <!-- Multiplayer Join Game Errors -->
+        <Row Tag="LOC_JOIN_GAME_ROOM_FULL">
+            <Text>Гра заповнена.</Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_SESSION_ERROR">
+            <Text>Спроба приєднатися до гри не вдалася. Будь ласка, перезапустіть гру та спробуйте ще раз.</Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_SESSION_UNEXPECTED">
+            <Text>Неочікуваний стан під час спроби приєднатися до гри. Будь ласка, перезапустіть гру та спробуйте ще
+                раз.
+            </Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_MATCHMAKING_FAILED">
+            <Text>Підбір гравців не вдався. Будь ласка, перезапустіть гру та спробуйте ще раз.</Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_ROOM_UNKNOWN_ERROR">
+            <Text>Неочікувана помилка під час спроби приєднатися до гри. Будь ласка, перезапустіть гру та спробуйте ще
+                раз.
+            </Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_NO_ONLINE_SUB">
+            <Text>Для гри в багатокористувацькому режимі потрібна онлайн-підписка.</Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_JOINCODE_SYNTAX">
+            <Text>Неправильний код приєднання. Перевірте код приєднання та спробуйте ще раз.</Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_JOINCODE_TRANSPORT">
+            <Text>Багатокористувацький режим цього коду приєднання не підтримується.</Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_CONNECTION_REJECTED">
+            <Text>Не вдалося підключитися до хоста гри. Якщо ви використовуєте код приєднання, перевірте його та
+                спробуйте ще раз.
+            </Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_LINK_INCOMPLETE">
+            <Text>Потрібно завершити обліковий запис 2K.</Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_LINK_ACCOUNT">
+            <Text>Потрібно зв'язати обліковий запис 2K.</Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_CHILD_ACCOUNT">
+            <Text>Обліковий запис 2K не авторизований. Будь ласка, попросіть батьків або опікунів дозволити грати
+                онлайн.
+            </Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_BANNED_TITLE">
+            <Text>Користувач заблокований</Text>
+        </Row>
+        <Row Tag="LOC_JOIN_GAME_BANNED_BODY">
+            <Text>Вас заблоковано в багатокористувацькому режимі</Text>
+        </Row>
+        <!-- Create Game -->
+        <Row Tag="LOC_CREATE_GAME_LEADER_SELECT_CATEGORY">
+            <Text>Лідер</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_AGE_CIV_SELECT_CATEGORY">
+            <Text>Епоха та цивілізація</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_GAME_START_CATEGORY">
+            <Text>Підтвердити</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_CIV_UNIQUE_BONUSES_SUBTITLE">
+            <Text>Унікальні одиниці та будівлі</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_AGE_TITLE">
+            <Text>{1_Item} Епоха</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_AGE_UNLOCK_TITLE">
+            <Text>Розблокування епохи</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_NEXT_UNLOCK_TITLE">
+            <Text>Наступний рівень розблокування</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_RECOMMENDED_CHOICE">
+            <Text>Рекомендований вибір!</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_HISTORICAL_CHOICE">
+            <Text>Історичний вибір!</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE">
+            <Text>Географічний вибір!</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_STRATEGIC_CHOICE">
+            <Text>Стратегічний вибір!</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_LEADER_TO_CIV">
+            <Text>з</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_LEADER_TO_AGE">
+            <Text>в</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_ADD_MEMENTO_MINOR">
+            <Text>Додати сувенір</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_ADD_MEMENTO_MAJOR">
+            <Text>Додати сувенір</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_ADD_MEMENTO_UNLOCK">
+            <Text>Розблокувати на рівні {1_Level}</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_UNLOCK_ITEM">
+            <Text>Розблоковано [B]{1_Item}[/B].</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_UNLOCK_ITEM_IN_AGE">
+            <Text>Розблоковано [B]{1_Item} [/B]в [B]{2_Age} [/B]епосі.</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_UNLOCKS_LIST">
+            <Text>Розблоковано наступне:[BLIST]{1_Items}[/LIST]</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_UNLOCKS_LIST_ITEM">
+            <Text>[LI] [B]{1_UnlockName}[/B].</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_UNLOCKS_LIST_ITEM_IN_AGE">
+            <Text>[LI] [B]{1_UnlockName} [/B]в [B]{2_AgeName} [/B]епосі.</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_LEADER_CIV_HISTORIC_BIAS">
+            <Text>[B]{1_LeaderName} [/B]історично пов'язаний з цією цивілізацією.</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_POPUP_TITLE">
+            <Text>2K Магазин</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_POPUP_BODY">
+            <Text>Ви хочете придбати {1_Name}?</Text>
+        </Row>
+        <Row Tag="LOC_CREATE_GAME_BUYABLE">
+            <Text>Виберіть, щоб придбати цього лідера</Text>
+            <Row Tag="LOC_EDIT_MEMENTOS_TITLE">
+                <Text>Select Mementos</Text>
+                <Text>Вибрати сувеніри</Text>
+                <Text>Show All Leader Mementos</Text>
+            </Row>
+            <Text>Показати всі сувеніри лідера</Text>
+        </Row>
+        <Row Tag="LOC_EDIT_MEMENTOS_CANCEL">
+            <Text>{1_LeaderName} Сувеніри</Text>
+            <Row Tag="LOC_EDIT_MEMENTOS_CONFIRM">
+                <Text>Confirm</Text>
+                <Text>Скасувати</Text>
+                <Row Tag="LOC_UI_MP_BROWSER_MISSING_MOD_TOOLTIP">
+                    <Text>Missing Content</Text>
+                    <Text>Підтвердити</Text>
+                    <Text>Game Loading Save</Text>
+                </Row>
+                <Text>Відсутній вміст</Text>
+            </Row>
+            <Row Tag="LOC_UI_MP_BROWSER_SCREEN_SUBTITLE">
+                <Text>Гра завантажує збереження</Text>
+                <Row Tag="LOC_UI_MP_BROWSER_FILTERS">
+                    <Text>Filters</Text>
+                    <Text>Перегляд публічних ігор</Text>
+                    <Text>Refresh</Text>
+                </Row>
+                <Text>Публічні ігри</Text>
+            </Row>
+            <Row Tag="LOC_UI_MP_BROWSER_REFRESH_MESSAGE">
+                <Text>Фільтри</Text>
+                <Row Tag="LOC_GAME_LIST_ERROR_TITLE">
+                    <Text>Game List Update Failed</Text>
+                    <Text>Оновити</Text>
+                    <Text>Game list update failed. Try again later.</Text>
+                </Row>
+                <Text>Код приєднання</Text>
+            </Row>
+            <Row Tag="LOC_LOBBY_ERROR_GENERAL">
+                <Text>Оновлення списку ігор</Text>
+                <Row Tag="LOC_LOBBY_ERROR_NO_ERROR">
+                    <Text>Lobby has no error.</Text>
+                    <Text>Не вдалося оновити список ігор</Text>
+                    <Text>Device removed.</Text>
+                </Row>
+                <Text>Не вдалося оновити список ігор. Спробуйте пізніше.</Text>
+            </Row>
+            <Row Tag="LOC_LOBBY_ERROR_UNKNOWN_ERROR">
+                <Text>Помилка лобі</Text>
+                <Row Tag="LOC_UI_MP_BROWSER_FILTER_GAME_NAME">
+                    <Text>Game Name</Text>
+                    <Text>Лобі зіткнулося з помилкою.</Text>
+                    <Text>Event</Text>
+                </Row>
+                <Text>Лобі не має помилок.</Text>
+            </Row>
+            <Row Tag="LOC_UI_MP_BROWSER_FILTER_MAP_TYPE">
+                <Text>Пристрій видалено.</Text>
+                <Row Tag="LOC_UI_MP_BROWSER_FILTER_GAME_SPEED">
+                    <Text>Game Speed</Text>
+                    <Text>Wi-Fi недоступний.</Text>
+                    <Text>Content</Text>
+                </Row>
+                <Text>Лобі зіткнулося з невідомою помилкою.</Text>
+            </Row>
+            <Row Tag="LOC_UI_MP_BROWSER_JOIN_NAVTRAY">
+                <Text>Назва гри</Text>
+                <Row Tag="LOC_UI_MP_BROWSER_QUICK_JOIN_NAVTRAY">
+                    <Text>Quick Join</Text>
+                    <Text>Подія</Text>
+                    <Text>Load Game</Text>
+                </Row>
+                <Text>Набір правил</Text>
+            </Row>
+            <Row Tag="LOC_UI_MP_BROWSER_TITLE">
+                <Text>Тип карти</Text>
+                <Row Tag="LOC_UI_MP_BROWSER_TITLE_INTERNET">
+                    <Text>Browse Internet Games</Text>
+                    <Text>Швидкість гри</Text>
+                    <Text>Browse LAN Games</Text>
+                </Row>
+                <Text>Вміст</Text>
+            </Row>
+            <Row Tag="LOC_UI_MP_BROWSER_JOIN_GAME">
+                <Text>Гравці</Text>
+                <Row Tag="LOC_UI_MP_BROWSER_QUICK_JOIN">
+                    <Text>Quick Join</Text>
+                    <Text>Приєднатися</Text>
+                    <Text>Load Game</Text>
+                </Row>
+                <Text>Швидке приєднання</Text>
+            </Row>
+            <Row Tag="LOC_UI_MP_BROWSER_ENTER_JOIN_CODE">
+                <Text>Завантажити гру</Text>
+                <Row Tag="LOC_UI_MP_BROWSER_AGE">
+                    <Text>Age: {1_age}</Text>
+                    <Text>Створити гру</Text>
+                    <Text>Rule Set: {1_rule_set}</Text>
+                </Row>
+                <Text>Перегляд ігор</Text>
+            </Row>
+            <Row Tag="LOC_UI_MP_BROWSER_SPEED">
+                <Text>Перегляд інтернет-ігор</Text>
+                <Row Tag="LOC_UI_MP_BROWSER_PLAYERS">
+                    <Text>Players</Text>
+                    <Text>Перегляд ігор у ЛВС</Text>
+                    <Text>Blocked Player's Game</Text>
+                </Row>
+                <Text>Перегляд бездротових ігор</Text>
+            </Row>
+            <!-- Age Transition -->
+            <Text>Приєднатися</Text>
+        </Row>
+        <Row Tag="LOC_AGE_TRANSITION_EDIT_MEMENTOS">
+            <Text>Швидке приєднання</Text>
+            <Row Tag="LOC_AGE_TRANSITION_PLAY_AS">
+                <Text>Play as [B]{1_Requirement}[/B]</Text>
+                <Text>Завантажити гру</Text>
+                <Text>Choose {1_Civilization}</Text>
+            </Row>
+            <Text>Створити гру</Text>
+        </Row>
+        <Row Tag="LOC_AGE_TRANSITION_SCREEN_TITLE">
+            <Text>Введіть код приєднання</Text>
+        </Row>
+        <!-- Multiplayer Create Game -->
+        <Row Tag="LOC_UI_MP_CREATE_GAME_TITLE">
+            <Text>Епоха: {1_age}</Text>
+            <Row Tag="LOC_UI_MP_CREATE_GAME_SUBTITLE">
+                <Text>Create Multiplayer Game</Text>
+                <Text>Набір правил: {1_rule_set}</Text>
+                <Text>Host Lobby</Text>
+            </Row>
+            <Text>Тип карти: {1_map_type}</Text>
+        </Row>
+        <Row Tag="LOC_GROUPID_GAMEOPTIONS">
+            <Text>Швидкість: {1_speed}</Text>
+        </Row>
+        <Row Tag="LOC_GROUPID_ADVANCEDOPTIONS">
+            <Text>Розширені</Text>
+        </Row>
+        <Row Tag="LOC_GROUPID_MAPOPTIONS">
+            <Text>Специфічні для карти</Text>
+        </Row>
+        <!-- Multiplayer Quick Join -->
+        <Row Tag="LOC_UI_MP_QUICK_JOIN_SUBTITLE">
+            <Text>Правила швидкого приєднання</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_QUICK_JOIN_JOIN">
+            <Text>Швидке приєднання</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_QUICK_JOIN_RULE_RULESET">
+            <Text>Набір правил</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_QUICK_JOIN_RULE_AGE">
+            <Text>Початкова епоха</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_QUICK_JOIN_RULE_SPEED">
+            <Text>Швидкість гри</Text>
+        </Row>
+        <!-- Multiplayer Lobby : Game Rules -->
+        <Row Tag="LOC_UI_MP_GAME_RULES_TITLE">
+            <Text>Правила та моди для багатокористувацької гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_HEADER_RULES">
+            <Text>Правила</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_HEADER_MODS">
+            <Text>Моди</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_HOST">
+            <Text>Хост:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_HUMAN_PLAYER_COUNT">
+            <Text>Кількість гравців:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_AI_PLAYER_COUNT">
+            <Text>Кількість гравців з ІІ:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_PRIVATE_GAME">
+            <Text>Приватна гра:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_KICK_VOTING">
+            <Text>Голосування за вигнання:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_TURN_TIMER">
+            <Text>Таймер ходу:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_TURN_TIMER_NONE">
+            <Text>Відсутній</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_TURN_TIMER_STANDARD">
+            <Text>Стандартний</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_TURN_TIMER_DYNAMIC">
+            <Text>Динамічний</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_TURN_MODE">
+            <Text>Режим ходу:</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_TURN_MODE_NONE">
+            <Text>Відсутній</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_TURN_MODE_SINGLEPLAYER">
+            <Text>Одиночна гра</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_TURN_MODE_SIMULTANEOUS">
+            <Text>Одночасний</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_GAME_RULE_STARTING_AGE">
+            <Text>Початкова епоха:</Text>
+        </Row>
+        <!-- Events -->
+        <Row Tag="LOC_UI_EVENTS_RULES">
+            <Text>Правила:</Text>
+        </Row>
+        <Row Tag="LOC_UI_EVENTS_SINGLEPLAYER">
+            <Text>Нова подія гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_CONTINUE_EVENTS">
+            <Text>Продовжити подію гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_LOAD_EVENTS">
+            <Text>Завантажити подію гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_EVENTS_MULTIPLAYER">
+            <Text>Багатокористувацька подія гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_EVENTS_EXIT">
+            <Text>Вийти в головне меню</Text>
+        </Row>
+    </EnglishText>
+</Database>

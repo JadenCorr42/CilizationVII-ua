@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- Controller mapping screen text -->
+		<Row Tag="LOC_UI_CONTROLLER_MAPPING_TITLE">
+			<Text>Управління</Text>
+		</Row>
+		<Row Tag="LOC_UI_CONTROLLER_MAPPING_SUBTITLE">
+			<Text>Переглянути розкладку та змінити будь-яке введення</Text>
+		</Row>
+		<Row Tag="LOC_UI_CONTROLLER_MAPPING_INVERT_STICK">
+			<Text>Поміняти функціонал стіків місцями</Text>
+		</Row>
+		<Row Tag="LOC_UI_CONTROLLER_MAPPING_RESTORE_DEFAULT">
+			<Text>Відновити типові налаштування</Text>
+		</Row>
+		<Row Tag="LOC_UI_CONTROLLER_MAPPING_BIND_TITLE">
+			<Text>Зараз здійснюється переназначення</Text>
+		</Row>
+		<Row Tag="LOC_UI_CONTROLLER_MAPPING_BIND_GESTURE">
+			<Text>Натисніть будь-яку кнопку, щоб призначити цю команду</Text>
+		</Row>
+		<Row Tag="LOC_UI_CONTROLLER_MAPPING_RESET_DEFAULT_TITLE">
+			<Text>Відновити типові налаштування</Text>
+		</Row>
+		<Row Tag="LOC_UI_CONTROLLER_MAPPING_RESET_DEFAULT_BODY">
+			<Text>Ви впевнені, що бажаєте відновити типову розкладку?</Text>
+		</Row>
+		<Row Tag="LOC_UI_CONTROLLER_MAPPING_CONFIRM_CHANGE_TITLE">
+			<Text>Підтвердити зміни</Text>
+		</Row>
+		<Row Tag="LOC_UI_CONTROLLER_MAPPING_CONFIRM_CHANGE_BODY">
+			<Text>Ви впевнені, що бажаєте зберегти цю нову розкладку?</Text>
+		</Row>
+		<!-- Controller button/axis actions for Xbox-style controller -->
+		<Row Tag="LOC_OPTIONS_PAD_A">
+			<Text>A</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_B">
+			<Text>B</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_X">
+			<Text>X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_Y">
+			<Text>Y</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LSHOULDER">
+			<Text>Лівий бампер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTRIGGER">
+			<Text>Лівий тригер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RSHOULDER">
+			<Text>Правий бампер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTRIGGER">
+			<Text>Правий тригер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_RIGHT">
+			<Text>D-pad праворуч</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_LEFT">
+			<Text>D-pad ліворуч</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_UP">
+			<Text>D-pad вгору</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_DOWN">
+			<Text>D-pad вниз</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_START">
+			<Text>Старт</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_BACK">
+			<Text>Назад</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_SHARE">
+			<Text>Поділитися</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTHUMB_AXIS">
+			<Text>Лівий стік</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTHUMB_AXIS">
+			<Text>Правий стік</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS">
+			<Text>Натискання лівого стіка</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS">
+			<Text>Натискання правого стіка</Text>
+		</Row>
+		<!-- Controller button/axis actions for PS-style controller -->
+		<Row Tag="LOC_OPTIONS_PAD_A_PS">
+			<Text>Хрестик</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_B_PS">
+			<Text>Коло</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_X_PS">
+			<Text>Квадрат</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_Y_PS">
+			<Text>Трикутник</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LSHOULDER_PS">
+			<Text>Лівий бампер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTRIGGER_PS">
+			<Text>Лівий тригер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RSHOULDER_PS">
+			<Text>Правий бампер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTRIGGER_PS">
+			<Text>Правий тригер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_RIGHT_PS">
+			<Text>D-pad праворуч</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_LEFT_PS">
+			<Text>D-pad ліворуч</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_UP_PS">
+			<Text>D-pad вгору</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_DOWN_PS">
+			<Text>D-pad вниз</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_START_PS">
+			<Text>Параметри</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_BACK_PS">
+			<Text>Сенсорна панель</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTHUMB_AXIS_PS">
+			<Text>Лівий стік</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTHUMB_AXIS_PS">
+			<Text>Правий стік</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS_PS">
+			<Text>Натискання лівого стіка</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS_PS">
+			<Text>Натискання правого стіка</Text>
+		</Row>
+		<!-- Controller button/axis actions for NX-style controller -->
+		<Row Tag="LOC_OPTIONS_PAD_A_NX">
+			<Text>A</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_B_NX">
+			<Text>B</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_X_NX">
+			<Text>X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_Y_NX">
+			<Text>Y</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LSHOULDER_NX">
+			<Text>Лівий бампер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTRIGGER_NX">
+			<Text>Лівий тригер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RSHOULDER_NX">
+			<Text>Правий бампер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTRIGGER_NX">
+			<Text>Правий тригер</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_RIGHT_NX">
+			<Text>D-pad праворуч</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_LEFT_NX">
+			<Text>D-pad ліворуч</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_UP_NX">
+			<Text>D-pad вгору</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_DOWN_NX">
+			<Text>D-pad вниз</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_START_NX">
+			<Text>Плюс</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_BACK_NX">
+			<Text>Мінус</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTHUMB_AXIS_NX">
+			<Text>Лівий стік</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTHUMB_AXIS_NX">
+			<Text>Правий стік</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS_NX">
+			<Text>Натискання лівого стіка</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS_NX">
+			<Text>Натискання правого стіка</Text>
+		</Row>
+	</EnglishText>
+</Database>

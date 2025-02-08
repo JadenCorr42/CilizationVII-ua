@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is for core multiplayer related text that is used in both the frontend and ingame. -->
+<Database>
+    <EnglishText>
+        <!-- Multiplayer Game Abandoned Popup -->
+        <Row Tag="LOC_GAME_ABANDONED_KICKED">
+            <Text>Вас було виключено з гри.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_KICKED_TITLE">
+            <Text>Виключено!</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
+            <Text>З'єднання з хостом втрачено.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_HOST_LOSTED_TITLE">
+            <Text>З'єднання з хостом втрачено</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_ROOM_FULL">
+            <Text>Гра досягла максимальної кількості гравців.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_ROOM_FULL_TITLE">
+            <Text>Гра повна</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
+            <Text>Версія не співпадає з хостом.[N]Наша версія={1_localVersion}[N]Версія хоста={2_remoteVersion}</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE">
+            <Text>Невідповідність версій</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_MOD_ERROR">
+            <Text>Не вдалося застосувати додатковий контент.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_MOD_ERROR_TITLE">
+            <Text>Помилка моду</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_MOD_MISSING">
+            <Text>Потрібен додатковий контент, який або не придбано, або не встановлено.[N]Контент:[N]</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_MOD_MISSING_TITLE">
+            <Text>Відсутній мод</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
+            <Text>Steam Workshop відмовив у доступі до необхідного додаткового контенту.[N]Контент:[N]</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
+            <Text>Ця гра вимагає додаткового контенту, який не встановлено. Автоматичне завантаження додаткового
+                контенту наразі вимкнено. Автоматичні завантаження можна увімкнути в меню налаштувань.[N]Контент:[N]
+            </Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
+            <Text>З'єднання з мережею втрачено.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_CONNECTION_LOST_TITLE">
+            <Text>Відключено</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
+            <Text>Помилка приєднання до сесії мультиплеєра.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_JOIN_FAILED_TITLE">
+            <Text>Не вдалося приєднатися</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_MATCH_DELETED">
+            <Text>Хост видалив гру.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_MATCH_DELETED_TITLE">
+            <Text>Гру видалено</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_GAME_STARTED">
+            <Text>Ви не можете приєднатися до цієї гри. Вона вже розпочата.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_GAME_STARTED_TITLE">
+            <Text>Гра в процесі</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_TOO_MANY_MATCHES">
+            <Text>Ви зараз у занадто багатьох іграх мультиплеєра. Завершіть або вийдіть з існуючих ігор, перш ніж
+                спробувати знову.
+            </Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_TOO_MANY_MATCHES_TITLE">
+            <Text>Занадто багато ігор</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_APP_SLEPT">
+            <Text>З'єднання з мережею втрачено через режим сну.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_APP_SLEPT_TITLE">
+            <Text>Відключено</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_LOBBY_CONNECT">
+            <Text>Не вдалося підключитися до лобі гри.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_LOBBY_CONNECT_TITLE">
+            <Text>Помилка підключення до лобі</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_KICK_PLATFORM_MAPSIZE">
+            <Text>Ви не можете приєднатися до цієї гри. Розмір карти не сумісний з цією платформою.</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_KICK_PLATFORM_MAPSIZE_TITLE">
+            <Text>Розмір карти не підтримується</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_CROSSPLAY_DISABLED_HOST">
+            <Text>Ви не можете приєднатися до цієї гри. Вона має вимкнений Crossplay і хостується на іншій платформі.
+            </Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_CROSSPLAY_DISABLED_HOST_TITLE">
+            <Text>Crossplay Mismatch</Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_CROSSPLAY_DISABLED_CLIENT">
+            <Text>Ви не можете приєднатися до ігор з Crossplay, поки Crossplay вимкнено. Ви можете увімкнути Crossplay в
+                меню налаштувань.
+            </Text>
+        </Row>
+        <Row Tag="LOC_GAME_ABANDONED_CROSSPLAY_DISABLED_CLIENT_TITLE">
+            <Text>Crossplay вимкнено</Text>
+        </Row>
+        <Row Tag="LOC_SLOTTYPE_HUMANREQ">
+            <Text>Потрібен гравець</Text>
+        </Row>
+        <Row Tag="LOC_SLOTTYPE_OPEN">
+            <Text>Відкрито</Text>
+        </Row>
+        <Row Tag="LOC_SLOTTYPE_AI">
+            <Text>ШІ</Text>
+        </Row>
+        <Row Tag="LOC_SLOTTYPE_CLOSED">
+            <Text>Закрито</Text>
+        </Row>
+        <Row Tag="LOC_RANDOM_LEADER">
+            <Text>Випадковий лідер</Text>
+        </Row>
+
+        <!-- Kick -->
+
+        <Row Tag="LOC_KICK_DIALOG_TITLE">
+            <Text>Вигнати гравця?</Text>
+        </Row>
+        <Row Tag="LOC_DIRECT_KICK_CONFIRM_DIALOG">
+            <Text>Ви впевнені, що хочете негайно вигнати {1_kickPlayerName} з гри?</Text>
+        </Row>
+        <Row Tag="LOC_KICK_VOTE_CONFIRM_DIALOG">
+            <Text>Ви впевнені, що хочете вигнати {1_kickPlayerName} з гри? Буде розпочато голосування.</Text>
+        </Row>
+        <Row Tag="LOC_KICK_VOTE_CHOICE_DIALOG">
+            <Text>{2_kickerPlayerName} розпочав голосування проти {1_kickPlayerName}.[N]Ви хочете вигнати
+                {1_kickPlayerName} з гри?
+            </Text>
+        </Row>
+        <Row Tag="LOC_KICK_DIALOG_TIMEOUT">
+            <Text>Ви повинні зачекати принаймні 30 секунд між початком голосувань за вигнання.</Text>
+        </Row>
+
+        <!-- Mute -->
+        <Row Tag="LOC_MUTE_DIALOG_TITLE">
+            <Text>Заглушити гравця?</Text>
+        </Row>
+        <Row Tag="LOC_DIRECT_MUTE_CONFIRM_DIALOG">
+            <Text>Ви впевнені, що хочете заглушити {1_mutePlayerName}?</Text>
+        </Row>
+
+        <Row Tag="LOC_UNMUTE_DIALOG_TITLE">
+            <Text>Відновити звук гравця?</Text>
+        </Row>
+        <Row Tag="LOC_DIRECT_UNMUTE_CONFIRM_DIALOG">
+            <Text>Ви впевнені, що хочете відновити звук для {1_unmutePlayerName}?</Text>
+        </Row>
+
+        <!-- Game Listings -->
+        <Row Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
+            <Text>Гра {1_PlayerName}</Text>
+        </Row>
+
+        <!-- Chat Panel -->
+        <Row Tag="LOC_CHAT_GLOBAL">
+            <Text>Глобальний</Text>
+        </Row>
+        <Row Tag="LOC_CHAT_TEAM">
+            <Text>Команда</Text>
+        </Row>
+
+        <!-- Chat Panel -->
+
+        <Row Tag="LOC_PLATFORM_ICON_GENERIC_CROSSPLAY">
+            <Text>Платформа Crossplay</Text>
+        </Row>
+        <Row Tag="LOC_PLATFORM_ICON_STEAM">
+            <Text>Steam</Text>
+        </Row>
+        <Row Tag="LOC_PLATFORM_ICON_EOS">
+            <Text>Epic Games Store</Text>
+        </Row>
+        <Row Tag="LOC_PLATFORM_ICON_T2GP">
+            <Text>Take-Two</Text>
+        </Row>
+        <Row Tag="LOC_PLATFORM_ICON_GAMECENTER">
+            <Text>Nintendo Switch</Text>
+        </Row>
+        <Row Tag="LOC_PLATFORM_ICON_NX">
+            <Text>Nintendo Switch</Text>
+        </Row>
+        <Row Tag="LOC_PLATFORM_ICON_XBOX">
+            <Text>Xbox</Text>
+        </Row>
+        <Row Tag="LOC_PLATFORM_ICON_PLAYSTATION">
+            <Text>PlayStation</Text>
+        </Row>
+
+        <!-- Report Abuse -->
+        <Row Tag="LOC_UI_MP_REPORT_PLAYER_TITLE">
+            <Text>Поскаржитися на гравця</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_REPORT_PLAYER_BODY">
+            <Text>Як цей гравець поводиться образливо?</Text>
+        </Row>
+        <Row Tag="LOC_ABUSE_REPORT_FOUL_LANGUAGE">
+            <Text>Нецензурна лексика</Text>
+        </Row>
+        <Row Tag="LOC_ABUSE_REPORT_FOUL_LANGUAGE_TOOLTIP">
+            <Text>Гравець використовує неналежну лексику.</Text>
+        </Row>
+        <Row Tag="LOC_ABUSE_REPORT_CHEATING">
+            <Text>Шахрайство</Text>
+        </Row>
+        <Row Tag="LOC_ABUSE_REPORT_CHEATING_TOOLTIP">
+            <Text>Гравець шахраює.</Text>
+        </Row>
+        <Row Tag="LOC_ABUSE_REPORT_BAD_REMARKS">
+            <Text>Погані зауваження</Text>
+        </Row>
+        <Row Tag="LOC_ABUSE_REPORT_BAD_REMARKS_TOOLTIP">
+            <Text>Гравець робить провокаційні зауваження.</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_REPORT_FEEDBACK_REPORTED">
+            <Text>Ви поскаржилися на {1_PlayerName}</Text>
+        </Row>
+
+        <!-- Multiplayer : Friends -->
+        <Row Tag="LOC_UI_MP_FRIENDS_FRIENDS_LIST">
+            <Text>Друзі</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_UNBLOCK_LIST">
+            <Text>Заблокувати</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_RECENT_LIST">
+            <Text>Нещодавні</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_SEARCH_LIST">
+            <Text>Пошук</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_LOBBY_LIST">
+            <Text>Лобі</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_SEARCH_RESULTS_LIST">
+            <Text>Результати пошуку</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_NOTIFICATIONS_LIST">
+            <Text>Сповіщення</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_NO_RESULTS">
+            <Text>У вашому списку {1_ListType} немає нікого.</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_LOBBY_MULTIPLYER_REMINDER">
+            <Text>Вам потрібно бути в режимі мультиплеєра</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_SEARCHING">
+            <Text>Пошук...</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_TITLE_INVITE">
+            <Text>Запросити друзів</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_TITLE_UNBLOCK">
+            <Text>Список блокувань</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_TITLE_RECENT">
+            <Text>Нещодавні</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_TITLE_SEARCH">
+            <Text>Результати пошуку</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_TAB_INVITE">
+            <Text>Друзі</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_TAB_UNBLOCK">
+            <Text>Список блокувань</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_TAB_RECENT">
+            <Text>Нещодавні</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_TAB_SEARCH">
+            <Text>Результати пошуку</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_TAB_LOBBY">
+            <Text>Лобі</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_TAB_NOTIFICATIONS">
+            <Text>Сповіщення</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_ACTION_NOTIFICATIONS_RECEIVED">
+            <Text>Дія отримана</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_ACTION_NOTIFICATIONS_SENT">
+            <Text>Дія надіслана</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_ACTION_INVITE">
+            <Text>Надіслати запрошення</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_ACTION_INVITED">
+            <Text>Запрошення надіслано</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_ACTION_UNBLOCK">
+            <Text>Розблокувати</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_ACTION_ADD_FRIEND">
+            <Text>Додати друга</Text>
+        </Row>
+        <Row Tag="LOC_UI_FRIENDS_SEARCH_FIELD">
+            <Text>Введіть ім'я користувача 2K Friend</Text>
+        </Row>
+        <Row Tag="LOC_UI_FRIENDS_OPEN_SEARCH">
+            <Text>Знайти друзів 2K</Text>
+        </Row>
+        <Row Tag="LOC_UI_FRIENDS_OPEN_SEARCH_TITLE">
+            <Text>Знайти гравця 2K</Text>
+        </Row>
+        <Row Tag="LOC_UI_FRIENDS_SEARCH">
+            <Text>Пошук</Text>
+        </Row>
+        <Row Tag="LOC_UI_FRIENDS_SEARCH_TITLE">
+            <Text>Знайти друзів 2K</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_INVITE_TITLE">
+            <Text>Гравця запрошено</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_INVITE">
+            <Text>Ви запросили {1_PlayerName}</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_BLOCK">
+            <Text>Ви заблокували {1_PlayerName}</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_UNBLOCK_TITLE">
+            <Text>Гравця розблоковано</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_UNBLOCK">
+            <Text>Ви розблокували {1_PlayerName}</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_INVITE_TO_JOIN_TITLE">
+            <Text>Запит на запрошення до гри надіслано</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_INVITE_TO_JOIN">
+            <Text>Ви надіслали запит на запрошення до гри {1_PlayerName}</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_ADD_FRIEND_TITLE">
+            <Text>Запит на додавання в друзі надіслано</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_ADD_FRIEND">
+            <Text>Ви надіслали запит на додавання в друзі {1_PlayerName}</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_REMOVE_FRIEND">
+            <Text>Ви видалили {1_PlayerName} зі списку друзів</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_ACCEPT_FRIEND">
+            <Text>Ви тепер друзі з {1_PlayerName}</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_FEEDBACK_DECLINE_FREIND">
+            <Text>Ви відхилили запит на додавання в друзі від {1_PlayerName}</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_BLOCK_TITLE">
+            <Text>Заблокувати гравця</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_BLOCK">
+            <Text>Ви впевнені, що хочете заблокувати {1_PlayerName}?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_UNBLOCK_TITLE">
+            <Text>Розблокувати гравця</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_UNBLOCK">
+            <Text>Ви впевнені, що хочете розблокувати {1_PlayerName}?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_GAME_INVITE_TITLE">
+            <Text>Надіслати запрошення до гри?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_GAME_INVITE">
+            <Text>Ви впевнені, що хочете надіслати запрошення до гри {1_PlayerName}?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_REQUEST">
+            <Text>Ви впевнені, що хочете надіслати запит на додавання в друзі {1_PlayerName}?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_REQUEST_TITLE">
+            <Text>Надіслати запит на додавання в друзі?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_CANCEL_REQUEST">
+            <Text>Ви впевнені, що хочете скасувати запит на додавання в друзі {1_PlayerName}?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_ACCEPT_REQUEST">
+            <Text>Ви впевнені, що хочете прийняти запит на додавання в друзі від {1_PlayerName}?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_DECLINE_REQUEST">
+            <Text>Ви впевнені, що хочете відхилити запит на додавання в друзі від {1_PlayerName}?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_CANCEL_REQUEST_TITLE">
+            <Text>Скасувати запит на додавання в друзі?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_ACCEPT_REQUEST_TITLE">
+            <Text>Прийняти запит на додавання в друзі?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_DECLINE_REQUEST_TITLE">
+            <Text>Відхилити запит на додавання в друзі?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_REMOVE_FRIEND_TITLE">
+            <Text>Видалити друга?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_REMOVE_FRIEND">
+            <Text>Ви впевнені, що хочете видалити друга {1_PlayerName}?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_ACCEPT_INVITE_TITLE">
+            <Text>Прийняти запит на запрошення до гри?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_ACCEPT_INVITE">
+            <Text>Ви впевнені, що хочете прийняти запрошення до гри від {1_PlayerName}?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_DECLINE_INVITE_TITLE">
+            <Text>Відхилити запит на запрошення до гри?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_CONFIRM_DECLINE_INVITE">
+            <Text>Ви впевнені, що хочете відхилити запрошення до гри від {1_PlayerName}?</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_2K_HEART_TOOLTIP">
+            <Text>Ви друзі в 2K</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_FRIENDS_HEART_TOOLTIP">
+            <Text>Ви друзі</Text>
+        </Row>
+        <!-- Multiplayer Lobby : Player Options -->
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_ADD_PLAT_FRIEND">
+            <Text>Додати друга</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_VIEW_PROFILE">
+            <Text>Переглянути профіль</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_INVITE_FRIEND">
+            <Text>Запросити до гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_ADD_T2GP_FRIEND">
+            <Text>Додати друга</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_REMOVE_FRIEND">
+            <Text>Видалити друга</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_CANCEL_T2GP_FRIEND_REQUEST">
+            <Text>Скасувати запит на додавання в друзі</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_ACCEPT_T2GP_FRIEND_REQUEST">
+            <Text>Прийняти запит на додавання в друзі</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_DECLINE_T2GP_FRIEND_REQUEST">
+            <Text>Відхилити запит на додавання в друзі</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_ACCEPT_T2GP_GAME_INVITE_REQUEST">
+            <Text>Прийняти запрошення до гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_DECLINE_T2GP_GAME_INVITE_REQUEST">
+            <Text>Відхилити запрошення до гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_REPORT">
+            <Text>Поскаржитися</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_BLOCK">
+            <Text>Заблокувати</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_UNBLOCK">
+            <Text>Розблокувати</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_KICK">
+            <Text>Вигнати</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_MUTE">
+            <Text>Заглушити</Text>
+        </Row>
+        <Row Tag="LOC_UI_MP_PLAYER_OPTIONS_UNMUTE">
+            <Text>Відновити звук</Text>
+        </Row>
+        <Row Tag="LOC_UI_ALREADY_FRIEND">
+            <Text>{1_PlayerName} вже у вашому списку друзів</Text>
+        </Row>
+    </EnglishText>
+</Database>

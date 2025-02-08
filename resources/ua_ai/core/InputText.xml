@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <EnglishText>
+        <Row Tag="LOC_ACCEPT">
+            <Text>Прийняти</Text>
+        </Row>
+        <Row Tag="LOC_XR_CONTROLLER_TRIGGER_ACCEPT">
+            <Text>Прийняти</Text>
+        </Row>
+        <Row Tag="LOC_ACCEPT_HELP">
+            <Text>Вибрати або прийняти елемент</Text>
+        </Row>
+        <Row Tag="LOC_CANCEL">
+            <Text>Скасувати</Text>
+        </Row>
+        <Row Tag="LOC_CANCEL_HELP">
+            <Text>Вийти з екрану або скасувати елемент</Text>
+        </Row>
+        <Row Tag="LOC_NAV_SELECT">
+            <Text>Вибрати</Text>
+        </Row>
+        <Row Tag="LOC_NAV_PAN">
+            <Text>Огляд</Text>
+        </Row>
+        <Row Tag="LOC_NAV_MOVE_CURSOR">
+            <Text>Перемістити курсор на мапі</Text>
+        </Row>
+        <Row Tag="LOC_NAV_RADIAL_MENU">
+            <Text>Радіальне меню</Text>
+        </Row>
+        <Row Tag="LOC_NAV_UP">
+            <Text>Вгору</Text>
+        </Row>
+        <Row Tag="LOC_NAV_UP_HELP">
+            <Text>Переміщення вгору</Text>
+        </Row>
+        <Row Tag="LOC_NAV_DOWN">
+            <Text>Вниз</Text>
+        </Row>
+        <Row Tag="LOC_NAV_DOWN_HELP">
+            <Text>Переміщення вниз</Text>
+        </Row>
+        <Row Tag="LOC_NAV_LEFT">
+            <Text>Ліворуч</Text>
+        </Row>
+        <Row Tag="LOC_NAV_LEFT_HELP">
+            <Text>Переміщення ліворуч</Text>
+        </Row>
+        <Row Tag="LOC_NAV_RIGHT">
+            <Text>Праворуч</Text>
+        </Row>
+        <Row Tag="LOC_NAV_RIGHT_HELP">
+            <Text>Переміщення праворуч</Text>
+        </Row>
+        <Row Tag="LOC_CAMERA_PAN">
+            <Text>Переміщення камери</Text>
+        </Row>
+        <Row Tag="LOC_CAMERA_PAN_HELP">
+            <Text>Переміщення камери у світі</Text>
+        </Row>
+        <Row Tag="LOC_MOVE_CURSOR">
+            <Text>Навігація</Text>
+        </Row>
+        <Row Tag="LOC_MOVE_CURSOR_HELP">
+            <Text>Переміщення між елементами меню</Text>
+        </Row>
+        <Row Tag="LOC_TARGET">
+            <Text>Ціль</Text>
+        </Row>
+        <Row Tag="LOC_NEXT_ACTION">
+            <Text>Наступний хід</Text>
+        </Row>
+        <Row Tag="LOC_NEXT_ACTION_HELP">
+            <Text>Наступний хід</Text>
+        </Row>
+        <Row Tag="LOC_SWAP_PLOT_SELECTION">
+            <Text>Обмін ділянками</Text>
+        </Row>
+        <Row Tag="LOC_SWAP_PLOT_SELECTION_HELP">
+            <Text>Обмін вибраних елементів на одній ділянці</Text>
+        </Row>
+        <Row Tag="LOC_PREVIOUS_SELECT">
+            <Text>Попередній вибір</Text>
+        </Row>
+        <Row Tag="LOC_NEXT_SELECT">
+            <Text>Наступний вибір</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_PREVIOUS">
+            <Text>Попер. другорядне</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_PREVIOUS_HELP">
+            <Text>Попередня другорядна вкладка</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_NEXT">
+            <Text>Наступ. другорядне</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_NEXT_HELP">
+            <Text>Наступна другорядна вкладка</Text>
+        </Row>
+        <Row Tag="LOC_CAMERA_ZOOM_OUT">
+            <Text>Віддалити</Text>
+        </Row>
+        <Row Tag="LOC_CAMERA_ZOOM_OUT_HELP">
+            <Text>Віддалити мапу</Text>
+        </Row>
+        <Row Tag="LOC_CAMERA_ZOOM_IN">
+            <Text>Наблизити</Text>
+        </Row>
+        <Row Tag="LOC_CAMERA_ZOOM_IN_HELP">
+            <Text>Наблизити мапу</Text>
+        </Row>
+        <Row Tag="LOC_FOCUS_PLOT_CURSOR">
+            <Text>Фокус на курсорі</Text>
+        </Row>
+        <Row Tag="LOC_FOCUS_PLOT_CURSOR_HELP">
+            <Text>Фокус на вибраній ділянці</Text>
+        </Row>
+        <Row Tag="LOC_SYSTEM_BACK">
+            <Text>Системне повернення</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_DIPLO">
+            <Text>Лідерські стрічки</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_DIPLO_HELP">
+            <Text>Згорнути або розгорнути стрічки лідерів</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_CHAT">
+            <Text>Чат</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_CHAT_HELP">
+            <Text>Відкрити або закрити вікно чату</Text>
+        </Row>
+        <Row Tag="LOC_SYSTEM_MENU">
+            <Text>Меню паузи</Text>
+        </Row>
+        <Row Tag="LOC_SYSTEM_MENU_HELP">
+            <Text>Відкрити меню паузи</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_MOUSE_EMULATE">
+            <Text>Перемикання емуляції миші</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_TOOLTIP">
+            <Text>Підказки ділянки</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_TOOLTIP_HELP">
+            <Text>Увімкнути або вимкнути підказки ділянки</Text>
+        </Row>
+        <Row Tag="LOC_SCROLL_BOTTOM">
+            <Text>Прокрутити вниз</Text>
+        </Row>
+        <Row Tag="LOC_OPEN_CULTURE_TREE">
+            <Text>Відкрити дерево культури</Text>
+        </Row>
+        <Row Tag="LOC_OPEN_TECH_TREE">
+            <Text>Відкрити дерево технологій</Text>
+        </Row>
+        <Row Tag="LOC_KEYBOARD_CAMERA_MODIFIER">
+            <Text>Модифікатор камери</Text>
+        </Row>
+        <Row Tag="LOC_KEYBOARD_ENTER">
+            <Text>Клавіша Enter</Text>
+        </Row>
+        <Row Tag="LOC_KEYBOARD_ESCAPE">
+            <Text>Клавіша Escape</Text>
+        </Row>
+        <Row Tag="LOC_KEYBOARD_LEFT">
+            <Text>Клавіша Вліво</Text>
+        </Row>
+        <Row Tag="LOC_KEYBOARD_RIGHT">
+            <Text>Клавіша Вправо</Text>
+        </Row>
+        <Row Tag="LOC_KEYBOARD_UP">
+            <Text>Клавіша Вгору</Text>
+        </Row>
+        <Row Tag="LOC_KEYBOARD_DOWN">
+            <Text>Клавіша Вниз</Text>
+        </Row>
+        <Row Tag="LOC_KEYBOARD_SHIFT">
+            <Text>Shift</Text>
+        </Row>
+        <Row Tag="LOC_KEYBOARD_ALT">
+            <Text>ALT</Text>
+        </Row>
+        <Row Tag="LOC_KEYBOARD_CTRL">
+            <Text>Control</Text>
+        </Row>
+        <Row Tag="LOC_MOUSE_BUTTON_LEFT">
+            <Text>Ліва кнопка миші</Text>
+        </Row>
+        <Row Tag="LOC_MOUSE_BUTTON_MIDDLE">
+            <Text>Середня кнопка миші</Text>
+        </Row>
+        <Row Tag="LOC_MOUSE_BUTTON_RIGHT">
+            <Text>Права кнопка миші</Text>
+        </Row>
+        <Row Tag="LOC_MOUSE_BUTTON_X1">
+            <Text>Кнопка миші X1</Text>
+        </Row>
+        <Row Tag="LOC_MOUSE_BUTTON_X2">
+            <Text>Кнопка миші X2</Text>
+        </Row>
+        <Row Tag="LOC_MOUSE_SCROLLWHEEL_UP">
+            <Text>Прокрутка вгору</Text>
+        </Row>
+        <Row Tag="LOC_MOUSE_SCROLLWHEEL_DOWN">
+            <Text>Прокрутка вниз</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_SHELL">
+            <Text>Консоль</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_WORLD">
+            <Text>Світ</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_UNIT">
+            <Text>Юніт</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_CITY">
+            <Text>Місто</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_PANEL">
+            <Text>Панель</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_PLACEMENT">
+            <Text>Розміщення</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_DIPLOMACY">
+            <Text>Дипломатія</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_DIAL">
+            <Text>Вибірник</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_WORLD_BUILDER">
+            <Text>Редактор світу</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_HUD">
+            <Text>Інтерфейс (HUD)</Text>
+        </Row>
+        <Row Tag="LOC_INPUT_CONTEXT_RADIAL_MENU">
+            <Text>Радіальне меню</Text>
+        </Row>
+        <Row Tag="LOC_NAV_RADIAL_BEAM">
+            <Text>Перемістити промені</Text>
+        </Row>
+        <Row Tag="LOC_NAV_NEXT">
+            <Text>Далі</Text>
+        </Row>
+        <Row Tag="LOC_NAV_NEXT_HELP">
+            <Text>Наступна вкладка</Text>
+        </Row>
+        <Row Tag="LOC_NAV_PREVIOUS">
+            <Text>Попереднє</Text>
+        </Row>
+        <Row Tag="LOC_NAV_PREVIOUS_HELP">
+            <Text>Попередня вкладка</Text>
+        </Row>
+        <Row Tag="LOC_NAVIGATE_YIELDS">
+            <Text>Ресурси</Text>
+        </Row>
+        <Row Tag="LOC_NAVIGATE_YIELDS_HELP">
+            <Text>Відкрити огляд ресурсів</Text>
+        </Row>
+        <Row Tag="LOC_NOTIFICATION">
+            <Text>Сповіщення</Text>
+        </Row>
+        <Row Tag="LOC_NOTIFICATION_HELP">
+            <Text>Відкрити сповіщення HUD</Text>
+        </Row>
+        <Row Tag="LOC_PLOT_MOVE">
+            <Text>Навігація</Text>
+        </Row>
+        <Row Tag="LOC_PLOT_MOVE_HELP">
+            <Text>Переміщати виділення по карті</Text>
+        </Row>
+        <Row Tag="LOC_SCROLL_PAN">
+            <Text>Прокрутка</Text>
+        </Row>
+        <Row Tag="LOC_SCROLL_PAN_HELP">
+            <Text>Прокручувати списки</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_ACTION_1">
+            <Text>Взаємодія 1</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_ACTION_1_HELP">
+            <Text>Особлива взаємодія 1, унікальна для кожного екрану</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_ACTION_2">
+            <Text>Взаємодія 2</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_ACTION_2_HELP">
+            <Text>Особлива взаємодія 2, унікальна для кожного екрану</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_ACTION_3">
+            <Text>Взаємодія 3</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_ACTION_3_HELP">
+            <Text>Особлива взаємодія 3, унікальна для кожного екрану</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_ACTION_4">
+            <Text>Підказки</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_ACTION_4_HELP">
+            <Text>Перемикання підказок для елементів</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_ACTION_5">
+            <Text>Соціальна панель</Text>
+        </Row>
+        <Row Tag="LOC_SHELL_ACTION_5_HELP">
+            <Text>Відкрити соціальну панель</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_QUEST">
+            <Text>Завдання</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_QUEST_HELP">
+            <Text>Згорнути або розгорнути завдання</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_RADIAL_MENU">
+            <Text>Радіальне меню</Text>
+        </Row>
+        <Row Tag="LOC_TOGGLE_RADIAL_MENU_HELP">
+            <Text>Відкрити радіальне меню</Text>
+        </Row>
+        <Row Tag="LOC_OPEN_LENS_PANEL">
+            <Text>Опції карти</Text>
+        </Row>
+        <Row Tag="LOC_OPEN_LENS_PANEL_HELP">
+            <Text>Відкрити опції карти</Text>
+        </Row>
+        <Row Tag="LOC_GESTURE_THUMB_AXIS">
+            <Text>Дії за допомогою джойстиків</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_HEADER">
+            <Text>Призначення клавіш</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CITY_HEADER">
+            <Text>Перегляд міста</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_DIPLOMACY_HEADER">
+            <Text>Перегляд дипломатії</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_MENUS_HEADER">
+            <Text>Меню</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_WORLD_HEADER">
+            <Text>Перегляд світу</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_DESCRIPTION_1">
+            <Text>Перегляд призначення клавіш і переназначення вводу</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_DESCRIPTION_2">
+            <Text>Перегляд і переназначення клавіш та кнопок миші</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_SAVE">
+            <Text>Зберегти</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_RESET_DEFAULT_TITLE">
+            <Text>Відновити стандартні</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_BACK">
+            <Text>Назад</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_BIND_TITLE">
+            <Text>Наразі змінюється</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_BIND_GESTURE">
+            <Text>Натисніть будь-яку клавішу для зміни команди</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_GLOBAL_ACTIONS">
+            <Text>Глобальні дії</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_QUICK_LOAD">
+            <Text>Швидке завантаження</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_QUICK_LOAD_TT">
+            <Text>Завантажує останнє швидке збереження, якщо воно існує</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_QUICK_SAVE">
+            <Text>Швидке збереження</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_QUICK_SAVE_TT">
+            <Text>Виконує швидке збереження</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CAPITAL_CITY">
+            <Text>Столиця</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CAPITAL_CITY_TT">
+            <Text>Перемикає фокус на столицю</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_GRID">
+            <Text>Перемикання сітки</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_GRID_TT">
+            <Text>Перемикає сітку на місцевості</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_RESOURCE_ICONS">
+            <Text>Перемикання ікон ресурсів</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_RESOURCE_ICONS_TT">
+            <Text>Перемикає видимість ікон ресурсів</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_YIELD_ICONS">
+            <Text>Перемикання ікон прибутків</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_YIELD_ICONS_TT">
+            <Text>Перемикає видимість ікон прибутків</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_NEXT_CITY">
+            <Text>Наступне місто</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_NEXT_CITY_TT">
+            <Text>Перемикається на наступне місто</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_PREVIOUS_CITY">
+            <Text>Попереднє місто</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_PREVIOUS_CITY_TT">
+            <Text>Перемикається на попереднє місто</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_NEXT_READY_UNIT">
+            <Text>Наступний готовий юніт</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_NEXT_READY_UNIT_TT">
+            <Text>Перемикається на наступний готовий юніт</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_PREVIOUS_READY_UNIT">
+            <Text>Попередній готовий юніт</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_PREVIOUS_READY_UNIT_TT">
+            <Text>Перемикається на попередній готовий юніт</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_ACCEPT">
+            <Text>Прийняти</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CANCEL">
+            <Text>Скасувати</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_UP">
+            <Text>Камера вгору</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_UP_TT">
+            <Text>Переміщує камеру вгору</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_DOWN">
+            <Text>Камера вниз</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_DOWN_TT">
+            <Text>Переміщує камеру вниз</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_LEFT">
+            <Text>Камера вліво</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_LEFT_TT">
+            <Text>Переміщує камеру вліво</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_RIGHT">
+            <Text>Камера вправо</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CAMERA_PAN_RIGHT_TT">
+            <Text>Переміщує камеру вправо</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_IN_GAME_MENU">
+            <Text>Меню гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_IN_GAME_MENU_TT">
+            <Text>Відкрити меню гри</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_NEXT_ACTION">
+            <Text>Наступна дія</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_NEXT_ACTION_TT">
+            <Text>Виконує наступну дію або завершує хід гравця, якщо можливо</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_LENSES">
+            <Text>Лінзи</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_CONTINENT">
+            <Text>Континент</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_CONTINENT_TT">
+            <Text>Перемикає лінзу континентів</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_RELIGION">
+            <Text>Релігія</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_RELIGION_TT">
+            <Text>Перемикає лінзу релігії</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_SETTLER">
+            <Text>Колоніст</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_SETTLER_TT">
+            <Text>Перемикає лінзу колоніста</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_TRADE">
+            <Text>Торгівля</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_LENS_TRADE_TT">
+            <Text>Перемикає лінзу торгівлі</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_PAUSE_ONLINE_GAME">
+            <Text>Пауза в онлайн-грі</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_PAUSE_ONLINE_GAME_TT">
+            <Text>Призупиняє онлайн-гру</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_ACTIONS">
+            <Text>Дії юніта</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_AND_CITY_ACTIONS">
+            <Text>Дії юніта і міста</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_ALERT">
+            <Text>Тривога</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_ALERT_TT">
+            <Text>Активує режим тривоги для вибраного юніта</Text>
+        </Row>
+        <Row Tag="LOC_UI_TEXT_TO_SPEECH_KEYBOARD">
+            <Text>Текст у мовлення (Курсор миші)</Text>
+        </Row>
+        <Row Tag="LOC_UI_TEXT_TO_SPEECH_KEYBOARD_TT">
+            <Text>Озвучує текст під курсором миші, якщо підтримується платформою</Text>
+        </Row>
+        <Row Tag="LOC_UI_TEXT_TO_SPEECH_CONTROLLER">
+            <Text>Текст у мовлення (Фокус контролера)</Text>
+        </Row>
+        <Row Tag="LOC_UI_TEXT_TO_SPEECH_CONTROLLER_TT">
+            <Text>Озвучує текст у фокусі контролера, якщо підтримується платформою</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_ATTACK">
+            <Text>Атака</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_ATTACK_TT">
+            <Text>Виконує атаку вибраним юнітом</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_AUTOMATE_EXPLORATION">
+            <Text>Автоматична розвідка</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_AUTOMATE_EXPLORATION_TT">
+            <Text>Активує автоматичну розвідку для вибраного юніта</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_DELETE">
+            <Text>Видалити юніт</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_DELETE_TT">
+            <Text>Видаляє вибраний юніт</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_FORTIFIED_HEAL">
+            <Text>Укріплення та відновлення</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_FORTIFIED_HEAL_TT">
+            <Text>Укріплює юніт до повного відновлення</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_FORTIFY">
+            <Text>Укріпитися</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_FORTIFY_TT">
+            <Text>Укріплює вибраний юніт</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_FOUND_CITY">
+            <Text>Заснувати місто</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_FOUND_CITY_TT">
+            <Text>Засновує місто, якщо вибраний юніт – колоніст</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_MOVE_TO">
+            <Text>Переміститися</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_MOVE_TO_TT">
+            <Text>Переміщує вибраний юніт</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_RANGED_ATTACK">
+            <Text>Далекобійна атака</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_RANGED_ATTACK_TT">
+            <Text>Виконує далекобійну атаку вибраним юнітом</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_SKIP_TURN">
+            <Text>Пропустити хід</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_SKIP_TURN_TT">
+            <Text>Вибраний юніт пропускає поточний хід</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_SLEEP">
+            <Text>Спати</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_UNIT_SLEEP_TT">
+            <Text>Переводить вибраний юніт у режим сну</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_USER_INTERFACE_ACTIONS">
+            <Text>Дії інтерфейсу</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CIV_BACK">
+            <Text>Назад в історії Цивілопедії</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CIV_BACK_TT">
+            <Text>Повертає на попередню сторінку в Цивілопедії</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CIV_FORWARD">
+            <Text>Вперед в історії Цивілопедії</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CIV_FORWARD_TT">
+            <Text>Переходить вперед в історії сторінок, коли Цивілопедія відкрита</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_MAP_SEARCH">
+            <Text>Пошук на карті</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_MAP_SEARCH_TT">
+            <Text>Шукати на карті світу</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_OPEN_CIVILOPEDIA">
+            <Text>Відкрити Цивілопедію</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_CIVICS_SCREEN">
+            <Text>Перемикання екрану громадянства</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_TECH_TREE">
+            <Text>Перемикання дерева технологій</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_RELIGION">
+            <Text>Перемикання панелі релігії</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_JOURNAL">
+            <Text>Перемикання журналу</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_VICTORY_PROGRESS">
+            <Text>Перемикання екрану прогресу перемоги</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_TRADE_SCREEN">
+            <Text>Перемикання екрану торгівлі</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_RESOURCE_SCREEN">
+            <Text>Перемикання екрану ресурсів</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_GREAT_WORKS_SCREEN">
+            <Text>Перемикання екрану великих творів</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_GREAT_PEOPLE_SCREEN">
+            <Text>Перемикання екрану великих людей</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_RANKINGS_SCREEN">
+            <Text>Перемикання екрану рейтингів</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_TOGGLE_YIELDS_REPORT">
+            <Text>Перемикання звіту про прибутки</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_0">
+            <Text>0 (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_1">
+            <Text>1 (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_2">
+            <Text>2 (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_3">
+            <Text>3 (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_4">
+            <Text>4 (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_5">
+            <Text>5 (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_6">
+            <Text>6 (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_7">
+            <Text>7 (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_8">
+            <Text>8 (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_9">
+            <Text>9 (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_MULTIPLY">
+            <Text>* (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_PLUS">
+            <Text>+ (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_MINUS">
+            <Text>- (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_DECIMAL">
+            <Text>. (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_DIVIDE">
+            <Text>/ (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NP_CENTER">
+            <Text>Центр (Цифрова клавіатура)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_INSERT">
+            <Text>Insert</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_HOME">
+            <Text>Home</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_PAGEUP">
+            <Text>Page Up</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_DELETE">
+            <Text>Delete</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_END">
+            <Text>End</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_PAGEDOWN">
+            <Text>Page Down</Text>
+        </Row>
+        <Row Tag="LOC_OPTION_KEY_QUOTE">
+            <Text>"</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_PRINTSCREEN">
+            <Text>Print Screen</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_PAUSE">
+            <Text>Pause</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_SPACE">
+            <Text>Space</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_TAB">
+            <Text>Tab</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_BACKSPACE">
+            <Text>Backspace</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_CANCEL">
+            <Text>Скасувати</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_CAPSLOCK">
+            <Text>Caps Lock</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_NUMLOCK">
+            <Text>Num Lock</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_SCROLLLOCK">
+            <Text>Scroll Lock</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_LSHIFT">
+            <Text>Лівий Shift</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_LCONTROL">
+            <Text>Лівий Control</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_LALT">
+            <Text>Лівий Alt</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_RSHIFT">
+            <Text>Правий Shift</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_RCONTROL">
+            <Text>Правий Control</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_KEY_RALT">
+            <Text>Правий Alt</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CONFIRM_CHANGE_TITLE">
+            <Text>Підтвердження змін</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_CONFIRM_CHANGE_BODY">
+            <Text>Ви впевнені, що хочете зберегти це нове призначення клавіш?</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MOUSE_L">
+            <Text>Ліва кнопка миші</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MOUSE_R">
+            <Text>Права кнопка миші</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MOUSE_M">
+            <Text>Середня кнопка миші</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MOUSE_X1">
+            <Text>Кнопка миші X1</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MOUSE_X2">
+            <Text>Кнопка миші X2</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MOUSE_WHEEL_UP">
+            <Text>Прокрутка миші вгору</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MOUSE_WHEEL_DOWN">
+            <Text>Прокрутка миші вниз</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_OPEN_ATTRIBUTES">
+            <Text>Відкрити атрибути</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_OPEN_ATTRIBUTES_TT">
+            <Text>Відкрити екран атрибутів</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_OPEN_GOVERNMENT">
+            <Text>Відкрити уряд</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_OPEN_GOVERNMENT_TT">
+            <Text>Відкрити екран уряду</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_FORCE_END_TURN">
+            <Text>Примусовий наступний хід</Text>
+        </Row>
+        <Row Tag="LOC_UI_KBM_MAPPING_FORCE_END_TURN_TT">
+            <Text>Завершує поточний хід незалежно від блокуючих дій</Text>
+        </Row>
+    </EnglishText>
+</Database>

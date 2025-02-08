@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_SAVE_LOAD_GAME_TEXT">
+			<Text>гра</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CONFIG_TEXT">
+			<Text>конфігурація</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_FILTER_BUTTON">
+			<Text>Фільтри</Text>
+		</Row>
+		<Row Tag="LOC_FILTERS_AUTOSAVES">
+			<Text>Зберегти</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_BACK_BUTTON">
+			<Text>Назад</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DELETE_BUTTON">
+			<Text>Видалити</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_OVERWRITE_BUTTON">
+			<Text>Перезаписати</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_LOAD_BUTTON">
+			<Text>Завантажити</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVE_BUTTON">
+			<Text>Зберегти</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DELETE_NAVTRAY">
+			<Text>Видалити</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_OVERWRITE_NAVTRAY">
+			<Text>Перезаписати</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_LOAD_NAVTRAY">
+			<Text>Завантажити</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVE_DISABLED_DESCRIPTION">
+			<Text>Досягнуто ліміту збережень для кросплатформи, перезапишіть або видаліть</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVE_NAVTRAY">
+			<Text>Створити нове збереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CONFIRM_LOAD_TITLE">
+			<Text>Завантажити збереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CONFIRM_LOAD_BODY">
+			<Text>Ви впевнені, що хочете завантажити цю збережену гру? Весь незбережений прогрес буде втрачено.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CONFIRM_LOAD_IMPORT_TITLE">
+			<Text>Завантажити імпортоване збереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CONFIRM_LOAD_IMPORT_BODY">
+			<Text>Цей файл збереження не був створений вами. Деякі досягнення, такі як Виклики, не будуть відслідковуватися. Завантажити це збереження?</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CONFIRM_OVERWRITE_TITLE">
+			<Text>Перезаписати збереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CONFIRM_OVERWRITE_BODY">
+			<Text>Ви впевнені, що хочете перезаписати це існуюче збереження {1_type}? Цю дію не можна буде скасувати.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_TITLE_OVERWRITING">
+			<Text>Перезаписування збереженої гри...</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_UNABLE_TO_SAVE_TITLE">
+			<Text>Не вдалося зберегти</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_UNABLE_TO_SAVE_BODY">
+			<Text>Не вдалося зберегти файл!</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_UNABLE_TO_LOAD_TITLE">
+			<Text>Не вдалося завантажити</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_UNABLE_TO_LOAD_BODY">
+			<Text>Не вдалося завантажити файл!</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_NEW_SAVE">
+			<Text>Нове збереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_TITLE_SAVE">
+			<Text>Зберегти гру</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_TITLE_LOADING">
+			<Text>Завантаження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_TITLE_LOAD">
+			<Text>Завантажити гру</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_TITLE_LOAD_CONFIG">
+			<Text>Завантажити конфігурацію</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_TITLE_SAVE_CONFIG">
+			<Text>Зберегти конфігурацію</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME_CONFIG_DEFAULT">
+			<Text>Конфігурація гри</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVING">
+			<Text>Створення збереження {1_SaveType}...</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_LOADING">
+			<Text>Отримання збережень {1_SaveType}...</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DELETING">
+			<Text>Видалення збереження {1_SaveType}...</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DELETE_DIALOG">
+			<Text>Ви впевнені, що хочете видалити це збереження {1_type}? Цю дію не можна буде скасувати.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DELETE_DIALOG_TITLE">
+			<Text>Видалити збереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_LOCATION_FULL_DIALOG">
+			<Text>Недостатньо місця.[N]Звільніть трохи місця, щоб зберегти нову гру.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_LOCATION_FULL_DIALOG_TITLE">
+			<Text>Немає місця</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_QUOTA_EXCEEDED_DIALOG">
+			<Text>Гра перевищила квоту на користувача для гри. [N]Видаліть деякі збереження, щоб звільнити місце у вашому сховищі.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_QUOTA_EXCEEDED_DIALOG_TITLE">
+			<Text>Перевищено квоту користувача</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DELETE_ERROR">
+			<Text>Не вдалося видалити файл.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DELETE_ERROR_TITLE">
+			<Text>Помилка видалення файлу</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_QUERY_ERROR">
+			<Text>Не вдалося запитати файли.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_QUERY_ERROR_TITLE">
+			<Text>Помилка запиту файлів</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVE_ERROR">
+			<Text>Не вдалося зберегти файл.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVE_ERROR_INVALID_CHARACTERS">
+			<Text>Неприпустимі символи.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVE_ERROR_TITLE">
+			<Text>Помилка збереження файлу</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_AGE">
+			<Text>Вік:</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_RULE_SET">
+			<Text>Набір правил:</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_MAP_INFO_TITLE">
+			<Text>Параметри гри</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_MAP_TYPE">
+			<Text>Тип карти:</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_SPEED">
+			<Text>Швидкість гри:</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_DIFFICULTY">
+			<Text>Складність:</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_SAVE_TYPE">
+			<Text>Тип збереження: {1_SaveType}</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_SAVED_BY_VERSION">
+			<Text>Збережено версією:</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_DIFFERENT_PLAYER_SAVE">
+			<Text>Не збережено цим гравцем, виклики не будуть зараховані</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_SAVED_BY_PLATFORM">
+			<Text>Збережено платформою:</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_ADDITIONAL_CONTENT_TITLE">
+			<Text>Завантажуваний контент</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_DETAILS_REQUIRED_CONTENT_TITLE">
+			<Text>Необхідний контент</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_LOCALSAVE">
+			<Text>Локальний</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVES">
+			<Text>Збереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CROSSPLAYSAVES">
+			<Text>Кросплатформа</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_AGETRANSITIONSAVES">
+			<Text>Перехід віків</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_AUTOSAVES">
+			<Text>Автозбереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CROSSPLAY_MISSING_2K_CLOUD_SERVICE_1">
+			<Text>Сервіс збережень для кросплатформи недоступний</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CROSSPLAY_MISSING_2K_CLOUD_SERVICE_2">
+			<Text>Спробуйте пізніше</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CROSSPLAY_MISSING_SSO_1">
+			<Text>Підключіть свій обліковий запис 2K для доступу</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CROSSPLAY_MISSING_SSO_2">
+			<Text>до ваших збережень для кросплатформи</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CONNECT_2K_ACCOUNT">
+			<Text>Підключити обліковий запис 2K</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_CROSSPLAY_MISSING_SSO_1_A">
+			<Text>Завершіть створення облікового запису 2K для доступу</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_COMPLETE_2K_ACCOUNT">
+			<Text>Завершіть створення облікового запису 2K</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVEACTION_MANUAL">
+			<Text>Ручне збереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVEACTION_QUICK">
+			<Text>Швидке збереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVEACTION_AUTO">
+			<Text>Автозбереження</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVE_DATE">
+			<Text>{1_Date: коротка дата}</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_LOAD_SAVE_TIME">
+			<Text>{1_Date: короткий час}</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME_CONFIG_SAVE_PANEL_TITLE">
+			<Text>Збережіть конфігурацію вашої гри</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME_CONFIG_SAVE_PANEL_SUBTITLE">
+			<Text>Зберегти конфігурацію</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME_CONFIG_LOAD_PANEL_TITLE">
+			<Text>Завантажте збережену конфігурацію</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME_CONFIG_LOAD_PANEL_SUBTITLE">
+			<Text>Завантажити конфігурацію</Text>
+		</Row>
+		<Row Tag="LOC_UI_SAVE_CONFIG">
+			<Text>Зберегти конфігурацію</Text>
+		</Row>
+		<Row Tag="LOC_UI_LOAD_CONFIG">
+			<Text>Завантажити конфігурацію</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME_CONFIG_INFO_TITLE">
+			<Text>Інформація про конфігурацію</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME_CONFIG_NEW_CONFIG">
+			<Text>Нова конфігурація</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME_MOD_NOT_INSTALLED">
+			<Text>[СТИЛЬ:текст-негативний]{1_modTitle} (НЕ ВСТАНОВЛЕНО)[/СТИЛЬ]</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME_MOD_NOT_OWNED">
+			<Text>[СТИЛЬ:текст-негативний]{1_modTitle} (НЕ НАЛЕЖИТЬ)[/СТИЛЬ]</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME_ERROR_LINKED_ACCOUNT">
+			<Text>Це збереження події в реальному часі вимагає підключеного облікового запису 2K</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME_ERROR_BAD_MAPSIZE_TITLE">
+			<Text>Розмір карти не підтримується</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME_ERROR_BAD_MAPSIZE_BODY">
+			<Text>Розмір карти не сумісний з цією платформою.</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME_ERROR_MOD_OWNERSHIP">
+			<Text>Конфігурація контенту вимагає відсутніх прав власності</Text>
+		</Row>
+		<Row Tag="LOC_CROSSPLAY_TITLE_CONFLICT_RESOLUTION">
+			<Text>Конфлікт збережень для кросплатформи з підключеним обліковим записом 2K</Text>
+		</Row>
+		<Row Tag="LOC_CROSSPLAY_BODY_CONFLICT_RESOLUTION">
+			<Text>Ваше локальне збереження для кросплатформи конфліктує з тим, що пов'язано з вашим обліковим записом 2K. Вам потрібно вибрати версію, щоб продовжити. Будь ласка, виберіть збереження для кросплатформи, яке ви збережете для синхронізації з цим пристроєм та вашим обліковим записом 2K.</Text>
+		</Row>
+		<Row Tag="LOC_CROSSPLAY_BODY_CONSOLE_CONFLICT_RESOLUTION">
+			<Text>Ваше локальне збереження для кросплатформи конфліктує з тим, що пов'язано з вашим обліковим записом 2K. Вам потрібно вибрати версію, щоб продовжити. Будь ласка, виберіть збереження для кросплатформи, яке ви збережете для синхронізації з цією консоллю та вашим обліковим записом 2K.</Text>
+		</Row>
+		<Row Tag="LOC_CROSSPLAY_CHOICE_1_CONFLICT_RESOLUTION">
+			<Text>Локальне збереження для кросплатформи</Text>
+		</Row>
+		<Row Tag="LOC_CROSSPLAY_CHOICE_2_CONFLICT_RESOLUTION">
+			<Text>Збереження для кросплатформи, пов'язане з 2K</Text>
+		</Row>
+		<Row Tag="LOC_CROSSPLAY_CHOICE_1_CONTEXT_CONFLICT_RESOLUTION">
+			<Text>Локальне збереження для кросплатформи {1_CrossplayType}</Text>
+		</Row>
+		<Row Tag="LOC_CROSSPLAY_CHOICE_2_CONTEXT_RESOLUTION">
+			<Text>Збереження для кросплатформи, пов'язане з 2K {1_CrossplayType}</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME_ERROR_SCRIPT_PROCESSING">
+			<Text>Скрипт генерації карти мав фатальну помилку</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME_ERROR_MOD_CONTENT">
+			<Text>Не вдалося знайти необхідний контент</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME_ERROR_MOD_CONFIG">
+			<Text>Не вдалося налаштувати контент</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME_ERROR_MOD_VALIDATION">
+			<Text>Не вдалося перевірити конфігурацію контенту</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME_ERROR_UNKNOWN_VERSION">
+			<Text>Файл збереження має непідтримувану версію</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME_ERROR_UNKNOWN">
+			<Text>Виникла невизначена помилка конфігурації</Text>
+		</Row>
+	</EnglishText>
+</Database>

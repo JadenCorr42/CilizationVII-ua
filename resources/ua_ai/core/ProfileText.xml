@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_PROFILE_TAB_PROGRESS">
+			<Text>Прогрес</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_CUSTOMIZE">
+			<Text>Налаштування</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_HALL_OF_FAME">
+			<Text>Зала Слави</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_CHALLENGES">
+			<Text>Виклики</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_LEADERBOARDS">
+			<Text>Таблиці лідерів</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_BADGES">
+			<Text>Значок</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_BANNERS">
+			<Text>Банер</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_TITLES">
+			<Text>Титул</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_BORDERS">
+			<Text>Рамка</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_COLORS">
+			<Text>Колір</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_COMPLETION">
+			<Text>Завершення</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_VICTORIES">
+			<Text>Перемоги</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_DIFFICULTY">
+			<Text>Складність: {1_Difficulty}</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_GAME_SPEED">
+			<Text>Швидкість гри: {1_Speed}</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_MARK_AS_SEEN">
+			<Text>Позначити все як переглянуте</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SELECT_TITLE">
+			<Text>Вибрати титул</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SELECT_BADGE">
+			<Text>Вибрати значок</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SELECT_BORDER">
+			<Text>Вибрати рамку</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SELECT_COLOR">
+			<Text>Вибрати колір</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SAMPLE_BADGE_NAME">
+			<Text>Чудові дні</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_OVERVIEW">
+			<Text>Загальне</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_LEADERS">
+			<Text>Лідери</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_CIVILIZATIONS">
+			<Text>Цивілізації</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_EQUIPPED">
+			<Text>Оснащено</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_LOCKED">
+			<Text>Заблоковано</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SAMPLE_BADGE_DESCRIPTION">
+			<Text>Завершено подію Природні Чудеса</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TAB_HISTORY">
+			<Text>Історія</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SAMPLE_BADGE_DATE">
+			<Text>Завершено 23.11.29</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SELECT_BANNER">
+			<Text>Вибрати банер</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SAMPLE_BANNER_NAME">
+			<Text>Військовий майстер</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SAMPLE_TITLE_NAME">
+			<Text>Зачарований Хелловін</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SAMPLE_TITLE_DESCRIPTION">
+			<Text>Виграно під час Хелловінської події. Це була гра Firaxis, випущена в 2013 році.</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_SAMPLE_TITLE_DATE">
+			<Text>Завершено 25.11.29</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_LEGEND_PROGRESS">
+			<Text>Прогрес Легенди</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PATH_HEADER">
+			<Text>{1_Path} Рівень {2_Level}</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_NEXT_QUEST">
+			<Text>Наступний виклик:</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_ALL_QUESTS">
+			<Text>Всі {1_Quests} Виклики</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_CURRENT_XP_TEXT">
+			<Text>Поточний XP</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_NEXT_LEVEL_XP_TEXT">
+			<Text>XP наступного рівня</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_QUEST_PROGRESS">
+			<Text>{1_Completed} / {2_Total}</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_NUMBER_COMPLETE">
+			<Text>Всі виклики {1_NumCompleted}/{2_Total}</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PROGRESS_HEADER_LEVEL">
+			<Text>Рівень {1_Level}</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PROGRESS_HEADER_XP">
+			<Text>{1_CurrentPoints} / {2_NextLevelPoints} XP</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TURNS">
+			<Text>{1_Turns} {1_Turns: plural 1?хід; other?ходи;}</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_GAME">
+			<Text>Гра</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_GENERIC_TURNS">
+			<Text>Ходи</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_ALL_EVENTS">
+			<Text>Всі події</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_HOF_DIFFICULTY_HELP">
+			<Text>Перейти до фільтру складності</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_HOF_DIFFICULTY_ALL">
+			<Text>Всі</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_HOF_SPEED_HELP">
+			<Text>Перейти до фільтру швидкості гри</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_CHALLENGE_HELP">
+			<Text>Перейти до типу сортування</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_CHALLENGE_CLASS_FOUNDATION">
+			<Text>Фундація</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_CHALLENGE_CLASS_LEADER">
+			<Text>Лідер</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_CHALLENGE_COMPLETION_TOTAL">
+			<Text>Всього</Text>
+		</Row>
+		<Row Tag="LOC_METAPROGRESSION_CHALLENGE_TUTORIAL_REWARD_UNLOCKED_TEXT">
+			<Text>Завершено всі навчальні виклики</Text>
+		</Row>
+		<Row Tag="LOC_METAPROGRESSION_CHALLENGE_MEMENTO_UNLOCKED_TEXT">
+			<Text>Сувенір розблоковано для {1_PathType} рівня {2_level}</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_DEFAULT">
+			<Text>Нова ера</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_1">
+			<Text>Пишучий писар</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_2">
+			<Text>Вдячний губернатор</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_3">
+			<Text>Обраний вождь</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_4_1">
+			<Text>Сміливий барон</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_4_2">
+			<Text>Смілива баронеса</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_5">
+			<Text>Переможний віце-король</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_6">
+			<Text>Мудрий суверен</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_7_1">
+			<Text>Звеличений імператор</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_7_2">
+			<Text>Звеличена імператриця</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_8">
+			<Text>Вражаючий безсмертний</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_9">
+			<Text>Непокірний бог</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_FOUNDATION_10">
+			<Text>Легенда</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_AMINA">
+			<Text>Королева-воїн</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_ASHOKA_RENOUNCER">
+			<Text>Відречений від світу</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_AUGUSTUS">
+			<Text>Перший громадянин</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_BENJAMIN_FRANKLIN">
+			<Text>Перший американець</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_CATHERINE">
+			<Text>Зірка Півночі</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_CHARLEMAGNE">
+			<Text>Батько Європи</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_CONFUCIUS">
+			<Text>Великий мудрець</Text>
+		</Row>
+
+		<Row Tag="LOC_PROFILE_TITLE_FRIEDRICH_OBLIQUE">
+			<Text>Старий Фріц</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_HARRIET_TUBMAN">
+			<Text>Провідник</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_HATSHEPSUT">
+			<Text>Голос Сонця</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_HIMIKO_QUEEN_OF_WA">
+			<Text>Королева Ва</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_IBN_BATTUTA">
+			<Text>Чудовий мандрівник</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_ISABELLA">
+			<Text>Монарх Золотого Віку</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_JOSE_RIZAL">
+			<Text>Національний герой</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_LAFAYETTE">
+			<Text>Герой двох світів</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_MACHIAVELLI">
+			<Text>Принц</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_PACHACUTI">
+			<Text>Той, що трясе землю</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_TRUNG_TRAC">
+			<Text>Королева-бунтарка</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_XERXES_KING_OF_KINGS">
+			<Text>Цар царів</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_DLC_DELUXEPACK">
+			<Text>За горизонтом</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_DLC_FOUNDERPACK">
+			<Text>Засновник цивілізації</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_DLC_SEASONPASS_1">
+			<Text>Мандрівник на перехрестях</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_TITLE_DLC_SEASONPASS_2">
+			<Text>Законний правитель</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PROGRESS_TITLE_CONFLICT_RESOLUTION">
+			<Text>Конфлікт прогресу облікового запису 2K</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PROGRESS_BODY_CONFLICT_RESOLUTION">
+			<Text>Ваш локальний прогрес конфліктує з тим, що пов'язано з вашим обліковим записом 2K. Вам потрібно вибрати версію, щоб продовжити. Будь ласка, виберіть прогрес, який ви збережете для синхронізації з цим пристроєм та вашим обліковим записом 2K.</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PROGRESS_BODY_CONSOLE_CONFLICT_RESOLUTION">
+			<Text>Ваш локальний прогрес конфліктує з тим, що пов'язано з вашим обліковим записом 2K. Вам потрібно вибрати версію, щоб продовжити. Будь ласка, виберіть прогрес, який ви збережете для синхронізації з цією консоллю та вашим обліковим записом 2K.</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PROGRESS_CHOICE_1_CONFLICT_RESOLUTION">
+			<Text>Локальний прогрес</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PROGRESS_CHOICE_2_CONFLICT_RESOLUTION">
+			<Text>Прогрес, пов'язаний з 2K</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PROGRESS_CHOICE_1_CONTEXT_CONFLICT_RESOLUTION">
+			<Text>Локальний прогрес {1_ProgressType}</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PROGRESS_CHOICE_2_CONTEXT_RESOLUTION">
+			<Text>Прогрес, пов'язаний з 2K {1_ProgressType}</Text>
+		</Row>
+		<Row Tag="LOC_PROFILE_PROGRESS_COMING_SOON">
+			<Text>Скоро...</Text>
+		</Row>
+	</EnglishText>
+</Database>

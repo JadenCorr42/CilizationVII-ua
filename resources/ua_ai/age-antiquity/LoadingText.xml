@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_AKSUM">
+			<Text>The African coast of the Red Sea was the domain of Aksum, named by the prophet Mani as one of the four key powers of the ancient world. For most of the first millennium CE, Aksumite merchants bore ivory, gold, spices and other goods from the African interior to India, Persia, and the Mediterranean. Yet these trade routes planted the seeds of Aksum’s fall – when the Arab caliphates took over the Silk Road, Aksum was isolated and fell into decline.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_EGYPT">
+			<Text>Kemet, the fertile band of the Nile floodplain, is the heart of ancient Egypt. Its over five thousand years of history have been sustained by the river and the life-giving silt that it leaves, building layers of trade, conquest, and the monuments to immortality that were its wonders. Its riches were legendary – and tempting. Egypt fell to Persia in 525 BCE, but the Nile still flows. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_GREECE">
+			<Text>The city-states of Hellas were a constellation of powers, each with a rich history – militaristic Sparta, intellectual Athens, wealthy Corinth, far-off Syracuse. Fractious in their alliances, they were briefly united only once, under Alexander of Macedon. Though subsumed into the Roman Empire, the Greek cities influenced Roman religion and thought, the math and science of the Islamic Golden Age, and even the founding ideas of American democracy.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_HAN">
+			<Text>The Han were not the first of China’s ancient dynasties, but were its grandest. From Liu Bang’s rebellion against the iron-fisted Qin came a balance between centralized authority and Confucian meritocracy, and a wave of innovation in statecraft, philosophy, and science. With an army of shi dafu, scholar-bureaucrats, at home, and an army of chariots, heavy infantry, and crossbows abroad, for four hundred years the Han held the Mandate of Heaven. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_KHMER">
+			<Text>Kamboja, the Khmer Empire, was a model of the Hindu-Buddhist heavens in Southeast Asia. From its center, it projected its influence across the region. True Khmer power lay in water, as harnessing the floods of the Mekong fueled some of the largest cities in the world. But as these floods waned, so did Khmer power, leaving its dream in ruins across Cambodia, Thailand, Laos and Vietnam.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_MAURYA">
+			<Text>The Maurya arose from a land of incredible cultural diversity, but one reeling from war. From Chandragupta’s conquests of Alexander the Great’s successors, the dynasty reached its height under Ashoka, who embraced nonviolence and tolerance. Balancing open-mindedness with military might, the Maurya built an empire that was as wise as it was glorious – until its fall to an assassin’s blade. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_MAYA">
+			<Text>In the Central American jungles grew a series of city-states bound by alliances and a common culture – the Maya. They transformed a seemingly inhospitable landscape into a paradise of plazas, ball courts, and pyramids that rose out of the jungle to greet the open sky. But struck by climate and political crises, the Maya declined, and the land was once more covered by forest. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_MISSISSIPPIAN">
+			<Text>The Mississippians - named for the river near where their earthen mounds stand - leave no writing behind, but archaeology tells of a complex society, a political system where cities waxed and waned in influence, maize farming, and trade in copper, shells, and hides. But by 1400 CE, whether through natural or political means, the Mississippians had already faded into memory.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_PERSIA">
+			<Text>“The kingdom,” Xshaca, or what we know as Persia, was the center of the world at its height, reigning over most of Mesopotamia, Egypt, and Anatolia. It was a strong, centralized state with efficient communication and transportation systems and a professional army, and it brought the luxuries of the world together – until the forces of Alexander the Great sent it toppling down.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_ROME">
+			<Text>When most people think of the classical world, they imagine Rome. From humble beginnings, it grew to span three continents, assimilating the wealth and cultures of those it conquered. During the Republic, ad-hoc statecraft and meritocracy spawned fierce competition, spurring the professionalization of military and bureaucracy of the Empire. But cracks turned to chasms, and a foundering economy and repeated invasions brought Rome to collapse.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_AKSUM">
+			<Text>Say the word, and Aksum shall perch on the gateway between worlds. May only the worthy pass and know its majesty.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_EGYPT">
+			<Text>The waters flood again, preparing the lands for new growth. Here Egypt will compel the world to behold the wonders it works.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_GREECE">
+			<Text>The people gather together, debating music and politics, poetry and law--envisioning how to build a Greece that will last for ages.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_HAN">
+			<Text>Harmony reveals itself through the shaping of energy, the cultivation of order. Now, the Han shall be its ministers.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_KHMER">
+			<Text>Prosperity falls from the heavens, flows down the rivers to nourish the Khmer, the masters of waters. Where else will their rains fall?</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_MAURYA">
+			<Text>The path to glory requires the guidance of a steady hand. Can Maurya, hardy as the Himalayas, become the stewards of the world?</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_MAYA">
+			<Text>The people lay these stones as a pathway to the heavens. Come, k'uhul ajaw, and assume the world's throne.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_MISSISSIPPIAN">
+			<Text>A great dais rises from the earth, heralding a new day. What the Mississippians build will uphold the world.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_PERSIA">
+			<Text>They will come from every corner of the world to pledge their strength and march under the same banner--the might and glory of Persia, embodied.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_ROME">
+			<Text>A new banner unfurls, emblazoned with triumphal laurels. Rome seeks its champions.</Text>
+		</Row>
+	</EnglishText>
+</Database>

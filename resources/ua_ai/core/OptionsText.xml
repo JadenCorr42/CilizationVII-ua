@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <EnglishText>
+        <!-- General, non-tab specific -->
+        <Row Tag="LOC_UI_OPTIONS_TITLE">
+            <Text>Параметри</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_ACCESSIBILITY">
+            <Text>Спеціальні можливості</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_ACCESSIBILITY_DESCRIPTION">
+            <Text>Налаштуйте екран, субтитри та введення</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_AUDIO">
+            <Text>Аудіо</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_AUDIO_DESCRIPTION">
+            <Text>Налаштуйте параметри аудіо</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_GAME">
+            <Text>Гра</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_GAME_DESCRIPTION">
+            <Text>Налаштуйте інтерфейс HUD, автозбереження та налаштування часу доби</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_GRAPHICS">
+            <Text>Графіка</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_GRAPHICS_DESCRIPTION">
+            <Text>Налаштуйте якість та продуктивність Civilization.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_INPUT">
+            <Text>Введення</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_INPUT_DESCRIPTION">
+            <Text>Перегляньте та налаштуйте елементи керування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_INTERFACE">
+            <Text>Інтерфейс</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_INTERFACE_DESCRIPTION">
+            <Text>Налаштуйте параметри інтерфейсу</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_SYSTEM">
+            <Text>Система</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CATEGORY_SYSTEM_DESCRIPTION">
+            <Text>Налаштуйте інтерфейс, камеру та налаштування для сенсорного керування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CANCEL">
+            <Text>Скасувати</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CANCEL_CHANGES">
+            <Text>Скасувати зміни</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_REVERT">
+            <Text>Відкотити</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_REVERT_DESCRIPTION">
+            <Text>Ви впевнені, що хочете скасувати всі внесені зміни?</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_DEFAULT">
+            <Text>За замовчуванням</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_DEFAULTS">
+            <Text>Стандартні</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_DEFAULTS_DESCRIPTION">
+            <Text>Повернути всі зміни до стандартних налаштувань.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ARE_YOU_SURE">
+            <Text>Ви впевнені?</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ARE_YOU_SURE_DEFAULT">
+            <Text>Ви впевнені, що хочете відновити стандартні налаштування?</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_YES">
+            <Text>Так</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_NO">
+            <Text>Ні</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CONFIRM">
+            <Text>Підтвердити</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CONFIRM_CHANGES">
+            <Text>Підтвердити зміни</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ACCEPT">
+            <Text>Прийняти</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ACCEPT_CHANGES">
+            <Text>Прийняти зміни</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RESET_TO_DEFAULTS">
+            <Text>Скинути до стандартних</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SEARCH">
+            <Text>Пошук</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_NONE_IN_CATEGORY">
+            <Text>Немає опцій у цій категорії.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RELOAD_WARN_TITLE">
+            <Text>Перезавантажити?</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RELOAD_WARN_BODY">
+            <Text>Одна або більше змінених опцій спричинять коротке перезавантаження гри, аби відобразити зміни. Ви не
+                втратите поточний прогрес, але можливо доведеться повторити деякі дії, що тривають. Продовжити?
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RELOAD_WARN_CONTINUE">
+            <Text>Продовжити</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RELOAD_WARN_ABANDON_CHANGES">
+            <Text>Відмінити зміни</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RESTART_TITLE">
+            <Text>Потрібне перезапускання</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RESTART_BODY">
+            <Text>Одна або більше змінених опцій набуде чинності лише після перезапуску гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MISC_OFF">
+            <Text>Вимкнено</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MISC_NONE">
+            <Text>Немає</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MISC_VERY_LOW">
+            <Text>Дуже низька</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MISC_LOW">
+            <Text>Низька</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MISC_MEDIUM">
+            <Text>Середня</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MISC_HIGH">
+            <Text>Висока</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MISC_VERY_HIGH">
+            <Text>Дуже висока</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MISC_EXTREME">
+            <Text>Екстремальна</Text>
+        </Row>
+        <Row Tag="LOC_TEXT_R">
+            <Text>&#174;</Text>
+        </Row>
+        <!-- Accessibility -->
+        <Row Tag="LOC_OPTIONS_REMAP_CONTROLLER">
+            <Text>Керування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_REMAP_CONTROLLER_DESCRIPTION">
+            <Text>Налаштуйте відображення керування.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_REMAP_KBM_TEXT">
+            <Text>Налаштувати</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_REMAP_CONTROLLER_TEXT">
+            <Text>Налаштувати</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_INPUT_DEVICE">
+            <Text>Пристрій введення</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_INPUT_DEVICE_DESCRIPTION">
+            <Text>Які пристрої введення слід підтримувати.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_INPUT_DEVICE_AUTO">
+            <Text>автоматичне перемикання</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_INPUT_DEVICE_KBM">
+            <Text>клавіатура та миша</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_INPUT_DEVICE_GAMEPAD">
+            <Text>геймпад</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_INPUT_DEVICE_TOUCH">
+            <Text>сенсорне керування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND">
+            <Text>Колірна адаптація</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND_DESCRIPTION">
+            <Text>Змінює деякі кольори в грі, щоб допомогти гравцям з одним із трьох основних типів дальтонізму.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND_NONE">
+            <Text>Стандартні кольори</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND_PROTANOPIA">
+            <Text>Червона сліпота (протанопія)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND_DEUTERANOPIA">
+            <Text>Зелена сліпота (дальтонія)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ACCESSIBILITY_COLORBLIND_TRITANOPIA">
+            <Text>Синя сліпота (тританопія)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_BRIGHTNESS">
+            <Text>Яскравість</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_BRIGHTNESS_DESCRIPTION">
+            <Text>Відкалібруйте, наскільки яскравим виглядає екран</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCREEN_SIZE">
+            <Text>Розмір екрана</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCREEN_SIZE_TEXT">
+            <Text>Налаштувати</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCREEN_SIZE_DESCRIPTION">
+            <Text>Налаштуйте область екрана, яка вважається безпечною для відтворення.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCREEN_SIZE_INSTRUCTIONS_1">
+            <Text>Встановіть розмір екрана для безпечної області.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCREEN_SIZE_INSTRUCTIONS_2">
+            <Text>Переконайтеся, що контур видимий.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCREEN_SIZE_INSTRUCTIONS_3">
+            <Text>Усе, що знаходиться всередині ліній, буде відображено під час гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCREEN_SIZE_ADJUST_VERTICALLY">
+            <Text>Відрегулюйте екран по вертикалі</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCREEN_SIZE_ADJUST_HORIZONTALLY">
+            <Text>Відрегулюйте екран по горизонталі</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_SCALE">
+            <Text>Масштаб шрифтів</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_SCALE_DESCRIPTION">
+            <Text>Оберіть розмір, у якому буде відображатися текст.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_GLOBAL_SCALE">
+            <Text>Масштаб інтерфейсу</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_GLOBAL_SCALE_DESCRIPTION">
+            <Text>Налаштуйте розмір елементів інтерфейсу.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_AUTO_SCALE">
+            <Text>Увімкнути масштабування інтерфейсу у високій роздільній здатності</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_AUTO_SCALE_DESCRIPTION">
+            <Text>Збільшити розмір інтерфейсу при високих роздільних здатностях дисплея.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_SCALE_EXTRA_SMALL">
+            <Text>Дуже малий</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_SCALE_SMALL">
+            <Text>Малий</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_SCALE_MEDIUM">
+            <Text>Середній</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_SCALE_LARGE">
+            <Text>Великий</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_SCALE_EXTRA_LARGE">
+            <Text>Дуже великий</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES">
+            <Text>Відображати субтитри</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TEXT_TO_SPEECH">
+            <Text>Перетворення тексту в мовлення</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_NARRATE_HOVER">
+            <Text>Озвучувати при наведенні</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_NARRATE_HOVER_DESCRIPTION">
+            <Text>Автоматично озвучувати текст під курсором миші при наведенні.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_NARRATE_HOVER_DELAY">
+            <Text>Затримка озвучування при наведенні</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_NARRATE_HOVER_DELAY_DESCRIPTION">
+            <Text>Час у мілісекундах перед початком озвучування виділеного тексту.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_NARRATE_CHAT">
+            <Text>Озвучувати чат</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_NARRATE_CHAT_DESCRIPTION">
+            <Text>Автоматично озвучувати повідомлення в багатокористувацькому чаті, коли вони надходять.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_EXPERIENCE">
+            <Text>Режим перегляду</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_EXPERIENCE_DESCRIPTION">
+            <Text>Оптимізує режим перегляду, залежно від пристрою, на якому відображається гра.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_EXPERIENCE_HANDHELD">
+            <Text>Портативний пристрій</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_EXPERIENCE_CONSOLE">
+            <Text>Телевізор</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_EXPERIENCE_DESKTOP">
+            <Text>Настільний чи портативний комп’ютер</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_DESCRIPTION">
+            <Text>Відображати субтитри під час озвучених кінематографічних сцен.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_TEXT_SIZE">
+            <Text>Розмір тексту</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_TEXT_SIZE_DESCRIPTION">
+            <Text>Наскільки великим буде текст субтитрів.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_TEXT_SIZE_SMALL">
+            <Text>Малий</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_TEXT_SIZE_MEDIUM">
+            <Text>Середній</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_TEXT_SIZE_LARGE">
+            <Text>Великий</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_TEXT_COLOR">
+            <Text>Колір тексту</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_TEXT_COLOR_DESCRIPTION">
+            <Text>Який колір використовується для субтитрів.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_TEXT_BORDER">
+            <Text>Контур тексту</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_TEXT_BORDER_DESCRIPTION">
+            <Text>Наскільки сильний контур навколо тексту субтитрів.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_BACKGROUND_OPACITY">
+            <Text>Прозорість фону</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SUBTITLES_BACKGROUND_OPACITY_DESCRIPTION">
+            <Text>Визначте, наскільки прозорим буде фон для тексту субтитрів.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_USE_SCREEN_READER">
+            <Text>Використовувати екранний зчитувач</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_USE_SCREEN_READER_DESCRIPTION">
+            <Text>Використовувати зовнішню програму екранного зчитування для озвучування тексту.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_USE_NARRATOR">
+            <Text>Використовувати Windows Narrator</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_USE_NARRATOR_DESCRIPTION">
+            <Text>Використовувати вбудований Windows Narrator для озвучування тексту.</Text>
+        </Row>
+
+        <!-- Audio Options -->
+        <Row Tag="LOC_OPTIONS_AUDIO_LANGUAGE">
+            <Text>Мова озвучування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_LANGUAGE_DESCRIPTION">
+            <Text>Визначає мову, якою говоритиме оповідач.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_MASTER">
+            <Text>Гучність загальна</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_MASTER_DESCRIPTION">
+            <Text>Регулювання гучності всіх звуків у грі. Усі інші значення гучності відносні до загальної гучності.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_MUSIC">
+            <Text>Гучність музики</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_MUSIC_DESCRIPTION">
+            <Text>Гучність фонової музики.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_VOICE">
+            <Text>Гучність голосу</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_VOICE_DESCRIPTION">
+            <Text>Гучність лідерів та радників у грі.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_UI">
+            <Text>Гучність інтерфейсу</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_UI_DESCRIPTION">
+            <Text>Гучність звуків інтерфейсу, наприклад, натискання кнопки.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_SFX">
+            <Text>Гучність звукових ефектів</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_SFX_DESCRIPTION">
+            <Text>Гучність звукових ефектів, як-от амбієнтні звуки та рух юнітів.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_CINEMATICS">
+            <Text>Гучність у кінематиці</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_VOLUME_CINEMATICS_DESCRIPTION">
+            <Text>Гучність звуку під час кінематографічних роликів.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE">
+            <Text>Динамічний діапазон</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_DESCRIPTION">
+            <Text>Динамічний діапазон — це різниця в гучності між найгучнішими та найтихішими звуками.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_MUTEONFOCUSLOSS">
+            <Text>Вимкнути звук при втраті фокусу</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_MUTEONFOCUSLOSS_DESCRIPTION">
+            <Text>Вимикає звук Civilization VII, коли ви натискаєте на вікно іншого застосунку.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_WIDE">
+            <Text>Широкий</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_WIDE_DESCRIPTION">
+            <Text>Найбільший динамічний діапазон — рекомендовано для систем із високою якістю звуку або в тихому
+                середовищі.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_STANDARD">
+            <Text>Стандартний</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_STANDARD_DESCRIPTION">
+            <Text>Середній динамічний діапазон — це зазвичай найкраще налаштування для більшості гравців.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_NARROW">
+            <Text>Вузький</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUDIO_DYNAMIC_RANGE_NARROW_DESCRIPTION">
+            <Text>Найменший динамічний діапазон — усі звуки відтворюються на низькій гучності, у галасливих середовищах
+                або через динаміки з обмеженим діапазоном.
+            </Text>
+        </Row>
+
+        <!-- Game Options -->
+        <Row Tag="LOC_OPTIONS_QUICK_COMBAT">
+            <Text>Швидкий бій</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_QUICK_COMBAT_DESCRIPTION">
+            <Text>Увімкнути швидку анімацію для розв’язання бойових зіткнень.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_QUICK_MOVEMENT">
+            <Text>Швидкий бій</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_QUICK_MOVEMENT_DESCRIPTION">
+            <Text>Увімкнути швидке переміщення юнітів по клітинках.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CITY_RANGED_ATTACK_TURN_BLOCKING">
+            <Text>Блокування ходу при дальній атаці міста</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CITY_RANGED_ATTACK_TURN_BLOCKING_DESCRIPTION">
+            <Text>Блокувати завершення ходу, якщо можна виконати дальню атаку з міста.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TUNER">
+            <Text>Тюнер (відключає досягнення)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TUNER_DESCRIPTION">
+            <Text>Увімкнути моддінг-тюнер. Це відключить отримання досягнень.</Text>
+        </Row>
+
+        <!-- More Game Options -->
+        <Row Tag="LOC_OPTIONS_AUTOENDTURN">
+            <Text>Автоматично завершувати хід</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUTOENDTURN_DESCRIPTION">
+            <Text>Автоматично завершувати поточний ігровий хід.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UNITCYCLE_REMAININGMOVES">
+            <Text>Перемикання юнітів із залишком руху</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UNITCYCLE_REMAININGMOVES_DESCRIPTION">
+            <Text>Після виконання усіх дій, що блокують хід, перейти до юнітів із залишком очок руху.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUTOUNITYCYCLE">
+            <Text>Автоматичне перемикання юнітів</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUTOUNITYCYCLE_DESCRIPTION">
+            <Text>Після витрачення всіх очок руху вибраного юніта перейти до наступного юніта, який ще може рухатися.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TUTORIALLEVEL">
+            <Text>Рівень підказок</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TUTORIALLEVEL_DESCRIPTION">
+            <Text>Скільки докладної навчальної інформації ви хочете отримувати під час гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_0_DESCRIPTION">
+            <Text>Попередження та підказки вимкнено.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_1_DESCRIPTION">
+            <Text>Підказки вимкнені. Радники повідомлятимуть лише про ризики.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_2_DESCRIPTION">
+            <Text>Навчання під час гри. Також увімкнені попередження.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_FIRSTTIMETUTORIAL">
+            <Text>Навчання для початківців</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_FIRSTTIMETUTORIAL_DESCRIPTION">
+            <Text>Увімкнути перше навчальне ознайомлення при запуску гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_INSTRUCTIONS">
+            <Text>Показувати інструкції</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_INSTRUCTIONS_DESCRIPTION">
+            <Text>Показувати початкові інструкції для нових гравців на початку гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_0">
+            <Text>Вимкнено</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_1">
+            <Text>Лише попередження</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_2">
+            <Text>Поради</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_3">
+            <Text>Новий гравець</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_0_TOOLTIP">
+            <Text>Попередження та підказки вимкнено.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_1_TOOLTIP">
+            <Text>Підказки вимкнено. Радники повідомлятимуть про ризики.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_2_TOOLTIP">
+            <Text>Навчайтеся в процесі гри. Також увімкнені попередження.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GAME_TUTORIAL_2_TOOLTIP_ALT">
+            <Text>Навчайтеся в процесі гри. Також увімкнені попередження. Якщо змінити, необхідно розпочати нову гру з
+                цим налаштуванням, аби бачити підказки.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HELP_TYPES">
+            <Text>Відображення допомоги</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HELP_TYPES_DESCRIPTION">
+            <Text>Які типи допомоги відображати під час гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HELP_TYPES_0">
+            <Text>Немає</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HELP_TYPES_1">
+            <Text>Лише попередження</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HELP_TYPES_2">
+            <Text>Уся допомога</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CROSSPLAY">
+            <Text>Кросплатформенна гра</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CROSSPLAY_DESCRIPTION">
+            <Text>Грайте в мережевому режимі з гравцями на інших платформах.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUTOSAVE_BETWEEN">
+            <Text>Ходи між автозбереженнями</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUTOSAVE_BETWEEN_DESCRIPTION">
+            <Text>Кількість ходів між створенням автозбереження.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUTOSAVE_KEEP_COUNT">
+            <Text>Кількість автозбережень</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_AUTOSAVE_KEEP_COUNT_DESCRIPTION">
+            <Text>Кількість автозбережень, які зберігаються для поточної гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_PROMOTIONS">
+            <Text>Показувати промо-контент</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_PROMOTIONS_DESCRIPTION">
+            <Text>Відображає промоційний контент від команди Civilization.</Text>
+        </Row>
+
+        <!-- Graphics Options -->
+        <Row Tag="LOC_OPTIONS_GFX_GPU_SELECTION">
+            <Text>Вибір GPU</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_GPU_SELECTION_DESCRIPTION">
+            <Text>Оберіть графічне обладнання, яке використовуватиметься для відтворення гри (потрібен перезапуск).
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SCREEN_MODE">
+            <Text>Режим екрана</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SCREEN_MODE_DESCRIPTION">
+            <Text>Оберіть віконний або повноекранний режим відображення.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SCREEN_MODE_WINDOWED">
+            <Text>У вікні</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SCREEN_MODE_FULLSCREEN">
+            <Text>Повноекранний</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_RESOLUTION">
+            <Text>Роздільна здатність гри</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UNAVAILABLE">
+            <Text>Недоступно</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_AUTO">
+            <Text>Авто</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_RESOLUTION_DESCRIPTION">
+            <Text>Оберіть роздільну здатність гри. У віконному режимі це визначає розмір вікна, а в повноекранному
+                режимі гра розтягується на весь екран.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_VSYNC">
+            <Text>Увімкнути вертикальну синхронізацію</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_VSYNC_DESCRIPTION">
+            <Text>Увімкніть вертикальну синхронізацію, аби уникнути розривів зображення.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_ENABLE_HDR">
+            <Text>Увімкнути HDR</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_ENABLE_HDR_DESCRIPTION">
+            <Text>Увімкнути дисплей із широким динамічним діапазоном (потрібен перезапуск).</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_CALIBRATE_HDR">
+            <Text>Калібрувати HDR</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_CALIBRATE_HDR_DESCRIPTION">
+            <Text>Виконати калібрування відображення із широким динамічним діапазоном.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_HDR">
+            <Text>Калібрувати яскравість інтерфейсу</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_UI_HDR_DESCRIPTION">
+            <Text>Цей блок є прикладом того, як виглядатиме інтерфейс у грі. Використовуйте його як орієнтир, щоб
+                побачити, як рівні яскравості вплинуть на інтерфейс.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_EMBLEM_BRIGHTNESS">
+            <Text>Відрегулюйте налаштування так, щоб верхній емблеми не було видно, а середній квадрат був ледь
+                помітним.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PROFILE">
+            <Text>Профіль графіки</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PROFILE_DESCRIPTION">
+            <Text>Оберіть розширені графічні параметри на основі бажаного рівня якості. Рекомендовано для користувачів,
+                які не знайомі з поглибленими налаштуваннями графіки.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PROFILE_LOW">
+            <Text>Низький</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PROFILE_MEDIUM">
+            <Text>Середній</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PROFILE_HIGH">
+            <Text>Високий</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PROFILE_ULTRA">
+            <Text>Ультра</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PROFILE_CUSTOM">
+            <Text>Користувацький</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA">
+            <Text>Режим підвищення чіткості/антизернистості</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DESCRIPTION">
+            <Text>Оберіть режим підвищення чіткості або згладжування. Підвищення чіткості дозволяє відображати 3D у
+                нижчій роздільній здатності для підвищення продуктивності. Антизернистість зменшує мерехтіння та робить
+                зображення плавнішим.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_MSAA">
+            <Text>MSAA (Антизернистість)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_MSAA_DESCRIPTION">
+            <Text>Увімкнути мультисемплінг MSAA</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_FSR1">
+            <Text>MSAA + AMD FidelityFX Super Resolution 1 (Антизернистість і підвищення чіткості)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_FSR1_DESCRIPTION">
+            <Text>Увімкнути AMD FidelityFX Super Resolution 1 та MSAA</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_FSR3">
+            <Text>AMD FidelityFX Super Resolution 3 (Антизернистість і підвищення чіткості)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_FSR3_DESCRIPTION">
+            <Text>Увімкнути AMD FidelityFX Super Resolution 3</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_FSR3_DESCRIPTION_LONG">
+            <Text>AMD FidelityFX Super Resolution 3 використовує високоякісне масштабування зображення для формування
+                кадрів високої роздільної здатності з високою частотою кадрів.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_XESS">
+            <Text>Intel XeSS (Антизернистість і підвищення чіткості)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_XESS_DESCRIPTION">
+            <Text>Увімкнути Intel XeSS</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_XESS_DESCRIPTION_SHORT">
+            <Text>Технологія Intel Xe Super Sampling (XeSS) використовує машинне навчання для забезпечення вищої
+                продуктивності з чудовою якістю зображення. Апаратно прискорена XeSS оптимізована для графічних
+                процесорів на мікроархітектурі Xe-HPG.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_XESS_DESCRIPTION_MINIMUM">
+            <Text>Технологія Intel Xe Super Sampling (XeSS) використовує машинне навчання, аби надати вищу
+                продуктивність з винятковою якістю зображення.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DLSS">
+            <Text>NVidia DLSS (Антизернистість і підвищення чіткості)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DLSS_DESCRIPTION">
+            <Text>Увімкнути NVidia DLSS</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DLSS_DESCRIPTION_LONG">
+            <Text>NVIDIA DLSS використовує ШІ, щоб збільшувати частоту кадрів, зберігаючи високу якість зображення та
+                відгуку. Ця функція потребує відеокарти GeForce RTX.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DLSS_SUPER_RESOLUTION_DESCRIPTION">
+            <Text>Super Resolution збільшує частоту кадрів, рендерячи меншу кількість пікселів і використовуючи ШІ для
+                формування кадрів високої роздільної здатності. Ця функція потребує відеокарти GeForce RTX.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_UPSCALE_AA_DLSS_DLAA_DESCRIPTION">
+            <Text>NVIDIA DLAA — це режим антизернистості на основі ШІ, який підвищує якість зображення. Ця функція
+                потребує відеокарти GeForce RTX.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_MSAA_QUALITY">
+            <Text>Якість MSAA</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_MSAA_QUALITY_DESCRIPTION">
+            <Text>Згладжує краї об’єктів. Більша кількість зразків виглядає краще, а менша працює швидше та використовує
+                менше пам’яті.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_MSAA_QUALITY_1X">
+            <Text>1x</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_MSAA_QUALITY_2X">
+            <Text>2x</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_MSAA_QUALITY_4X">
+            <Text>4x</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_MSAA_QUALITY_8X">
+            <Text>8x</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_SETTING">
+            <Text>Рівень якості AMD FSR1</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_SETTING_DESCRIPTION">
+            <Text>Встановити рівень якості для AMD FSR1. Вищі рівні виглядають краще, тоді як нижчі працюють швидше.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_PERFORMANCE">
+            <Text>Продуктивність</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_BALANCED">
+            <Text>Збалансовано</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_QUALITY">
+            <Text>Якість</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR1_QUALITY_ULTRA_QUALITY">
+            <Text>Ультра-якість</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_SETTING">
+            <Text>Рівень якості AMD FSR3</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_SETTING_DESCRIPTION">
+            <Text>Встановити рівень якості для AMD FSR3. Вищі рівні виглядають краще, а нижчі працюють швидше.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_ULTRA_PERFORMANCE">
+            <Text>Ультра-продуктивність</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_PERFORMANCE">
+            <Text>Продуктивність</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_BALANCED">
+            <Text>Збалансовано</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_QUALITY">
+            <Text>Якість</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_NATIVE">
+            <Text>Без масштабування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_ULTRA_PERFORMANCE_DESCRIPTION">
+            <Text>Режим ультра-продуктивності дає найбільший приріст продуктивності, зберігаючи якість зображення,
+                близьку до рендерингу в рідній роздільній здатності.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_PERFORMANCE_DESCRIPTION">
+            <Text>Режим продуктивності забезпечує якість зображення, подібну до рідної, зі значним приростом
+                продуктивності.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_BALANCED_DESCRIPTION">
+            <Text>Режим «Збалансовано» пропонує оптимальний компроміс між якістю зображення та продуктивністю.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_QUALITY_DESCRIPTION">
+            <Text>Режим якості дає якість зображення, рівну або вищу за рідну, зі значним приростом продуктивності.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_FSR3_QUALITY_NATIVE_DESCRIPTION">
+            <Text>Режим Native AA забезпечує якість зображення, вищу за рідну, з невеликими витратами продуктивності.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_SETTING">
+            <Text>Рівень якості Intel XeSS</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_SETTING_DESCRIPTION">
+            <Text>Встановити рівень якості для Intel XeSS. Вищі рівні виглядають краще, нижчі працюють швидше.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_PERFORMANCE">
+            <Text>Ультра-продуктивність</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_PERFORMANCE">
+            <Text>Продуктивність</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_BALANCED">
+            <Text>Збалансовано</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_QUALITY">
+            <Text>Якість</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_QUALITY">
+            <Text>Ультра-якість</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_QUALITY_PLUS">
+            <Text>Ультра-якість Плюс</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_NATIVE">
+            <Text>Без масштабування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_PERFORMANCE_DESCRIPTION">
+            <Text>Найбільше покращує загальну продуктивність.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_PERFORMANCE_DESCRIPTION">
+            <Text>Покращує загальну продуктивність.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_BALANCED_DESCRIPTION">
+            <Text>Забезпечує найкращий баланс між продуктивністю та якістю зображення.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_QUALITY_DESCRIPTION">
+            <Text>Забезпечує високоякісне візуальне масштабування.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_QUALITY_DESCRIPTION">
+            <Text>Забезпечує дуже високу якість візуального масштабування.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_ULTRA_QUALITY_PLUS_DESCRIPTION">
+            <Text>Забезпечує найвищу якість візуального масштабування.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_XESS_QUALITY_NATIVE_DESCRIPTION">
+            <Text>Забезпечує найвищу якість антизернистості.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_SETTING">
+            <Text>Рівні якості NVidia DLSS</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_SETTING_DESCRIPTION">
+            <Text>Встановити рівень якості для NVidia DLSS. Вищі рівні виглядають краще, тоді як нижчі працюють
+                швидше.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_AUTO">
+            <Text>Авто</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_ULTRA_PERFORMANCE">
+            <Text>Ультра-продуктивність</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_PERFORMANCE">
+            <Text>Продуктивність</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_BALANCED">
+            <Text>Збалансовано</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_QUALITY">
+            <Text>Якість</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_DLAA">
+            <Text>DLAA</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_AUTO_DESCRIPTION">
+            <Text>Оберіть оптимальний режим DLSS відповідно до поточної роздільної здатності виводу.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_ULTRA_PERFORMANCE_DESCRIPTION">
+            <Text>Дає найбільший приріст продуктивності. Рекомендується лише для гри у 8K.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_PERFORMANCE_DESCRIPTION">
+            <Text>Забезпечує вищий приріст продуктивності, ніж режим «Збалансовано».</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_BALANCED_DESCRIPTION">
+            <Text>Забезпечує оптимальний баланс між продуктивністю та якістю зображення.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_QUALITY_DESCRIPTION">
+            <Text>Забезпечує вищу якість зображення, ніж режим «Збалансовано».</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_DLSS_QUALITY_DLAA_DESCRIPTION">
+            <Text>Забезпечує вищу якість зображення з антизернистістю на базі ШІ. DLAA використовує ту ж технологію
+                Super Resolution, що й DLSS, відтворюючи зображення в рідній роздільній здатності для максимальної
+                якості.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SHARPENING">
+            <Text>Чіткість зображення</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SHARPENING_DESCRIPTION">
+            <Text>Встановіть бажаний рівень різкості зображення.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSAO_QUALITY">
+            <Text>AMD FidelityFX Ambient Occlusion</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSAO_QUALITY_DESCRIPTION">
+            <Text>Встановити рівень якості AMD FidelityFX Ambient Occlusion.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSAO_QUALITY_OFF">
+            <Text>Вимкнено</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSAO_QUALITY_LOW">
+            <Text>Низька</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSAO_QUALITY_MEDIUM">
+            <Text>Середня</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSAO_QUALITY_HIGH">
+            <Text>Висока</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_ASSET_QUALITY">
+            <Text>Якість об’єктів</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_ASSET_QUALITY_DESCRIPTION">
+            <Text>Обирає рівень деталізації 3D-об’єктів у грі. Вищий рівень використовує більш деталізовані об’єкти, а
+                нижчий — простіші, менш деталізовані.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_ASSET_QUALITY_LOW">
+            <Text>Низька</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_ASSET_QUALITY_HIGH">
+            <Text>Висока</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PARTICLE_QUALITY">
+            <Text>Якість частинок</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PARTICLE_QUALITY_DESCRIPTION">
+            <Text>Обирає рівень якості частинкових ефектів, як-от диму та вогню. Високий означає більше частинок із
+                детальнішою анімацією, натомість низький — менше частинок і вища швидкодія.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PARTICLE_QUALITY_LOW">
+            <Text>Низька</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_PARTICLE_QUALITY_HIGH">
+            <Text>Висока</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSR">
+            <Text>AMD FidelityFX Screen Space Reflections</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSR_DESCRIPTION">
+            <Text>Увімкнути відображення 3D-об’єктів у грі.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSSHADOWS">
+            <Text>Тіні у просторі екрану</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSSHADOWS_DESCRIPTION">
+            <Text>Увімкнути тіні у просторі екрану. Це надасть тіням додаткового рівня деталізації.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSOVERLAY">
+            <Text>Накладання у просторі екрану</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SSOVERLAY_DESCRIPTION">
+            <Text>Увімкнути накладання у просторі екрану. Збільшує деталізацію 3D-елементів, таких як кордони культури
+                чи руху.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_BLOOM">
+            <Text>Bloom-ефект</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_BLOOM_DESCRIPTION">
+            <Text>Увімкнути bloom. Імітує роботу деяких сенсорів камер, викликаючи “розмиття” яскравих ділянок.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_TEXTURE_DETAIL">
+            <Text>Деталізація текстур</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_TEXTURE_DETAIL_DESCRIPTION">
+            <Text>Оберіть рівень деталізації текстур. Вищі рівні додають більше деталей об’єктам, а нижчі значно
+                зменшують споживання пам’яті.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_TEXTURE_DETAIL_LOW">
+            <Text>Низька</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_TEXTURE_DETAIL_MEDIUM">
+            <Text>Середня</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_TEXTURE_DETAIL_HIGH">
+            <Text>Висока</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY">
+            <Text>Якість тіней</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY_DESCRIPTION">
+            <Text>Оберіть рівень якості тіней. Вищі рівні забезпечують більш деталізовані тіні, а нижчі швидше працюють
+                і використовують менше пам’яті.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY_LOW">
+            <Text>Низька</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY_MEDIUM">
+            <Text>Середня</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY_HIGH">
+            <Text>Висока</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SHADOW_QUALITY_ULTRA">
+            <Text>Ультра</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_WATER_QUALITY">
+            <Text>Якість води</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_WATER_QUALITY_DESCRIPTION">
+            <Text>Оберіть якість відтворення води. Висока передбачає більше хвиль і ефект заломлення, натомість низька
+                працює швидше.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_WATER_QUALITY_LOW">
+            <Text>Низька</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_WATER_QUALITY_HIGH">
+            <Text>Висока</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_CLOUD_SHADOWS">
+            <Text>Увімкнути хмарні тіні</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_CLOUD_SHADOWS_DESCRIPTION">
+            <Text>Увімкнути відображення тіней від хмар.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_FGX_APPLY_CHANGES">
+            <Text>Застосувати зміни</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_FXS_CLEAR_CHANGES">
+            <Text>Очистити зміни</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_GRAPHICS_OPTIONS">
+            <Text>Графічні параметри</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_GRAPHICS_OPTIONS_RESTART">
+            <Text>Графічні параметри (потрібен перезапуск)</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SHOW_ADVANCED_GRAPHICS_OPTIONS">
+            <Text>Показати розширені параметри графіки</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_RESTART_WARNING">
+            <Text>Деякі щойно застосовані зміни потребують перезапуску застосунку, щоб набути чинності.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_HDR_NOT_AVAILABLE">
+            <Text>HDR недоступний на цьому пристрої.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_NOT_AVAILABLE_IN_GAME">
+            <Text>Ця опція доступна лише з головного меню.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_GENERAL_RESTRICTION">
+            <Text>Неможливо встановити при поточних налаштуваннях графіки.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_SCREEN_MODE_RESTRICTION">
+            <Text>Неможливо встановити при поточному режимі екрана.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_RESOLUTION_RESTRICTION">
+            <Text>Неможливо встановити при поточній роздільній здатності гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GFX_GPU_RESTRICTION">
+            <Text>Неможливо встановити при вибраному GPU.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_DISABLED_IN_GAME">
+            <Text>Цю опцію не можна змінити, перебуваючи в грі.</Text>
+        </Row>
+
+        <!-- System Options -->
+        <Row Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
+            <Text>Мова відображення</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_LANGUAGE">
+            <Text>Мова</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_LANGUAGE_TEXT">
+            <Text>Змінити мову</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_LANGUAGE_DESCRIPTION">
+            <Text>Оберіть мову, яку буде використано для аудіо та тексту.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_LANGUAGE_AUDIO">
+            <Text>Озвучення:</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_LANGUAGE_DISPLAY">
+            <Text>Відображення:</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SHOW_INTRO_VIDEO">
+            <Text>Показувати вступне відео</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SHOW_INTRO_VIDEO_DESCRIPTION">
+            <Text>Показувати вступне відео під час запуску гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CLOCK_FORMAT">
+            <Text>Формат годинника</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CLOCK_FORMAT_DESCRIPTION">
+            <Text>Як відображається реальний час у системній панелі гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CLOCK_FORMAT_AMPM">
+            <Text>AM / PM</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CLOCK_FORMAT_24HR">
+            <Text>24 години</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCALE_UI">
+            <Text>Масштабування інтерфейсу</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCALE_UI_DESCRIPTION">
+            <Text>Збільшити розміри всього інтерфейсу.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCALE_UI_AUTO">
+            <Text>авто</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCALE_UI_1">
+            <Text>1x</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCALE_UI_2">
+            <Text>2x</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_SCALE_UI_4">
+            <Text>4x</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MINIMAP_SIZE">
+            <Text>Розмір мінікарти</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MINIMAP_SIZE_DESCRIPTION">
+            <Text>Оберіть розмір мінікарти, який буде показано в інтерфейсі.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MINIMAP_SIZE_SMALL">
+            <Text>мала</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MINIMAP_SIZE_MEDIUM">
+            <Text>середня</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MINIMAP_SIZE_LARGE">
+            <Text>велика</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TOOLTIP_DELAY">
+            <Text>Затримка підказки</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TOOLTIP_DELAY_DESCRIPTION">
+            <Text>Скільки секунд чекати перед показом підказки в інтерфейсі.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TOOLTIP_DELAY_VALUE">
+            <Text>{1: number 0.0}s</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
+            <Text>Затримка підказки світу</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_DESCRIPTION">
+            <Text>Скільки секунд чекати перед показом підказки над клітинками на мапі.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE">
+            <Text>{1: number 0.0}s</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TEXT_SCROLLING_SPEED">
+            <Text>Швидкість прокручування тексту</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TEXT_SCROLLING_SPEED_DESCRIPTION">
+            <Text>Наскільки швидко автоматично прокручувати текст.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_WARN_MOD">
+            <Text>Попереджати про сумісність MOD</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_WARN_MOD_DESCRIPTION">
+            <Text>Попереджати про можливі проблеми сумісності при завантаженні модів.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_USE_RGB">
+            <Text>Використовувати RGB-підсвічування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_USE_RGB_DESCRIPTION">
+            <Text>Використовувати сумісне RGB-підсвічування від сторонніх виробників у грі.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RIBBON_DISPLAY">
+            <Text>Завжди показувати доходи в стрічці</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RIBBON_DISPLAY_DESCRIPTION">
+            <Text>Завжди показувати доходи гравців у верхній стрічці інтерфейсу.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_LOCK_MOUSE">
+            <Text>Заблокувати мишу у вікні</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_LOCK_MOUSE_DESCRIPTION">
+            <Text>Утримувати курсор миші в межах вікна гри.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MOUSE_WHEEL_SPEED">
+            <Text>Швидкість коліщатка миші</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_MOUSE_WHEEL_SPEED_DESCRIPTION">
+            <Text>Встановити швидкість прокручування коліщатком миші.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_REPLACE_HOLD_TO_DRAG">
+            <Text>Замінити утримування для перетягування на клацання</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_REPLACE_HOLD_TO_DRAG_DESCRIPTION">
+            <Text>Замінити функціональність “натиснув і утримуй” для перетягування на “клік, перетягнути та
+                відпустити”.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CAMERA_PANNING_SPEED">
+            <Text>Швидкість панорамування камери</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CAMERA_PANNING_SPEED_DESCRIPTION">
+            <Text>Наскільки швидко рухається камера під час панорамування.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_NOTIFICATION_CAMERA_PAN">
+            <Text>Автопереміщення камери на сповіщення</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_NOTIFICATION_CAMERA_PAN_DESCRIPTION">
+            <Text>Автоматично переміщувати камеру на наступне сповіщення, що блокує хід.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CAMERA_MOVEMENT_FRICTION">
+            <Text>Коефіцієнт тертя при переміщенні камери</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_CAMERA_MOVEMENT_FRICTION_DESCRIPTION">
+            <Text>Наскільки сильно камера “сповільнюється” при панорамуванні аналоговим стіком.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ZOOM_SPEED">
+            <Text>Швидкість масштабування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ZOOM_SPEED_DESCRIPTION">
+            <Text>Наскільки швидко камера змінює масштаб.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TOUCH_INPUT_ENABLE">
+            <Text>Увімкнути сенсорне введення</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TOUCH_INPUT_ENABLE_DESCRIPTION">
+            <Text>Чи слід вмикати сенсорне керування у грі.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TOUCH_INPUT_NOT_AVAILABLE">
+            <Text>Цей пристрій не налаштовано для сенсорного введення.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TOUCH_INPUT_TOOLTIP_DELAY">
+            <Text>Затримка підказки для сенсорного керування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_TOUCH_INPUT_TOOLTIP_DESCRIPTION">
+            <Text>Впливає на затримку показу підказки під час використання сенсорного керування.</Text>
+        </Row>
+
+        <!-- GROUP -->
+        <Row Tag="LOC_OPTIONS_GROUP_ADVISORS">
+            <Text>Радники</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_ADVANCED">
+            <Text>Розширені</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_AUTOSAVES">
+            <Text>Автозбереження</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_CAMERA">
+            <Text>Камера</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_CONTROLS">
+            <Text>Керування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_GAMEPAD">
+            <Text>Геймпад</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_GENERAL">
+            <Text>Загальні</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_SUBTITLES">
+            <Text>Субтитри</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_TIMEOFDAY">
+            <Text>Час доби</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_TOUCH">
+            <Text>Сенсорне керування</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_TUTORIAL">
+            <Text>Навчання</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_GROUP_VOLUME">
+            <Text>Гучність</Text>
+        </Row>
+        <!-- Input -->
+        <Row Tag="LOC_OPTIONS_REMAP_KBM">
+            <Text>Клавіатура + Миша</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_REMAP_KBM_DESCRIPTION">
+            <Text>Налаштувати керування за допомогою клавіатури та миші.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ADAPTIVE_TRIGGERS_ENABLED">
+            <Text>Адаптивні тригери ввімкнено</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_ADAPTIVE_TRIGGERS_ENABLED_DESCRIPTION">
+            <Text>Чи увімкнена функція адаптивного впливу на тригери в грі.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RUMBLE">
+            <Text>Вібрація геймпада</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_RUMBLE_DESCRIPTION">
+            <Text>Увімкнути або вимкнути функцію вібрації геймпада.</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HDR_EMBLEM_VISIBILITY">
+            <Text>Відрегулюйте налаштування так, щоб верхній емблеми не було видно, а середній квадрат був ледь
+                помітним.
+            </Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HDR_CONFIRM">
+            <Text>Підтвердити зміни</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HDR_DISCARD">
+            <Text>Скасувати зміни</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HDR_CONSTRAST">
+            <Text>Контраст</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HDR_3D_BRIGHTNESS">
+            <Text>Яскравість 3D</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HDR_UI_BRIGHTNESS">
+            <Text>Яскравість інтерфейсу</Text>
+        </Row>
+        <Row Tag="LOC_REMAP_SCOUT_FOUNDER">
+            <Text>Скін розвідника Deluxe Edition</Text>
+        </Row>
+        <Row Tag="LOC_REMAP_PALACE_FOUNDER">
+            <Text>Палац Founders Edition</Text>
+        </Row>
+        <Row Tag="LOC_REMAP_FOW_FOUNDER">
+            <Text>Тайли туману війни Founders Edition</Text>
+        </Row>
+    </EnglishText>
+</Database>

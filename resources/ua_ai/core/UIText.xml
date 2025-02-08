@@ -5,7 +5,7 @@
 			<Text>Прийняти</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_OK">
-			<Text>ОК</Text>
+			<Text>Гаразд</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_SAVE">
 			<Text>Зберегти</Text>
@@ -14,28 +14,28 @@
 			<Text>Вибрати</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_DESELECT">
-			<Text>Відмінити вибір</Text>
+			<Text>Скасувати вибір</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_BACK">
 			<Text>Назад</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_UNLINK">
-			<Text>Відв'язати</Text>
+			<Text>Від'єднати</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_TWOKPORTAL">
-			<Text>2K Portal</Text>
+			<Text>2K Портал</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_LOGOUT">
-			<Text>Logout</Text>
+			<Text>Вийти</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_CANCEL">
-			<Text>Відхилити</Text>
+			<Text>Скасувати</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_REDEEMCODE">
-			<Text>Redeem Code</Text>
+			<Text>Активувати код</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_REDEEM">
-			<Text>Redeem</Text>
+			<Text>Активувати</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_CLOSE">
 			<Text>Закрити</Text>
@@ -53,10 +53,10 @@
 			<Text>Продовжити</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_RESUME">
-			<Text>Resume</Text>
+			<Text>Відновити</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_GO">
-			<Text>Go</Text>
+			<Text>Йти</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_MORE_INFO">
 			<Text>Більше інформації</Text>
@@ -71,7 +71,7 @@
 			<Text>Приховати деталі</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_CHOOSE">
-			<Text>Обрати {1_Choice}</Text>
+			<Text>Вибрати {1_Choice}</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_POSITION">
 			<Text>Позиція</Text>
@@ -100,165 +100,165 @@
 		</Row>
 		<!-- Tooltip for the fxs-minimize-button -->
 		<Row Tag="LOC_PANEL_X_MINIMIZE">
-			<Text>Minimize/Maximize this</Text>
+			<Text>Згорнути/Розгорнути це</Text>
 		</Row>
 		<!-- closemgr.ts dialog strings -->
 		<Row Tag="LOC_CLOSEMGR_CONFIRM_TITLE">
-			<Text>Confirm Quitting</Text>
+			<Text>Підтвердити вихід</Text>
 		</Row>
 		<Row Tag="LOC_CLOSEMGR_CONFIRM_BODY">
-			<Text>Are you sure you want to quit?</Text>
+			<Text>Ви впевнені, що хочете вийти?</Text>
 		</Row>
 		<Row Tag="LOC_RADIAL_MENU_TITLE_TEXT">
-			<Text>Radial Menu</Text>
+			<Text>Радіальне меню</Text>
 		</Row>
 		<!-- Filter & Sort Popup -->
 		<Row Tag="LOC_UI_FILTER_SORT_FILTERS">
-			<Text>Filters</Text>
+			<Text>Фільтри</Text>
 		</Row>
 		<Row Tag="LOC_UI_FILTER_SORT_SORTING">
-			<Text>Sorting</Text>
+			<Text>Сортування</Text>
 		</Row>
 		<Row Tag="LOC_UI_DROPDOWN_NO_SELECTION">
-			<Text>Select an item</Text>
+			<Text>Виберіть елемент</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_SEND">
-			<Text>Send</Text>
+			<Text>Надіслати</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_SEND_TO">
-			<Text>Send To</Text>
+			<Text>Надіслати до</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_ICONS">
-			<Text>Icons</Text>
+			<Text>Іконки</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_ICONS_EMOJI">
-			<Text>Emojis</Text>
+			<Text>Емодзі</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_ICONS_RESOURCES">
-			<Text>Resources</Text>
+			<Text>Ресурси</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_ICONS_YIELDS">
-			<Text>Yields</Text>
+			<Text>Виходи</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PREVIEW">
-			<Text>Preview</Text>
+			<Text>Попередній перегляд</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_TO">
-			<Text>To</Text>
+			<Text>До</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_FROM">
-			<Text>From</Text>
+			<Text>Від</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PRIVATE">
-			<Text>Private</Text>
+			<Text>Приватний</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_OPEN_TIP">
-			<Text>Open chat panel</Text>
+			<Text>Відкрити панель чату</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_TOGGLE_TIP">
-			<Text>Toggle chat panel</Text>
+			<Text>Перемкнути панель чату</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_OPEN_TIP_PRIVATE">
-			<Text>Open target options</Text>
+			<Text>Відкрити параметри цілі</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_OPEN_TIP_PREVIEW">
-			<Text>Open message preview</Text>
+			<Text>Відкрити попередній перегляд повідомлення</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_OPEN_TIP_ICONS">
-			<Text>Open icon options</Text>
+			<Text>Відкрити параметри іконок</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_CONNECTED">
-			<Text>Player [STYLE:mp-chat__text-shrink]{1_Name} [/S]is connected...</Text>
+			<Text>Гравець [STYLE:mp-chat__text-shrink]{1_Name} [/S]підключений...</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_DISCONNECTED">
-			<Text>Player [STYLE:mp-chat__text-shrink]{1_Name} [/S]is disconnected...</Text>
+			<Text>Гравець [STYLE:mp-chat__text-shrink]{1_Name} [/S]відключений...</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_VOTE_KICK">
-			<Text>The vote against [STYLE:mp-chat__text-shrink]{1_Name} [/S]is successful.</Text>
+			<Text>Голосування проти [STYLE:mp-chat__text-shrink]{1_Name} [/S]успішне.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_DIRECT_KICK">
-			<Text>The direct kick against [STYLE:mp-chat__text-shrink]{1_Name} [/S]is successful.</Text>
+			<Text>Пряме вигнання проти [STYLE:mp-chat__text-shrink]{1_Name} [/S]успішне.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_DIRECT_FAIL">
-			<Text>The direct kick against [STYLE:mp-chat__text-shrink]{1_Name} [/S]has failed.</Text>
+			<Text>Пряме вигнання проти [STYLE:mp-chat__text-shrink]{1_Name} [/S]не вдалося.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_VOTE_NOT_ENOUGH_PLAYERS">
-			<Text>The vote against [STYLE:mp-chat__text-shrink]{1_Name} [/S]is cancelled. There were not enough voters.</Text>
+			<Text>Голосування проти [STYLE:mp-chat__text-shrink]{1_Name} [/S]скасовано. Недостатньо виборців.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_VOTE_TARGET_INVALID">
-			<Text>The vote against [STYLE:mp-chat__text-shrink]{1_Name} [/S]is cancelled. They are not a valid kick target.</Text>
+			<Text>Голосування проти [STYLE:mp-chat__text-shrink]{1_Name} [/S]скасовано. Вони не є дійсною ціллю для вигнання.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_VOTE_TIME_ELAPSED">
-			<Text>The vote against [STYLE:mp-chat__text-shrink]{1_Name} [/S]is cancelled. The time to vote elapsed.</Text>
+			<Text>Голосування проти [STYLE:mp-chat__text-shrink]{1_Name} [/S]скасовано. Час для голосування минув.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_VOTE_NO_KICK">
-			<Text>The vote against [STYLE:mp-chat__text-shrink]{1_Name} [/S]is refused.</Text>
+			<Text>Голосування проти [STYLE:mp-chat__text-shrink]{1_Name} [/S]відхилено.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_VERSION_MISMATCH">
-			<Text>Player [STYLE:mp-chat__text-shrink]{1_Name} [/S]has been kicked due to version mismatch.</Text>
+			<Text>Гравець [STYLE:mp-chat__text-shrink]{1_Name} [/S]вигнаний через невідповідність версій.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_DEFAULT">
-			<Text>Player [STYLE:mp-chat__text-shrink]{1_Name} [/S]has been kicked.</Text>
+			<Text>Гравець [STYLE:mp-chat__text-shrink]{1_Name} [/S]вигнаний.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_MOD_MISSING">
-			<Text>Player [STYLE:mp-chat__text-shrink]{1_Name} [/S]has been kicked due to mod missing.</Text>
+			<Text>Гравець [STYLE:mp-chat__text-shrink]{1_Name} [/S]вигнаний через відсутність моду.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_MOD_ERROR">
-			<Text>Player [STYLE:mp-chat__text-shrink]{1_Name} [/S]has been kicked due to mod error.</Text>
+			<Text>Гравець [STYLE:mp-chat__text-shrink]{1_Name} [/S]вигнаний через помилку моду.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_CROSSPLAY_DISABLED_HOST">
-			<Text>Player [STYLE:mp-chat__text-shrink]{1_Name} [/S]has been kicked due to crossplay disabled on host.</Text>
+			<Text>Гравець [STYLE:mp-chat__text-shrink]{1_Name} [/S]вигнаний через вимкнений кросплей на хості.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_CROSSPLAY_DISABLED_CLIENT">
-			<Text>Player [STYLE:mp-chat__text-shrink]{1_Name} [/S]has been kicked due to crossplay disabled on client.</Text>
+			<Text>Гравець [STYLE:mp-chat__text-shrink]{1_Name} [/S]вигнаний через вимкнений кросплей на клієнті.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PANEL_PLAYER_KICKED_NO_ROOM">
-			<Text>Player [STYLE:mp-chat__text-shrink]{1_Name} [/S]has been kicked due to no room left.</Text>
+			<Text>Гравець [STYLE:mp-chat__text-shrink]{1_Name} [/S]вигнаний через відсутність місця.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_LIST">
-			<Text>Available Chat Command List:</Text>
+			<Text>Доступний список команд чату:</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_ARG_MESSAGE">
-			<Text>(ChatMessage)</Text>
+			<Text>(Повідомлення чату)</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_ARG_PLAYER">
-			<Text>(PlayerName)</Text>
+			<Text>(Ім'я гравця)</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_PROMPT_HELP">
-			<Text>Type '/help' or '/h' to see all the chat commands</Text>
+			<Text>Введіть '/help' або '/h', щоб побачити всі команди чату</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_DESC_HELP">
-			<Text>Lists chat commands in the chat panel.</Text>
+			<Text>Перелічує команди чату в панелі чату.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_DESC_GLOBAL">
-			<Text>Send a global chat.</Text>
+			<Text>Надіслати глобальне повідомлення.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_GAMEPAD_INPUT_DESC_GLOBAL">
-			<Text>Write to GLOBAL</Text>
+			<Text>Написати в ГЛОБАЛЬНИЙ</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_DESC_PRIVATE">
-			<Text>Send a private message to {1_Name}.</Text>
+			<Text>Надіслати приватне повідомлення до {1_Name}.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_GAMEPAD_INPUT_DESC_PRIVATE">
-			<Text>Write to {1_Name}</Text>
+			<Text>Написати до {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_DESC_RESPOND">
-			<Text>Respond to the most recent private message.</Text>
+			<Text>Відповісти на останнє приватне повідомлення.</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_NEW_MESSAGE">
-			<Text>New Messages</Text>
+			<Text>Нові повідомлення</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_ERROR_UNKNOWN">
-			<Text>Command Error: Unknown Command '/{1_Name}'</Text>
+			<Text>Помилка команди: Невідома команда '/{1_Name}'</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_ERROR_PLAYER">
-			<Text>Command Error: Player with name '{1_Name}' doesn't exist or there is more than one player with this name. Please write a precise name</Text>
+			<Text>Помилка команди: Гравець з ім'ям '{1_Name}' не існує або є більше одного гравця з цим ім'ям. Будь ласка, напишіть точне ім'я</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_ERROR_BLANK">
-			<Text>Command Error: Please send a message</Text>
+			<Text>Помилка команди: Будь ласка, надішліть повідомлення</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_COMMAND_ERROR_RESPOND">
-			<Text>Command Error: No private message to respond to</Text>
+			<Text>Помилка команди: Немає приватного повідомлення для відповіді</Text>
 		</Row>
 		<Row Tag="LOC_UI_CHAT_PROMPT_HELP_SHORT">
 			<Text>h</Text>
@@ -276,67 +276,67 @@
 			<Text>r</Text>
 		</Row>
 		<Row Tag="LOC_OOBE_TITLE_LANGUAGE">
-			<Text>Choose Your Languages</Text>
+			<Text>Виберіть свої мови</Text>
 		</Row>
 		<Row Tag="LOC_OOBE_TITLE_DISPLAY">
-			<Text>Choose Your Display Options</Text>
+			<Text>Виберіть параметри відображення</Text>
 		</Row>
 		<Row Tag="LOC_OOBE_TITLE_AUDIO">
-			<Text>Choose Your Audio Options</Text>
+			<Text>Виберіть параметри аудіо</Text>
 		</Row>
 		<Row Tag="LOC_OOBE_TITLE_AUTOSAVE">
-			<Text>This game supports auto save.[n]Please do not turn off your game when you see this icon.</Text>
+			<Text>Ця гра підтримує автоматичне збереження.[n]Будь ласка, не вимикайте гру, коли бачите цей значок.</Text>
 		</Row>
 		<Row Tag="LOC_UI_SPOP_LOGOUT_GAME">
-			<Text>Logout</Text>
+			<Text>Вийти</Text>
 		</Row>
 		<Row Tag="LOC_UI_TERMINATE_SESSION">
-			<Text>Terminate other session</Text>
+			<Text>Завершити іншу сесію</Text>
 		</Row>
 		<Row Tag="LOC_UI_MP_SOCIAL_BUTTON_LABEL">
-			<Text>Social Menu</Text>
+			<Text>Соціальне меню</Text>
 		</Row>
 		<Row Tag="LOC_UI_SOCIAL_TITLE">
-			<Text>Social</Text>
+			<Text>Соціальне</Text>
 		</Row>
 		<Row Tag="LOC_UI_NO_INTERNET_CONNECTION_TITLE">
-			<Text>NO INTERNET CONNECTION</Text>
+			<Text>НЕМАЄ ІНТЕРНЕТ З'ЄДНАННЯ</Text>
 		</Row>
 		<Row Tag="LOC_UI_NO_INTERNET_CONNECTION">
-			<Text>Any existing cloud saves will not be available.[n]Any game progress made may not be saved.</Text>
+			<Text>Будь-які існуючі хмарні збереження будуть недоступні.[n]Будь-який прогрес у грі може не зберегтися.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTIVITY_LEAVE_MP_GAME_TITLE">
-			<Text>LEAVE MULTIPLAYER GAME?</Text>
+			<Text>ЗАЛИШИТИ БАГАТОКОРИСТУВАЦЬКУ ГРУ?</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTIVITY_LEAVE_GAME_TITLE">
-			<Text>LEAVE GAME?</Text>
+			<Text>ЗАЛИШИТИ ГРУ?</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTIVITY_LAST_SAVE_DESC">
-			<Text>If you continue to your last save, you will leave this match. Are you certain?</Text>
+			<Text>Якщо ви продовжите до останнього збереження, ви покинете цей матч. Ви впевнені?</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTIVITY_HOST_MP_DESC">
-			<Text>If you continue to a new lobby, you will leave this game without saving. Are you certain?</Text>
+			<Text>Якщо ви продовжите до нового лобі, ви покинете цю гру без збереження. Ви впевнені?</Text>
 		</Row>
 		<Row Tag="LOC_UI_TOOLTIP_MODS">
-			<Text>Mods</Text>
+			<Text>Моди</Text>
 		</Row>
 		<Row Tag="LOC_UI_TOOLTIP_DLCS">
-			<Text>Official Content</Text>
+			<Text>Офіційний контент</Text>
 		</Row>
 		<Row Tag="LOC_UI_REDEEM_CODE_TEXT_FIELD">
-			<Text>Enter Code Here</Text>
+			<Text>Введіть код тут</Text>
 		</Row>
 		<Row Tag="LOC_UI_REDEEM_CODE_SUCCESS_TITLE">
-			<Text>Code Successful</Text>
+			<Text>Код успішний</Text>
 		</Row>
 		<Row Tag="LOC_UI_REDEEM_CODE_FAILED_TITLE">
-			<Text>Invalid Code</Text>
+			<Text>Недійсний код</Text>
 		</Row>
 		<Row Tag="LOC_UI_REDEEM_CODE_ALREADY_REDEEMED_TITLE">
-			<Text>Code Already Redeemed</Text>
+			<Text>Код вже активовано</Text>
 		</Row>
 		<Row Tag="LOC_UI_REDEEM_CODE_SUCCESS_INFO">
-			<Text>Code redemption successful! You have been granted:[n]{1_ListOfNames}[n]Would you like to redeem another code?</Text>
+			<Text>Активація коду успішна! Вам надано:[n]{1_ListOfNames}[n]Бажаєте активувати інший код?</Text>
 		</Row>
 		<Row Tag="LOC_UI_REDEEM_CODE_SUCCESS_INFO_ENTITLEMENT">
 			<Text>- {1_Name}[n]</Text>
@@ -345,53 +345,53 @@
 			<Text>- {1_Amount} {2_Name}[n]</Text>
 		</Row>
 		<Row Tag="LOC_UI_REDEEM_CODE_FAILED_INFO">
-			<Text>This code is invalid.[n]{1_ErrorMessage}[n]Would you like to redeem a different code?</Text>
+			<Text>Цей код недійсний.[n]{1_ErrorMessage}[n]Бажаєте активувати інший код?</Text>
 		</Row>
 		<Row Tag="LOC_UI_REDEEM_CODE_ALREADY_REDEEMED_INFO">
-			<Text>This code has already been redeemed.[n]Would you like to redeem a different code?</Text>
+			<Text>Цей код вже активовано.[n]Бажаєте активувати інший код?</Text>
 		</Row>
 		<!-- Error used for Code Redemption and (possibly?) gift boxes when we hook them up -->
 		<Row Tag="LOC_UI_ERROR_DECODING_ENTITLEMENT_NAME">
-			<Text>Error G100: Could not decode name of granted item</Text>
+			<Text>Помилка G100: Не вдалося декодувати назву наданого елемента</Text>
 		</Row>
 		<Row Tag="LOC_UI_TOOLTIP_STORE">
-			<Text>Collection</Text>
+			<Text>Колекція</Text>
 		</Row>
 		<Row Tag="LOC_UI_STORE_DESCRIPTION">
-			<Text>View additional content available for Civilization VII</Text>
+			<Text>Перегляньте додатковий контент, доступний для Civilization VII</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENABLED">
-			<Text>Enabled</Text>
+			<Text>Увімкнено</Text>
 		</Row>
 		<Row Tag="LOC_UI_DISABLED">
-			<Text>Disabled</Text>
+			<Text>Вимкнено</Text>
 		</Row>
 		<Row Tag="LOC_UI_DEPENDENDENCIES">
-			<Text>Dependencies</Text>
+			<Text>Залежності</Text>
 		</Row>
 		<Row Tag="LOC_UI_MOD_AUTHOR">
-			<Text>Author: {1_Name}</Text>
+			<Text>Автор: {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_AUTHORS_FIRAXIS">
 			<Text>Firaxis Games</Text>
 		</Row>
 		<Row Tag="LOC_UI_MOD_DATE">
-			<Text>Created: {1_Date: datetime}</Text>
+			<Text>Створено: {1_Date: datetime}</Text>
 		</Row>
 		<Row Tag="LOC_UI_AFFECTS_SAVE">
-			<Text>Affects saved games: </Text>
+			<Text>Впливає на збережені ігри: </Text>
 		</Row>
 		<Row Tag="LOC_UI_MOD_SINGLE_PLAYER">
-			<Text>Single Player: </Text>
+			<Text>Одиночна гра: </Text>
 		</Row>
 		<Row Tag="LOC_UI_MOD_MULTIPLAYER">
-			<Text>Multiplayer: </Text>
+			<Text>Багатокористувацька гра: </Text>
 		</Row>
 		<Row Tag="LOC_UI_TEXT_ENTRY_DENIAL">
-			<Text>Invalid text entry</Text>
+			<Text>Недійсний текстовий запис</Text>
 		</Row>
 		<Row Tag="LOC_UI_MOD_NONE_AVAILABLE">
-			<Text>No additional content available.</Text>
+			<Text>Додатковий контент недоступний.</Text>
 		</Row>
 	</EnglishText>
 </Database>
