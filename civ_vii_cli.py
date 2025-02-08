@@ -6,11 +6,20 @@
 import argparse
 import os
 import shutil
+import sys
 from collections import defaultdict
 from io import StringIO
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
+if getattr(sys, "frozen", False):
+    # If the application is run as a bundle, the PyInstaller bootloader
+    # sets the sys._MEIPASS attribute to the path of the bundle's temporary folder.
+    base_path = Path(sys._MEIPASS)
+else:
+    base_path = Path(__file__).parent
+
+resources_path = base_path / "resources"
 
 CIV_VII_FOLDER_NAME = "Sid Meier's Civilization VII"
 CIV_VII_RESOURCES_FOLDER_PATH = ["Base", "modules"]
@@ -117,7 +126,7 @@ def store_original(path_to_game: Path) -> None:
         translation_path = path_to_game.joinpath(
             *CIV_VII_RESOURCES_FOLDER_PATH, module, *CIV_VII_LOC_PATH
         )
-        target_path = Path(__file__).parent / "resources" / "en_us" / module
+        target_path = resources_path / "en_us" / module
         target_path.mkdir(parents=True, exist_ok=True)
         for item in translation_path.iterdir():
             shutil.copy(item, target_path / item.name)
@@ -125,7 +134,7 @@ def store_original(path_to_game: Path) -> None:
 
 def setup_translation(path_to_game: Path):
     for module in CIV_VII_MODULES:
-        localized_path = Path(__file__).parent / "resources" / "ua_ua" / module
+        localized_path = resources_path / "ua_ua" / module
         target_path = path_to_game.joinpath(
             *CIV_VII_RESOURCES_FOLDER_PATH, module, *CIV_VII_LOC_PATH
         )
@@ -135,7 +144,7 @@ def setup_translation(path_to_game: Path):
 
 def setup_ai_translation(path_to_game: Path):
     for module in CIV_VII_MODULES:
-        localized_path = Path(__file__).parent / "resources" / "ua_ai" / module
+        localized_path = resources_path / "ua_ai" / module
         target_path = path_to_game.joinpath(
             *CIV_VII_RESOURCES_FOLDER_PATH, module, *CIV_VII_LOC_PATH
         )
@@ -145,7 +154,7 @@ def setup_ai_translation(path_to_game: Path):
 
 def restore_original(path_to_game: Path):
     for module in CIV_VII_MODULES:
-        localized_path = Path(__file__).parent / "resources" / "ua_ai" / module
+        localized_path = resources_path / "en_us" / module
         target_path = path_to_game.joinpath(
             *CIV_VII_RESOURCES_FOLDER_PATH, module, *CIV_VII_LOC_PATH
         )
@@ -161,11 +170,11 @@ def calculate_translation_rate(ai_translation: bool = False):
 
     This rate obviously is not 100 % correct, but it can be used as a rough estimate.
     """
-    original_documents = Path(__file__).parent / "resources" / "en_us"
+    original_documents = resources_path / "en_us"
     if ai_translation:
-        translated_documents = Path(__file__).parent / "resources" / "ua_ai"
+        translated_documents = resources_path / "ua_ai"
     else:
-        translated_documents = Path(__file__).parent / "resources" / "ua_ua"
+        translated_documents = resources_path / "ua_ua"
 
     total_strings = 0
     translated_strings = 0
