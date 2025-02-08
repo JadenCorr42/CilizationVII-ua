@@ -135,7 +135,7 @@ def setup_translation(path_to_game: Path):
 
 def setup_ai_translation(path_to_game: Path):
     for module in CIV_VII_MODULES:
-        localized_path = Path(__file__).parent / "resources" / "ua_ua" / module
+        localized_path = Path(__file__).parent / "resources" / "ua_ai" / module
         target_path = path_to_game.joinpath(
             *CIV_VII_RESOURCES_FOLDER_PATH, module, *CIV_VII_LOC_PATH
         )
