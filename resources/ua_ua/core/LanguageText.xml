@@ -2,10 +2,10 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_LANGUAGE_DEFAULT_NAME">
-			<Text>System Default</Text>
+			<Text>За замовчуванням системи</Text>
 		</Row>
 		<Row Tag="LOC_LANGUAGE_EN_US_NAME">
-			<Text>English</Text>
+			<Text>Українська</Text>
 		</Row>
 		<Row Tag="LOC_LANGUAGE_FR_FR_NAME">
 			<Text>Français (French)</Text>
@@ -23,7 +23,7 @@
 			<Text>日本語 (Japanese)</Text>
 		</Row>
 		<Row Tag="LOC_LANGUAGE_RU_RU_NAME">
-			<Text>Русский (Russian)</Text>
+			<Text>Ворожа (Вам не потрібно)</Text>
 		</Row>
 		<Row Tag="LOC_LANGUAGE_PT_BR_NAME">
 			<Text>Português (Portuguese)</Text>
