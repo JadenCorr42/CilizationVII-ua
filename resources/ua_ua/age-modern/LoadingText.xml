@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_AMERICA">
+			<Text>America was a new nation, one founded on Enlightenment ideals of progress and rationality, industry and progress, and ever-expanding horizons. The American Revolution ignited from this demand for expansion: to expand trade independently to the Caribbean, to extend the colonies’ borders westward (into land held by indigenous nations), and freedom from British tariffs and taxes. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_BUGANDA">
+			<Text>From the shores of Nnalubaale  – Lake Victoria – were launched the deadly war canoes of Buganda. By the late 19th century, Buganda was the most populous place in Africa’s interior, with man-made lakes, a well-ordered city, and envoys from all the surrounding people seeking the king’s ear. And well they should – Bagandan raids were a terrifying force.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_FRENCH_EMPIRE">
+			<Text>From the long shadow of the guillotine, to the bright streamers of the revolutionary cockade, to the thunder of Napoleon’s cannon, to the Belle Epoque’s “City of Light” and the iron needle of the Eiffel Tower – France emerges. In the wake of the Revolution, the nation rocked from monarchy to republic and back again. But the Third French Republic brought a moment of respite, of avenues, industry, and salons…a breath before the coming storms.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_MEXICO">
+			<Text>For centuries, Spain extracted from the New World natural resources and the wealth of past empires. But following Napoleon's conquest of Spain, many saw an opportunity to create a new, free society in Mexico. Mexicans succeeded in their struggle for freedom, but questions remained of the nature of democracy, relationships between indigenous and white Spaniards, and how the Mexican economy would operate relative to its northern neighbor. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_MUGHAL">
+			<Text>Forged in conquest, the Mughal Dynasty oversaw a vast and prosperous empire, controlling as it did nearly a quarter of the world’s industrial output. Under the Mughals, India adopted a centralized monarchy, where authority – and riches – stemmed from proximity to the throne, where wealthy rulers built wonders, and factories churned day and night. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_MEIJI">
+			<Text>The chaos that followed the forced opening of Edo Japan led to a new synthesis: the Meiji. This was an era of profound change and contradiction. Meiji Japan fused Western government and technology onto the bones of Edo, expanding furiously and challenging Europe for dominance. A new dawn had broken upon the Pacific, dramatic and glorious, fiery and terrible.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_PRUSSIA">
+			<Text>Relentless in modernization, rationality, and conquest, Prussia brought Germany under its reign. Externally, Prussia waged war against nearly all of the major European powers of the day. Internally, it was an industrial powerhouse, with rail lines stitching together coal mines and steel refineries. By 1866, Prussia had encompassed most of present-day Germany and part of Poland, leading to its transformation from kingdom to empire.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_QING">
+			<Text>As the Ming Dynasty shuddered under financial strain, a challenge appeared from its frontier – the Manchu, who were to establish the Qing Dynasty. The Qing led a new era, incorporating the Han Chinese majority and Manchu rulers together in a new, industrial and expansionist order. They claimed new dominions in neighboring states, even as they struggled with European imperial ambitions.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_RUSSIA">
+			<Text>Imperial Russia was known for many things: its vast span across Europe and Asia, luxury and inequality, art and culture. Caught between the eternal question of Russia’s role as part of Europe and the Russian dusha, or soul, the Romanov reign held at the center of its ideology a model of “enlightened absolutism.” With orthodoxy, autocracy, and nationality at its core, Russia brought this rule to bear on populations from Siberia to East Asia.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_SIAM">
+			<Text>Between British colonial expansion in India and French claims in Indochina, Siam emerged. It slowly took in and adapted colonial governance, incorporating parts of Laos, Lanna, and Malaya, walking a delicate line between adopting Western norms and maintaining its own Buddhist traditions and developing into the Thailand of today.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_AMERICA">
+			<Text>From the fertile soil of America springs forth a brave new world, driven by passion, ideas, and a desire to shape the future.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_BUGANDA">
+			<Text>From the lakes, with war-canoe and spear, rifle and kingly authority, the Baganda of Buganda come. Let all kneel before the throne of the kabakas.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_FRENCH_EMPIRE">
+			<Text>France looks out upon an incomplete world-- a blank canvas waiting to be marked.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_MEIJI">
+			<Text>The sun rises. The Meiji ascend.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_MEXICO">
+			<Text>A world built from the bones of the past, refashioned for a new future: Mexico has arrived.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_MUGHAL">
+			<Text>The Mughals come, foreigners to the land, but with a drive to assemble the foundations of an empire from the detritus of what went before. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_PRUSSIA">
+			<Text>A harbinger of change, Prussia ushers in an age of explosive growth and opportunity.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_QING">
+			<Text>The Eight Banners rise to make way for the Qing.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_RUSSIA">
+			<Text>The velikaya dusha - the great Russian soul - emerges upon the world, with its unquenchable appetite for knowledge, poetry... and conquest.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_SIAM">
+			<Text>Siam grows like mai pai, like forest bamboo. It bends with the changing winds, it does not break.</Text>
+		</Row>
+	</EnglishText>
+</Database>
