@@ -2,1323 +2,1323 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_BANNER_DESCRIPTION">
-			<Text>A customizable Banner.</Text>
+			<Text>Налаштовуваний банер.</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_DESCRIPTION">
-			<Text>A customizable Badge.</Text>
+			<Text>Налаштовуваний знак-емблема.</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_BACKGROUND_DESCRIPTION">
-			<Text>A customizable Background Color.</Text>
+			<Text>Налаштовуваний колір фону.</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_DESCRIPTION">
-			<Text>A customizable Title.</Text>
+			<Text>Налаштовуваний титул.</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_DESCRIPTION">
-			<Text>A customizable Color.</Text>
+			<Text>Налаштовуваний колір.</Text>
 		</Row>
 		<Row Tag="LOC_BORDER_DESCRIPTION">
-			<Text>A customizable Border.</Text>
+			<Text>Налаштовувана рамка.</Text>
 		</Row>
 		<Row Tag="LOC_MEMENTO_SLOT_1_NAME">
-			<Text>Memento Slot 1</Text>
+			<Text>Слот для сувеніру 1</Text>
 		</Row>
 		<Row Tag="LOC_MEMENTO_SLOT_1_DESCRIPTION">
-			<Text>Unlock your first Memento Slot.</Text>
+			<Text>Відкрийте свій перший слот для сувеніра.</Text>
 		</Row>
 		<Row Tag="LOC_MEMENTO_SLOT_2_NAME">
-			<Text>Memento Slot 2</Text>
+			<Text>Слот для сувеніру 2</Text>
 		</Row>
 		<Row Tag="LOC_MEMENTO_SLOT_2_DESCRIPTION">
-			<Text>Unlock your second Memento Slot.</Text>
+			<Text>Відкрийте свій другий слот для сувеніра.</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FOUNDATION_1_NAME">
-			<Text>Scrawling Scribe</Text>
+			<Text>Схильний Писар</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_FOUNDATION_1_NAME">
-			<Text>Inspiration</Text>
+			<Text>Натхнення</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOUNDATION_PATH_1_BADGE_NAME">
-			<Text>Five</Text>
+			<Text>П’ять</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_BACKGROUND_1_NAME">
-			<Text>Grey Background Color</Text>
+			<Text>Сірий колір фону</Text>
 		</Row>
 		<Row Tag="LOC_BORDER_STARTING_NAME">
-			<Text>First Border</Text>
+			<Text>Перша рамка</Text>
 		</Row>
 		<Row Tag="LOC_BORDER_INTERMEDIATE_NAME">
-			<Text>Second Border</Text>
+			<Text>Друга рамка</Text>
 		</Row>
 		<Row Tag="LOC_BORDER_ADVANCED_NAME">
-			<Text>Third Border</Text>
+			<Text>Третя рамка</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FOUNDATION_2_NAME">
-			<Text>Gracious Governor</Text>
+			<Text>Милостивий Губернатор</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_FOUNDATION_2_NAME">
-			<Text>Wondrous</Text>
+			<Text>Дивовижний</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOUNDATION_PATH_2_BADGE_NAME">
-			<Text>Ten</Text>
+			<Text>Десять</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FOUNDATION_3_NAME">
-			<Text>Chosen Chieftain</Text>
+			<Text>Обраний Вождь</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_BACKGROUND_2_NAME">
-			<Text>Yellow Background Color</Text>
+			<Text>Жовтий колір фону</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOUNDATION_PATH_3_BADGE_NAME">
-			<Text>Fifteen</Text>
+			<Text>П’ятнадцять</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FOUNDATION_4_NAME">
-			<Text>"Bold Baron/Bold Baroness"</Text>
+			<Text>“Зухвалий Барон/Зухвала Баронеса”</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_FOUNDATION_3_NAME">
-			<Text>Foreign Trade</Text>
+			<Text>Зовнішня Торгівля</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_BACKGROUND_3_NAME">
-			<Text>Blue Background Color</Text>
+			<Text>Синій колір фону</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOUNDATION_PATH_4_BADGE_NAME">
-			<Text>Twenty</Text>
+			<Text>Двадцять</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FOUNDATION_5_NAME">
-			<Text>Victorious Viceroy</Text>
+			<Text>Переможний Намісник</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_BACKGROUND_4_NAME">
-			<Text>Orange Background Color</Text>
+			<Text>Помаранчевий колір фону</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOUNDATION_PATH_5_BADGE_NAME">
-			<Text>Twenty-Five</Text>
+			<Text>Двадцять п’ять</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FOUNDATION_6_NAME">
-			<Text>Savvy Sovereign</Text>
+			<Text>Кмітливий Суверен</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_FOUNDATION_4_NAME">
-			<Text>Distant Shores</Text>
+			<Text>Далекі Береги</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_BACKGROUND_5_NAME">
-			<Text>Red Background Color</Text>
+			<Text>Червоний колір фону</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOUNDATION_PATH_6_BADGE_NAME">
-			<Text>Thirty</Text>
+			<Text>Тридцять</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FOUNDATION_7_NAME">
-			<Text>Exalted Emperor/Exalted Empress</Text>
+			<Text>Прославлений Імператор/Прославлена Імператриця</Text>
 		</Row>
 		<Row Tag="LOC_BORDER_4_NAME">
-			<Text>Fourth Border</Text>
+			<Text>Четверта рамка</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_BACKGROUND_6_NAME">
-			<Text>Indigo Background Color</Text>
+			<Text>Індиго колір фону</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOUNDATION_PATH_7_BADGE_NAME">
-			<Text>Thirty-Five</Text>
+			<Text>Тридцять п’ять</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FOUNDATION_8_NAME">
-			<Text>Impressive Immortal</Text>
+			<Text>Вражаючий Безсмертний</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_FOUNDATION_5_NAME">
-			<Text>Melee</Text>
+			<Text>Ближній Бій</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_BACKGROUND_7_NAME">
-			<Text>Green Background Color</Text>
+			<Text>Зелений колір фону</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOUNDATION_PATH_8_BADGE_NAME">
-			<Text>Forty</Text>
+			<Text>Сорок</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FOUNDATION_9_NAME">
-			<Text>Defiant Deity</Text>
+			<Text>Зухвалий Бог</Text>
 		</Row>
 		<Row Tag="LOC_BORDER_5_NAME">
-			<Text>Fifth Border</Text>
+			<Text>П’ята рамка</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_BACKGROUND_8_NAME">
-			<Text>Black Background Color</Text>
+			<Text>Чорний колір фону</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOUNDATION_PATH_9_BADGE_NAME">
-			<Text>Forty-Five</Text>
+			<Text>Сорок п’ять</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FOUNDATION_10_NAME">
-			<Text>Legend</Text>
+			<Text>Легенда</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_FOUNDATION_6_NAME">
-			<Text>Triumph</Text>
+			<Text>Тріумф</Text>
 		</Row>
 		<Row Tag="LOC_COLOR_BACKGROUND_9_NAME">
-			<Text>Violet Background Color</Text>
+			<Text>Фіолетовий колір фону</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOUNDATION_PATH_10_BADGE_NAME">
-			<Text>Fifty</Text>
+			<Text>П’ятдесят</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_AMINA_NAME">
-			<Text>Amina Badge 1</Text>
+			<Text>Знак Аміни 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_ASHOKA_RENOUNCER_NAME">
-			<Text>Ashoka World-Renouncer Badge 1</Text>
+			<Text>Знак Ашоки Відрікателя Світу 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_AUGUSTUS_NAME">
-			<Text>Augustus Badge 1</Text>
+			<Text>Знак Августа 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_BENJAMIN_FRANKLIN_NAME">
-			<Text>Benjamin Franklin Badge 1</Text>
+			<Text>Знак Бенджаміна Франкліна 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_CATHERINE_NAME">
-			<Text>Catherine Badge 1</Text>
+			<Text>Знак Катерини 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_CHARLEMAGNE_NAME">
-			<Text>Charlemagne Badge 1</Text>
+			<Text>Знак Карла Великого 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_CONFUCIUS_NAME">
-			<Text>Confucius Badge 1</Text>
+			<Text>Знак Конфуція 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FRIEDRICH_OBLIQUE_NAME">
-			<Text>Friedrich Oblique Badge 1</Text>
+			<Text>Знак Фрідріха Облікового 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_HARRIET_TUBMAN_NAME">
-			<Text>Harriet Tubman Badge 1</Text>
+			<Text>Знак Гаррієт Табмен 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_HATSHEPSUT_NAME">
-			<Text>Hatshepsut Badge 1</Text>
+			<Text>Знак Хатшепсут 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_HIMIKO_QUEEN_OF_WA_NAME">
-			<Text>Himiko Queen of Wa Badge 1</Text>
+			<Text>Знак Хіміко, Королеви Ва 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_IBN_BATTUTA_NAME">
-			<Text>Ibn Battuta Badge 1</Text>
+			<Text>Знак Ібн Батути 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_ISABELLA_NAME">
-			<Text>Isabella Badge 1</Text>
+			<Text>Знак Ізабелли 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_JOSE_RIZAL_NAME">
-			<Text>Jose Rizal Badge 1</Text>
+			<Text>Знак Хосе Рісаля 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_LAFAYETTE_NAME">
-			<Text>Lafayette Badge 1</Text>
+			<Text>Знак Лафайєта 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_MACHIAVELLI_NAME">
-			<Text>Machiavelli Badge 1</Text>
+			<Text>Знак Мак’явеллі 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_PACHACUTI_NAME">
-			<Text>Pachacuti Badge 1</Text>
+			<Text>Знак Пачакуті 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_TRUNG_TRAC_NAME">
-			<Text>Trung Trac Badge 1</Text>
+			<Text>Знак Чжинг Чак 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_XERXES_KING_OF_KINGS_NAME">
-			<Text>Xerxes King of Kings Badge 1</Text>
+			<Text>Знак Ксеркса, Царя Царів 1</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_AMINA_P_NAME">
-			<Text>Amina Badge 2</Text>
+			<Text>Знак Аміни 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_ASHOKA_RENOUNCER_P_NAME">
-			<Text>Ashoka World-Renouncer Badge 2</Text>
+			<Text>Знак Ашоки Відрікателя Світу 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_AUGUSTUS_P_NAME">
-			<Text>Augustus Badge 2</Text>
+			<Text>Знак Августа 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_BENJAMIN_FRANKLIN_P_NAME">
-			<Text>Benjamin Franklin Badge 2</Text>
+			<Text>Знак Бенджаміна Франкліна 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_CATHERINE_P_NAME">
-			<Text>Catherine Badge 2</Text>
+			<Text>Знак Катерини 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_CHARLEMAGNE_P_NAME">
-			<Text>Charlemagne Badge 2</Text>
+			<Text>Знак Карла Великого 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_CONFUCIUS_P_NAME">
-			<Text>Confucius Badge 2</Text>
+			<Text>Знак Конфуція 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FRIEDRICH_OBLIQUE_P_NAME">
-			<Text>Friedrich Oblique Badge 2</Text>
+			<Text>Знак Фрідріха Облікового 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_HARRIET_TUBMAN_P_NAME">
-			<Text>Harriet Tubman Badge 2</Text>
+			<Text>Знак Гаррієт Табмен 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_HATSHEPSUT_P_NAME">
-			<Text>Hatshepsut Badge 2</Text>
+			<Text>Знак Хатшепсут 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_HIMIKO_QUEEN_OF_WA_P_NAME">
-			<Text>Himiko Queen of Wa Badge 2</Text>
+			<Text>Знак Хіміко, Королеви Ва 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_HIMIKO_QUEEN_P_NAME">
-			<Text>Himiko Queen of Wa Badge 2</Text>
+			<Text>Знак Хіміко, Королеви Ва 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_IBN_BATTUTA_P_NAME">
-			<Text>Ibn Battuta Badge 2</Text>
+			<Text>Знак Ібн Батути 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_ISABELLA_P_NAME">
-			<Text>Isabella Badge 2</Text>
+			<Text>Знак Ізабелли 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_JOSE_RIZAL_P_NAME">
-			<Text>Jose Rizal Badge 2</Text>
+			<Text>Знак Хосе Рісаля 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_LAFAYETTE_P_NAME">
-			<Text>Lafayette Badge 2</Text>
+			<Text>Знак Лафайєта 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_MACHIAVELLI_P_NAME">
-			<Text>Machiavelli Badge 2</Text>
+			<Text>Знак Мак’явеллі 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_PACHACUTI_P_NAME">
-			<Text>Pachacuti Badge 2</Text>
+			<Text>Знак Пачакуті 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_TRUNG_TRAC_P_NAME">
-			<Text>Trung Trac Badge 2</Text>
+			<Text>Знак Чжинг Чак 2</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_XERXES_KINGS_P_NAME">
-			<Text>Xerxes King of Kings Badge 2</Text>
+			<Text>Знак Ксеркса, Царя Царів 2</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_AMINA_NAME">
-			<Text>Amina Banner</Text>
+			<Text>Банер Аміни</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_ASHOKA_RENOUNCER_NAME">
-			<Text>Ashoka World-Renouncer Banner</Text>
+			<Text>Банер Ашоки Відрікателя Світу</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_AUGUSTUS_NAME">
-			<Text>Augustus Banner</Text>
+			<Text>Банер Августа</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_BENJAMIN_FRANKLIN_NAME">
-			<Text>Benjamin Franklin Banner</Text>
+			<Text>Банер Бенджаміна Франкліна</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_CATHERINE_NAME">
-			<Text>Catherine Banner</Text>
+			<Text>Банер Катерини</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_CHARLEMAGNE_NAME">
-			<Text>Charlemagne Banner</Text>
+			<Text>Банер Карла Великого</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_CONFUCIUS_NAME">
-			<Text>Confucius Banner</Text>
+			<Text>Банер Конфуція</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_FRIEDRICH_OBLIQUE_NAME">
-			<Text>Friedrich Oblique Banner</Text>
+			<Text>Банер Фрідріха Облікового</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_HARRIET_TUBMAN_NAME">
-			<Text>Harriet Tubman Banner</Text>
+			<Text>Банер Гаррієт Табмен</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_HATSHEPSUT_NAME">
-			<Text>Hatshepsut Banner</Text>
+			<Text>Банер Хатшепсут</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_HIMIKO_QUEEN_OF_WA_NAME">
-			<Text>Himiko Queen of Wa Banner</Text>
+			<Text>Банер Хіміко, Королеви Ва</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_IBN_BATTUTA_NAME">
-			<Text>Ibn Battuta Banner</Text>
+			<Text>Банер Ібн Батути</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_ISABELLA_NAME">
-			<Text>Isabella Banner</Text>
+			<Text>Банер Ізабелли</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_JOSE_RIZAL_NAME">
-			<Text>Jose Rizal Banner</Text>
+			<Text>Банер Хосе Рісаля</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_LAFAYETTE_NAME">
-			<Text>Lafayette Banner</Text>
+			<Text>Банер Лафайєта</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_MACHIAVELLI_NAME">
-			<Text>Machiavelli Banner</Text>
+			<Text>Банер Мак’явеллі</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_PACHACUTI_NAME">
-			<Text>Pachacuti Banner</Text>
+			<Text>Банер Пачакуті</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_TRUNG_TRAC_NAME">
-			<Text>Trung Trac Banner</Text>
+			<Text>Банер Чжинг Чак</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_XERXES_KING_OF_KINGS_NAME">
-			<Text>Xerxes King of Kings Banner</Text>
+			<Text>Банер Ксеркса, Царя Царів</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_GAMESCOM_NAME">
-			<Text>Ancient Canoe</Text>
+			<Text>Древній Каноє</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_GAMESCOM_UNLOCK_CONDITION">
-			<Text>Unlocked as 2024 Gamescom reward</Text>
+			<Text>Розблоковано як нагороду Gamescom 2024</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_AMINA_NAME">
-			<Text>Warrior-Queen</Text>
+			<Text>Королева-Воїн</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_ASHOKA_RENOUNCER_NAME">
-			<Text>World-Renouncer</Text>
+			<Text>Відрікач Світу</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_AUGUSTUS_NAME">
-			<Text>First Citizen</Text>
+			<Text>Перший Громадянин</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_BENJAMIN_FRANKLIN_NAME">
-			<Text>First American</Text>
+			<Text>Перший Американець</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_CATHERINE_NAME">
-			<Text>Star of the North</Text>
+			<Text>Зоря Півночі</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_CHARLEMAGNE_NAME">
-			<Text>Father of Europe</Text>
+			<Text>Батько Європи</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_CONFUCIUS_NAME">
-			<Text>Great Sage</Text>
+			<Text>Великий Мудрець</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_FRIEDRICH_OBLIQUE_NAME">
-			<Text>Old Fritz</Text>
+			<Text>Старий Фріц</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_HARRIET_TUBMAN_NAME">
-			<Text>Conductor</Text>
+			<Text>Кондукторка</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_HATSHEPSUT_NAME">
-			<Text>Voice of the Sun</Text>
+			<Text>Голос Сонця</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_HIMIKO_QUEEN_OF_WA_NAME">
-			<Text>Queen of Wa</Text>
+			<Text>Королева Ва</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_IBN_BATTUTA_NAME">
-			<Text>Marvelous Traveller</Text>
+			<Text>Дивовижний Мандрівник</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_ISABELLA_NAME">
-			<Text>Golden Age Monarch</Text>
+			<Text>Монарх Золотого Віку</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_JOSE_RIZAL_NAME">
-			<Text>National Hero</Text>
+			<Text>Національний Герой</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_LAFAYETTE_NAME">
-			<Text>Hero of Two Worlds</Text>
+			<Text>Герой Двох Світів</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_MACHIAVELLI_NAME">
-			<Text>The Prince</Text>
+			<Text>Князь</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_PACHACUTI_NAME">
-			<Text>Earth Shaker</Text>
+			<Text>Той, Хто Зрушує Землю</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_TRUNG_TRAC_NAME">
-			<Text>Rebel Queen</Text>
+			<Text>Повстала Королева</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_XERXES_KING_OF_KINGS_NAME">
-			<Text>King of Kings</Text>
+			<Text>Цар Царів</Text>
 		</Row>
 		<Row Tag="LOC_DEFAULT_BANNER_ID_NAME">
-			<Text>Hex</Text>
+			<Text>Шестикутник</Text>
 		</Row>
 		<Row Tag="LOC_DEFAULT_BADGE_ID_NAME">
 			<Text>VII</Text>
 		</Row>
 		<Row Tag="LOC_DEFAULT_TITLE_ID_NAME">
-			<Text>A New Age</Text>
+			<Text>Нова Ера</Text>
 		</Row>
 		<Row Tag="LOC_DEFAULT_BORDER_ID_NAME">
-			<Text>Round</Text>
+			<Text>Округла</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_TUTORIAL_BADGE_NAME">
-			<Text>Tutorialized</Text>
+			<Text>Пройшов Навчання</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_ANTIQUITY_BADGE_NAME">
-			<Text>Antiquity Afficionado</Text>
+			<Text>Знавець Античності</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_EXPLORATION_BADGE_NAME">
-			<Text>Exploration Expert</Text>
+			<Text>Експерт із Досліджень</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_MODERN_BADGE_NAME">
-			<Text>Modern Master</Text>
+			<Text>Майстер Сучасності</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_HAPPINESS_BADGE_NAME">
-			<Text>Happiness</Text>
+			<Text>Щастя</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_GOLD_BADGE_NAME">
-			<Text>Gold</Text>
+			<Text>Золото</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_INFLUENCE_BADGE_NAME">
-			<Text>Influence</Text>
+			<Text>Вплив</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FOOD_BADGE_NAME">
-			<Text>Food</Text>
+			<Text>Їжа</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_SCIENCE_BADGE_NAME">
-			<Text>Science</Text>
+			<Text>Наука</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_CULTURE_BADGE_NAME">
-			<Text>Culture</Text>
+			<Text>Культура</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_PRODUCTION_BADGE_NAME">
-			<Text>Production</Text>
+			<Text>Виробництво</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_FLAWLESS_CAMPAIGN_BADGE_NAME">
-			<Text>Flawless</Text>
+			<Text>Бездоганність</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_EVERY_BASE_GAME_WONDER_NAME">
-			<Text>Wondrous</Text>
+			<Text>Дивовижність</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_EVERY_VICTORY_BADGE_NAME">
-			<Text>Victorious</Text>
+			<Text>Переможець</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_STORYLETS_1_NAME">
-			<Text>Seen Some Things</Text>
+			<Text>Бачив Дещо</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_STORYLETS_2_NAME">
-			<Text>Seen Many Things</Text>
+			<Text>Бачив Багато Чого</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_STORYLETS_3_NAME">
-			<Text>Seen Lots of Things</Text>
+			<Text>Бачив Чимало</Text>
 		</Row>
 
 		<Row Tag="LOC_STRATEGYCARD_AMINA_EXPLORATION_1_NAME">
-			<Text>Exploration Economic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AMINA_EXPLORATION_1_DESCRIPTION">
-			<Text>As Amina, access a new Exploration Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Аміна, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AMINA_EXPLORATION_2_NAME">
-			<Text>Exploration Militaristic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AMINA_EXPLORATION_2_DESCRIPTION">
-			<Text>As Amina, access a new Exploration Legacy Card:[n]
-				+3 Combat Strength towards Naval Units, -10% Influence</Text>
+			<Text>Як Аміна, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+3 до бойової сили проти морських юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AMINA_MODERN_1_NAME">
-			<Text>Modern Economic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AMINA_MODERN_1_DESCRIPTION">
-			<Text>As Amina, access a new Modern Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Аміна, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AMINA_MODERN_2_NAME">
-			<Text>Modern Militaristic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AMINA_MODERN_2_DESCRIPTION">
-			<Text>As Amina, access a new Modern Legacy Card:[n]
-				+3 Combat Strength towards Air Units, -10% Influence</Text>
+			<Text>Як Аміна, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+3 до бойової сили проти повітряних юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ASHOKA_RENOUNCER_EXPLORATION_1_NAME">
-			<Text>Exploration Diplomatic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ASHOKA_RENOUNCER_EXPLORATION_1_DESCRIPTION">
-			<Text>As Ashoka World-Renouncer, access a new Exploration Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Naval Units</Text>
+			<Text>Як Ашока Відрікач Світу, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% впливу, -2 до бойової сили морських юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ASHOKA_RENOUNCER_EXPLORATION_2_NAME">
-			<Text>Exploration Expansionist Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Експансія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ASHOKA_RENOUNCER_EXPLORATION_2_DESCRIPTION">
-			<Text>As Ashoka World-Renouncer, access a new Exploration Legacy Card:[n]
-				+15% Food, -10% Gold</Text>
+			<Text>Як Ашока Відрікач Світу, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% їжі, -10% золота</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ASHOKA_RENOUNCER_MODERN_1_NAME">
-			<Text>Modern Diplomatic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ASHOKA_RENOUNCER_MODERN_1_DESCRIPTION">
-			<Text>As Ashoka World-Renouncer, access a new Modern Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Air Units</Text>
+			<Text>Як Ашока Відрікач Світу, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% впливу, -2 до бойової сили повітряних юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ASHOKA_RENOUNCER_MODERN_2_NAME">
-			<Text>Modern Expansionist Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Експансія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ASHOKA_RENOUNCER_MODERN_2_DESCRIPTION">
-			<Text>As Ashoka World-Renouncer, access a new Modern Legacy Card:[n]
-				+15% Food, -10% Gold</Text>
+			<Text>Як Ашока Відрікач Світу, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% їжі, -10% золота</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AUGUSTUS_EXPLORATION_1_NAME">
-			<Text>Exploration Cultural Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AUGUSTUS_EXPLORATION_1_DESCRIPTION">
-			<Text>As Augustus, access a new Exploration Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Август, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AUGUSTUS_EXPLORATION_2_NAME">
-			<Text>Exploration Expansionist Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Експансія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AUGUSTUS_EXPLORATION_2_DESCRIPTION">
-			<Text>As Augustus, access a new Exploration Legacy Card:[n]
-				+15% Food, -10% Gold</Text>
+			<Text>Як Август, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% їжі, -10% золота</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AUGUSTUS_MODERN_1_NAME">
-			<Text>Modern Cultural Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AUGUSTUS_MODERN_1_DESCRIPTION">
-			<Text>As Augustus, access a new Modern Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Август, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AUGUSTUS_MODERN_2_NAME">
-			<Text>Modern Expansionist Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Експансія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_AUGUSTUS_MODERN_2_DESCRIPTION">
-			<Text>As Augustus, access a new Modern Legacy Card:[n]
-				+15% Food, -10% Gold</Text>
+			<Text>Як Август, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% їжі, -10% золота</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRANKLIN_EXPLORATION_1_NAME">
-			<Text>Exploration Diplomatic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRANKLIN_EXPLORATION_1_DESCRIPTION">
-			<Text>As Benjamin Franklin, access a new Exploration Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Naval Units</Text>
+			<Text>Як Бенджамін Франклін, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% впливу, -2 до бойової сили морських юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRANKLIN_EXPLORATION_2_NAME">
-			<Text>Exploration Scientific Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRANKLIN_EXPLORATION_2_DESCRIPTION">
-			<Text>As Benjamin Franklin, access a new Exploration Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Бенджамін Франклін, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRANKLIN_MODERN_1_NAME">
-			<Text>Modern Diplomatic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRANKLIN_MODERN_1_DESCRIPTION">
-			<Text>As Benjamin Franklin, access a new Modern Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Air Units</Text>
+			<Text>Як Бенджамін Франклін, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% впливу, -2 до бойової сили повітряних юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRANKLIN_MODERN_2_NAME">
-			<Text>Modern Scientific Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRANKLIN_MODERN_2_DESCRIPTION">
-			<Text>As Benjamin Franklin, access a new Modern Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Бенджамін Франклін, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CATHERINE_EXPLORATION_1_NAME">
-			<Text>Exploration Cultural Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CATHERINE_EXPLORATION_1_DESCRIPTION">
-			<Text>As Catherine, access a new Exploration Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Катерина, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CATHERINE_EXPLORATION_2_NAME">
-			<Text>Exploration Scientific Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CATHERINE_EXPLORATION_2_DESCRIPTION">
-			<Text>As Catherine, access a new Exploration Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Катерина, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CATHERINE_MODERN_1_NAME">
-			<Text>Modern Cultural Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CATHERINE_MODERN_1_DESCRIPTION">
-			<Text>As Catherine, access a new Modern Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Катерина, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CATHERINE_MODERN_2_NAME">
-			<Text>Modern Scientific Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CATHERINE_MODERN_2_DESCRIPTION">
-			<Text>As Catherine, access a new Modern Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Катерина, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CHARLEMAGNE_EXPLORATION_1_NAME">
-			<Text>Exploration Militaristic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CHARLEMAGNE_EXPLORATION_1_DESCRIPTION">
-			<Text>As Charlemagne, access a new Exploration Legacy Card:[n]
-				+3 Combat Strength towards Naval Units, -10% Influence</Text>
+			<Text>Як Карл Великий, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+3 до бойової сили проти морських юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CHARLEMAGNE_EXPLORATION_2_NAME">
-			<Text>Exploration Scientific Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CHARLEMAGNE_EXPLORATION_2_DESCRIPTION">
-			<Text>As Charlemagne, access a new Exploration Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Карл Великий, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CHARLEMAGNE_MODERN_1_NAME">
-			<Text>Modern Militaristic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CHARLEMAGNE_MODERN_1_DESCRIPTION">
-			<Text>As Charlemagne, access a new Modern Legacy Card:[n]
-				+3 Combat Strength towards Air Units, -10% Influence</Text>
+			<Text>Як Карл Великий, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+3 до бойової сили проти повітряних юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CHARLEMAGNE_MODERN_2_NAME">
-			<Text>Modern Scientific Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CHARLEMAGNE_MODERN_2_DESCRIPTION">
-			<Text>As Charlemagne, access a new Modern Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Карл Великий, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CONFUCIUS_EXPLORATION_1_NAME">
-			<Text>Exploration Expansionist Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Експансія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CONFUCIUS_EXPLORATION_1_DESCRIPTION">
-			<Text>As Confucius, access a new Exploration Legacy Card:[n]
-				+15% Food, -10% Gold</Text>
+			<Text>Як Конфуцій, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% їжі, -10% золота</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CONFUCIUS_EXPLORATION_2_NAME">
-			<Text>Exploration Scientific Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CONFUCIUS_EXPLORATION_2_DESCRIPTION">
-			<Text>As Confucius, access a new Exploration Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Конфуцій, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CONFUCIUS_MODERN_1_NAME">
-			<Text>Modern Expansionist Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Експансія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CONFUCIUS_MODERN_1_DESCRIPTION">
-			<Text>As Confucius, access a new Modern Legacy Card:[n]
-				+15% Food, -10% Gold</Text>
+			<Text>Як Конфуцій, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% їжі, -10% золота</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CONFUCIUS_MODERN_2_NAME">
-			<Text>Modern Scientific Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_CONFUCIUS_MODERN_2_DESCRIPTION">
-			<Text>As Confucius, access a new Modern Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Конфуцій, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRIEDRICH_OBLIQUE_EXPLORATION_1_NAME">
-			<Text>Exploration Militaristic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRIEDRICH_OBLIQUE_EXPLORATION_1_DESCRIPTION">
-			<Text>As Friedrich, Oblique, access a new Exploration Legacy Card:[n]
-				+3 Combat Strength towards Naval Units, -10% Influence</Text>
+			<Text>Як Фрідріх Обліковий, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+3 до бойової сили проти морських юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRIEDRICH_OBLIQUE_EXPLORATION_2_NAME">
-			<Text>Exploration Scientific Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRIEDRICH_OBLIQUE_EXPLORATION_2_DESCRIPTION">
-			<Text>As Friedrich, Oblique, access a new Exploration Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Фрідріх Обліковий, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRIEDRICH_OBLIQUE_MODERN_1_NAME">
-			<Text>Modern Militaristic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRIEDRICH_OBLIQUE_MODERN_1_DESCRIPTION">
-			<Text>As Friedrich, Oblique, access a new Modern Legacy Card:[n]
-				+3 Combat Strength towards Air Units, -10% Influence</Text>
+			<Text>Як Фрідріх Обліковий, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+3 до бойової сили проти повітряних юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRIEDRICH_OBLIQUE_MODERN_2_NAME">
-			<Text>Modern Scientific Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_FRIEDRICH_OBLIQUE_MODERN_2_DESCRIPTION">
-			<Text>As Friedrich, Oblique, access a new Modern Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Фрідріх Обліковий, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TUBMAN_EXPLORATION_1_NAME">
-			<Text>Exploration Diplomatic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TUBMAN_EXPLORATION_1_DESCRIPTION">
-			<Text>As Harriet Tubman, access a new Exploration Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Naval Units</Text>
+			<Text>Як Гаррієт Табмен, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% впливу, -2 до бойової сили морських юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TUBMAN_EXPLORATION_2_NAME">
-			<Text>Exploration Militaristic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TUBMAN_EXPLORATION_2_DESCRIPTION">
-			<Text>As Harriet Tubman, access a new Exploration Legacy Card:[n]
-				+3 Combat Strength towards Naval Units, -10% Influence</Text>
+			<Text>Як Гаррієт Табмен, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+3 до бойової сили проти морських юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TUBMAN_MODERN_1_NAME">
-			<Text>Modern Diplomatic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TUBMAN_MODERN_1_DESCRIPTION">
-			<Text>As Harriet Tubman, access a new Modern Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Air Units</Text>
+			<Text>Як Гаррієт Табмен, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% впливу, -2 до бойової сили повітряних юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TUBMAN_MODERN_2_NAME">
-			<Text>Modern Militaristic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TUBMAN_MODERN_2_DESCRIPTION">
-			<Text>As Harriet Tubman, access a new Modern Legacy Card:[n]
-				+3 Combat Strength towards Air Units, -10% Influence</Text>
+			<Text>Як Гаррієт Табмен, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+3 до бойової сили проти повітряних юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HATSHEPSUT_EXPLORATION_1_NAME">
-			<Text>Exploration Cultural Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HATSHEPSUT_EXPLORATION_1_DESCRIPTION">
-			<Text>As Hatshepsut, access a new Exploration Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Хатшепсут, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HATSHEPSUT_EXPLORATION_2_NAME">
-			<Text>Exploration Economic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HATSHEPSUT_EXPLORATION_2_DESCRIPTION">
-			<Text>As Hatshepsut, access a new Exploration Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Хатшепсут, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HATSHEPSUT_MODERN_1_NAME">
-			<Text>Modern Cultural Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HATSHEPSUT_MODERN_1_DESCRIPTION">
-			<Text>As Hatshepsut, access a new Modern Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Хатшепсут, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HATSHEPSUT_MODERN_2_NAME">
-			<Text>Modern Economic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HATSHEPSUT_MODERN_2_DESCRIPTION">
-			<Text>As Hatshepsut, access a new Modern Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Хатшепсут, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HIMIKO_QUEEN_EXPLORATION_1_NAME">
-			<Text>Exploration Diplomatic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HIMIKO_QUEEN_EXPLORATION_1_DESCRIPTION">
-			<Text>As Himiko Queen of Wa, access a new Exploration Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Naval Units</Text>
+			<Text>Як Хіміко, Королева Ва, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% впливу, -2 до бойової сили морських юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HIMIKO_QUEEN_EXPLORATION_2_NAME">
-			<Text>Exploration Scientific Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HIMIKO_QUEEN_EXPLORATION_2_DESCRIPTION">
-			<Text>As Himiko Queen of Wa, access a new Exploration Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Хіміко, Королева Ва, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HIMIKO_QUEEN_MODERN_1_NAME">
-			<Text>Modern Diplomatic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HIMIKO_QUEEN_MODERN_1_DESCRIPTION">
-			<Text>As Himiko Queen of Wa, access a new Modern Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Air Units</Text>
+			<Text>Як Хіміко, Королева Ва, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% впливу, -2 до бойової сили повітряних юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HIMIKO_QUEEN_MODERN_2_NAME">
-			<Text>Modern Scientific Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_HIMIKO_QUEEN_MODERN_2_DESCRIPTION">
-			<Text>As Himiko Queen of Wa, access a new Modern Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Хіміко, Королева Ва, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_BATTUTA_EXPLORATION_1_NAME">
-			<Text>Exploration Economic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_BATTUTA_EXPLORATION_1_DESCRIPTION">
-			<Text>As Ibn Battuta, access a new Exploration Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Ібн Баттута, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_BATTUTA_EXPLORATION_2_NAME">
-			<Text>Exploration Cultural Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_BATTUTA_EXPLORATION_2_DESCRIPTION">
-			<Text>As Ibn Battuta, access a new Exploration Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Ібн Баттута, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_BATTUTA_MODERN_1_NAME">
-			<Text>Modern Economic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_BATTUTA_MODERN_1_DESCRIPTION">
-			<Text>As Ibn Battuta, access a new Modern Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Ібн Баттута, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_BATTUTA_MODERN_2_NAME">
-			<Text>Modern Cultural Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_BATTUTA_MODERN_2_DESCRIPTION">
-			<Text>As Ibn Battuta, access a new Modern Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Ібн Баттута, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ISABELLA_EXPLORATION_1_NAME">
-			<Text>Exploration Economic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ISABELLA_EXPLORATION_1_DESCRIPTION">
-			<Text>As Isabella, access a new Exploration Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Ізабелла, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ISABELLA_EXPLORATION_2_NAME">
-			<Text>Exploration Expansionist Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Експансія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ISABELLA_EXPLORATION_2_DESCRIPTION">
-			<Text>As Isabella, access a new Exploration Legacy Card:[n]
-				+15% Food, -10% Gold</Text>
+			<Text>Як Ізабелла, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% їжі, -10% золота</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ISABELLA_MODERN_1_NAME">
-			<Text>Modern Economic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ISABELLA_MODERN_1_DESCRIPTION">
-			<Text>As Isabella, access a new Modern Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Ізабелла, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ISABELLA_MODERN_2_NAME">
-			<Text>Modern Expansionist Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Експансія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_ISABELLA_MODERN_2_DESCRIPTION">
-			<Text>As Isabella, access a new Modern Legacy Card:[n]
-				+15% Food, -10% Gold</Text>
+			<Text>Як Ізабелла, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% їжі, -10% золота</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_RIZAL_EXPLORATION_1_NAME">
-			<Text>Exploration Cultural Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_RIZAL_EXPLORATION_1_DESCRIPTION">
-			<Text>As Jose Rizal, access a new Exploration Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Хосе Рісаль, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_RIZAL_EXPLORATION_2_NAME">
-			<Text>Exploration Diplomatic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_RIZAL_EXPLORATION_2_DESCRIPTION">
-			<Text>As Jose Rizal, access a new Exploration Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Naval Units</Text>
+			<Text>Як Хосе Рісаль, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% впливу, -2 до бойової сили морських юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_RIZAL_MODERN_1_NAME">
-			<Text>Modern Cultural Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_RIZAL_MODERN_1_DESCRIPTION">
-			<Text>As Jose Rizal, access a new Modern Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Хосе Рісаль, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_RIZAL_MODERN_2_NAME">
-			<Text>Modern Diplomatic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_RIZAL_MODERN_2_DESCRIPTION">
-			<Text>As Jose Rizal, access a new Modern Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Air Units</Text>
+			<Text>Як Хосе Рісаль, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% впливу, -2 до бойової сили повітряних юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_LAFAYETTE_EXPLORATION_1_NAME">
-			<Text>Exploration Cultural Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_LAFAYETTE_EXPLORATION_1_DESCRIPTION">
-			<Text>As Lafayette, access a new Exploration Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Лафайєт, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_LAFAYETTE_EXPLORATION_2_NAME">
-			<Text>Exploration Diplomatic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_LAFAYETTE_EXPLORATION_2_DESCRIPTION">
-			<Text>As Lafayette, access a new Exploration Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Naval Units</Text>
+			<Text>Як Лафайєт, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% впливу, -2 до бойової сили морських юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_LAFAYETTE_MODERN_1_NAME">
-			<Text>Modern Cultural Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Культура)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_LAFAYETTE_MODERN_1_DESCRIPTION">
-			<Text>As Lafayette, access a new Modern Legacy Card:[n]
-				+15% Culture, -10% Science</Text>
+			<Text>Як Лафайєт, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% культури, -10% науки</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_LAFAYETTE_MODERN_2_NAME">
-			<Text>Modern Diplomatic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_LAFAYETTE_MODERN_2_DESCRIPTION">
-			<Text>As Lafayette, access a new Modern Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Air Units</Text>
+			<Text>Як Лафайєт, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% впливу, -2 до бойової сили повітряних юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_MACHIAVELLI_EXPLORATION_1_NAME">
-			<Text>Exploration Diplomatic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_MACHIAVELLI_EXPLORATION_1_DESCRIPTION">
-			<Text>As Machiavelli, access a new Exploration Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Naval Units</Text>
+			<Text>Як Мак’явеллі, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% впливу, -2 до бойової сили морських юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_MACHIAVELLI_EXPLORATION_2_NAME">
-			<Text>Exploration Economic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_MACHIAVELLI_EXPLORATION_2_DESCRIPTION">
-			<Text>As Machiavelli, access a new Exploration Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Мак’явеллі, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_MACHIAVELLI_MODERN_1_NAME">
-			<Text>Modern Diplomatic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Дипломатія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_MACHIAVELLI_MODERN_1_DESCRIPTION">
-			<Text>As Machiavelli, access a new Modern Legacy Card:[n]
-				+15% Influence, -2 Combat Strength for Air Units</Text>
+			<Text>Як Мак’явеллі, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% впливу, -2 до бойової сили повітряних юнітів</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_MACHIAVELLI_MODERN_2_NAME">
-			<Text>Modern Economic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_MACHIAVELLI_MODERN_2_DESCRIPTION">
-			<Text>As Machiavelli, access a new Modern Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Мак’явеллі, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_PACHACUTI_EXPLORATION_1_NAME">
-			<Text>Exploration Economic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_PACHACUTI_EXPLORATION_1_DESCRIPTION">
-			<Text>As Pachacuti, access a new Exploration Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Пачакуті, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_PACHACUTI_EXPLORATION_2_NAME">
-			<Text>Exploration Expansionist Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Експансія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_PACHACUTI_EXPLORATION_2_DESCRIPTION">
-			<Text>As Pachacuti, access a new Exploration Legacy Card:[n]
-				+15% Food, -10% Gold</Text>
+			<Text>Як Пачакуті, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% їжі, -10% золота</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_PACHACUTI_MODERN_1_NAME">
-			<Text>Modern Economic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_PACHACUTI_MODERN_1_DESCRIPTION">
-			<Text>As Pachacuti, access a new Modern Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Пачакуті, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_PACHACUTI_MODERN_2_NAME">
-			<Text>Modern Expansionist Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Експансія)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_PACHACUTI_MODERN_2_DESCRIPTION">
-			<Text>As Pachacuti, access a new Modern Legacy Card:[n]
-				+15% Food, -10% Gold</Text>
+			<Text>Як Пачакуті, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% їжі, -10% золота</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TRUNG_EXPLORATION_1_NAME">
-			<Text>Exploration Militaristic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TRUNG_EXPLORATION_1_DESCRIPTION">
-			<Text>As Trung Trac, access a new Exploration Legacy Card:[n]
-				+3 Combat Strength towards Naval Units, -10% Influence</Text>
+			<Text>Як Чжинг Чак, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+3 до бойової сили проти морських юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TRUNG_EXPLORATION_2_NAME">
-			<Text>Exploration Scientific Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TRUNG_EXPLORATION_2_DESCRIPTION">
-			<Text>As Trung Trac, access a new Exploration Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Чжинг Чак, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TRUNG_MODERN_1_NAME">
-			<Text>Modern Militaristic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TRUNG_MODERN_1_DESCRIPTION">
-			<Text>As Trung Trac, access a new Modern Legacy Card:[n]
-				+3 Combat Strength towards Air Units, -10% Influence</Text>
+			<Text>Як Чжинг Чак, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+3 до бойової сили проти повітряних юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TRUNG_MODERN_2_NAME">
-			<Text>Modern Scientific Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Наука)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_TRUNG_MODERN_2_DESCRIPTION">
-			<Text>As Trung Trac, access a new Modern Legacy Card:[n]
-				+15% Science, -10% Culture</Text>
+			<Text>Як Чжинг Чак, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% науки, -10% культури</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_XERXES_KING_EXPLORATION_1_NAME">
-			<Text>Exploration Economic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_XERXES_KING_EXPLORATION_1_DESCRIPTION">
-			<Text>As Xerxes King of Kings, access a new Exploration Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Ксеркс Цар Царів, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_XERXES_KING_EXPLORATION_2_NAME">
-			<Text>Exploration Militaristic Legacy Card</Text>
+			<Text>Карта Спадщини Доби Досліджень (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_XERXES_KING_EXPLORATION_2_DESCRIPTION">
-			<Text>As Xerxes King of Kings, access a new Exploration Legacy Card:[n]
-				+3 Combat Strength towards Naval Units, -10% Influence</Text>
+			<Text>Як Ксеркс Цар Царів, отримайте доступ до нової Карти Спадщини Доби Досліджень:[n]
+				+3 до бойової сили проти морських юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_XERXES_KING_MODERN_1_NAME">
-			<Text>Modern Economic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Економіка)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_XERXES_KING_MODERN_1_DESCRIPTION">
-			<Text>As Xerxes King of Kings, access a new Modern Legacy Card:[n]
-				+15% Gold, -10% Food</Text>
+			<Text>Як Ксеркс Цар Царів, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+15% золота, -10% їжі</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_XERXES_KING_MODERN_2_NAME">
-			<Text>Modern Militaristic Legacy Card</Text>
+			<Text>Карта Сучасної Спадщини (Мілітаризм)</Text>
 		</Row>
 		<Row Tag="LOC_STRATEGYCARD_XERXES_KING_MODERN_2_DESCRIPTION">
-			<Text>As Xerxes King of Kings, access a new Modern Legacy Card:[n]
-				+3 Combat Strength towards Air Units, -10% Influence</Text>
+			<Text>Як Ксеркс Цар Царів, отримайте доступ до нової Карти Сучасної Спадщини:[n]
+				+3 до бойової сили проти повітряних юнітів, -10% впливу</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_AMINA_L1_NAME">
-			<Text>Economic Attribute Node</Text>
+			<Text>Економічний Вузол Атрибутів</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_AMINA_L1_DESCRIPTION">
-			<Text>+25% Gold from Trade and Treasure Fleets.</Text>
+			<Text>+25% золота від торгівлі та флотів скарбів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_AMINA_L2_NAME">
-			<Text>Militaristic Attribute Node</Text>
+			<Text>Вузол Атрибутів Мілітаризму</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_AMINA_L2_DESCRIPTION">
-			<Text>+5 Combat Strength for all Units against Districts.</Text>
+			<Text>+5 до бойової сили для всіх юнітів проти районів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_ASHOKA_RENOUNCER_L1_NAME">
-			<Text>Diplomatic Attribute Node</Text>
+			<Text>Вузол Атрибутів Дипломатії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_ASHOKA_RENOUNCER_L1_DESCRIPTION">
-			<Text>+25% Relationship from starting or supporting Endeavors. -25% Relationship from starting Sanctions or rejecting Endeavors.</Text>
+			<Text>+25% до стосунків за початок або підтримку ініціатив. -25% до стосунків за початок санкцій або відмову від ініціатив.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_ASHOKA_RENOUNCER_L2_NAME">
-			<Text>Expansionist Attribute Node</Text>
+			<Text>Вузол Атрибутів Експансії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_ASHOKA_RENOUNCER_L2_DESCRIPTION">
-			<Text>+50% Gold towards converting a Town to a City.</Text>
+			<Text>+50% золота на перетворення міста-містечка на місто.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_AUGUSTUS_L1_NAME">
-			<Text>Cultural Attribute Node</Text>
+			<Text>Вузол Атрибутів Культури</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_AUGUSTUS_L1_DESCRIPTION">
-			<Text>+15% Production towards constructing Buildings and Wonders with Great Works slots.</Text>
+			<Text>+15% до виробництва під час побудови будівель і чудес із слотами для шедеврів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_AUGUSTUS_L2_NAME">
-			<Text>Expansionist Attribute Node</Text>
+			<Text>Вузол Атрибутів Експансії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_AUGUSTUS_L2_DESCRIPTION">
-			<Text>+50% Gold towards converting a Town to a City.</Text>
+			<Text>+50% золота на перетворення міста-містечка на місто.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_FRANKLIN_L1_NAME">
-			<Text>Diplomatic Attribute Node</Text>
+			<Text>Вузол Атрибутів Дипломатії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_FRANKLIN_L1_DESCRIPTION">
-			<Text>+25% Relationship from starting or supporting Endeavors. -25% Relationship from starting Sanctions or rejecting Endeavors.</Text>
+			<Text>+25% до стосунків за початок або підтримку ініціатив. -25% до стосунків за початок санкцій або відмову від ініціатив.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_FRANKLIN_L2_NAME">
-			<Text>Scientific Attribute Node</Text>
+			<Text>Вузол Атрибутів Науки</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_FRANKLIN_L2_DESCRIPTION">
-			<Text>+1 to the adjacencies of standard Gold, Production, and Science Buildings.</Text>
+			<Text>+1 до суміжностей стандартних будівель золота, виробництва та науки.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CATHERINE_L1_NAME">
-			<Text>Cultural Attribute Node</Text>
+			<Text>Вузол Атрибутів Культури</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CATHERINE_L1_DESCRIPTION">
-			<Text>+15% Production towards constructing Buildings and Wonders with Great Works slots.</Text>
+			<Text>+15% до виробництва під час побудови будівель і чудес із слотами для шедеврів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CATHERINE_L2_NAME">
-			<Text>Scientific Attribute Node</Text>
+			<Text>Вузол Атрибутів Науки</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CATHERINE_L2_DESCRIPTION">
-			<Text>+1 to the adjacencies of standard Gold, Production, and Science Buildings.</Text>
+			<Text>+1 до суміжностей стандартних будівель золота, виробництва та науки.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CHARLEMAGNE_L1_NAME">
-			<Text>Militaristic Attribute Node</Text>
+			<Text>Вузол Атрибутів Мілітаризму</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CHARLEMAGNE_L1_DESCRIPTION">
-			<Text>+5 Combat Strength for all Units against Districts.</Text>
+			<Text>+5 до бойової сили для всіх юнітів проти районів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CHARLEMAGNE_L2_NAME">
-			<Text>Scientific Attribute Node</Text>
+			<Text>Вузол Атрибутів Науки</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CHARLEMAGNE_L2_DESCRIPTION">
-			<Text>+1 to the adjacencies of standard Gold, Production, and Science Buildings.</Text>
+			<Text>+1 до суміжностей стандартних будівель золота, виробництва та науки.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CONFUCIUS_L1_NAME">
-			<Text>Expansionist Attribute Node</Text>
+			<Text>Вузол Атрибутів Експансії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CONFUCIUS_L1_DESCRIPTION">
-			<Text>+50% Gold towards converting a Town to a City.</Text>
+			<Text>+50% золота на перетворення міста-містечка на місто.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CONFUCIUS_L2_NAME">
-			<Text>Scientific Attribute Node</Text>
+			<Text>Вузол Атрибутів Науки</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_CONFUCIUS_L2_DESCRIPTION">
-			<Text>+1 to the adjacencies of standard Gold, Production, and Science Buildings.</Text>
+			<Text>+1 до суміжностей стандартних будівель золота, виробництва та науки.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_FRIEDRICH_OBLIQUE_L1_NAME">
-			<Text>Militaristic Attribute Node</Text>
+			<Text>Вузол Атрибутів Мілітаризму</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_FRIEDRICH_OBLIQUE_L1_DESCRIPTION">
-			<Text>+5 Combat Strength for all Units against Districts.</Text>
+			<Text>+5 до бойової сили для всіх юнітів проти районів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_FRIEDRICH_OBLIQUE_L2_NAME">
-			<Text>Scientific Attribute Node</Text>
+			<Text>Вузол Атрибутів Науки</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_FRIEDRICH_OBLIQUE_L2_DESCRIPTION">
-			<Text>+1 to the adjacencies of standard Gold, Production, and Science Buildings.</Text>
+			<Text>+1 до суміжностей стандартних будівель золота, виробництва та науки.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_TUBMAN_L1_NAME">
-			<Text>Diplomatic Attribute Node</Text>
+			<Text>Вузол Атрибутів Дипломатії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_TUBMAN_L1_DESCRIPTION">
-			<Text>+25% Relationship from starting or supporting Endeavors. -25% Relationship from starting Sanctions or rejecting Endeavors.</Text>
+			<Text>+25% до стосунків за початок або підтримку ініціатив. -25% до стосунків за початок санкцій або відмову від ініціатив.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_TUBMAN_L2_NAME">
-			<Text>Militaristic Attribute Node</Text>
+			<Text>Вузол Атрибутів Мілітаризму</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_TUBMAN_L2_DESCRIPTION">
-			<Text>+5 Combat Strength for all Units against Districts.</Text>
+			<Text>+5 до бойової сили для всіх юнітів проти районів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_HATSHEPSUT_L1_NAME">
-			<Text>Cultural Attribute Node</Text>
+			<Text>Вузол Атрибутів Культури</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_HATSHEPSUT_L1_DESCRIPTION">
-			<Text>+15% Production towards constructing Buildings and Wonders with Great Works slots.</Text>
+			<Text>+15% до виробництва під час побудови будівель і чудес із слотами для шедеврів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_HATSHEPSUT_L2_NAME">
-			<Text>Economic Attribute Node</Text>
+			<Text>Економічний Вузол Атрибутів</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_HATSHEPSUT_L2_DESCRIPTION">
-			<Text>+25% Gold from Trade and Treasure Fleets.</Text>
+			<Text>+25% золота від торгівлі та флотів скарбів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_HIMIKO_QUEEN_L1_NAME">
-			<Text>Diplomatic Attribute Node</Text>
+			<Text>Вузол Атрибутів Дипломатії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_HIMIKO_QUEEN_L1_DESCRIPTION">
-			<Text>+25% Relationship from starting or supporting Endeavors. -25% Relationship from starting Sanctions or rejecting Endeavors.</Text>
+			<Text>+25% до стосунків за початок або підтримку ініціатив. -25% до стосунків за початок санкцій або відмову від ініціатив.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_HIMIKO_QUEEN_L2_NAME">
-			<Text>Scientific Attribute Node</Text>
+			<Text>Вузол Атрибутів Науки</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_HIMIKO_QUEEN_L2_DESCRIPTION">
-			<Text>+1 to the adjacencies of standard Gold, Production, and Science Buildings.</Text>
+			<Text>+1 до суміжностей стандартних будівель золота, виробництва та науки.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_BATTUTA_L1_NAME">
-			<Text>Economic Attribute Node</Text>
+			<Text>Економічний Вузол Атрибутів</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_BATTUTA_L1_DESCRIPTION">
-			<Text>+25% Gold from Trade and Treasure Fleets.</Text>
+			<Text>+25% золота від торгівлі та флотів скарбів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_BATTUTA_L2_NAME">
-			<Text>Expansionist Attribute Node</Text>
+			<Text>Вузол Атрибутів Експансії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_BATTUTA_L2_DESCRIPTION">
-			<Text>+50% Gold towards converting a Town to a City.</Text>
+			<Text>+50% золота на перетворення міста-містечка на місто.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_ISABELLA_L1_NAME">
-			<Text>Economic Attribute Node</Text>
+			<Text>Економічний Вузол Атрибутів</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_ISABELLA_L1_DESCRIPTION">
-			<Text>+25% Gold from Trade and Treasure Fleets.</Text>
+			<Text>+25% золота від торгівлі та флотів скарбів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_ISABELLA_L2_NAME">
-			<Text>Expansionist Attribute Node</Text>
+			<Text>Вузол Атрибутів Експансії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_ISABELLA_L2_DESCRIPTION">
-			<Text>+50% Gold towards converting a Town to a City.</Text>
+			<Text>+50% золота на перетворення міста-містечка на місто.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_RIZAL_L1_NAME">
-			<Text>Cultural Attribute Node</Text>
+			<Text>Вузол Атрибутів Культури</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_RIZAL_L1_DESCRIPTION">
-			<Text>+15% Production towards constructing Buildings and Wonders with Great Works slots.</Text>
+			<Text>+15% до виробництва під час побудови будівель і чудес із слотами для шедеврів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_RIZAL_L2_NAME">
-			<Text>Diplomatic Attribute Node</Text>
+			<Text>Вузол Атрибутів Дипломатії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_RIZAL_L2_DESCRIPTION">
-			<Text>+25% Relationship from starting or supporting Endeavors. -25% Relationship from starting Sanctions or rejecting Endeavors.</Text>
+			<Text>+25% до стосунків за початок або підтримку ініціатив. -25% до стосунків за початок санкцій або відмову від ініціатив.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_LAFAYETTE_L1_NAME">
-			<Text>Cultural Attribute Node</Text>
+			<Text>Вузол Атрибутів Культури</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_LAFAYETTE_L1_DESCRIPTION">
-			<Text>+15% Production towards constructing Buildings and Wonders with Great Works slots.</Text>
+			<Text>+15% до виробництва під час побудови будівель і чудес із слотами для шедеврів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_LAFAYETTE_L2_NAME">
-			<Text>Diplomatic Attribute Node</Text>
+			<Text>Вузол Атрибутів Дипломатії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_LAFAYETTE_L2_DESCRIPTION">
-			<Text>+25% Relationship from starting or supporting Endeavors. -25% Relationship from starting Sanctions or rejecting Endeavors.</Text>
+			<Text>+25% до стосунків за початок або підтримку ініціатив. -25% до стосунків за початок санкцій або відмову від ініціатив.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_MACHIAVELLI_L1_NAME">
-			<Text>Diplomatic Attribute Node</Text>
+			<Text>Вузол Атрибутів Дипломатії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_MACHIAVELLI_L1_DESCRIPTION">
-			<Text>+25% Relationship from starting or supporting Endeavors. -25% Relationship from starting Sanctions or rejecting Endeavors.</Text>
+			<Text>+25% до стосунків за початок або підтримку ініціатив. -25% до стосунків за початок санкцій або відмову від ініціатив.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_MACHIAVELLI_L2_NAME">
-			<Text>Economic Attribute Node</Text>
+			<Text>Економічний Вузол Атрибутів</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_MACHIAVELLI_L2_DESCRIPTION">
-			<Text>+25% Gold from Trade and Treasure Fleets.</Text>
+			<Text>+25% золота від торгівлі та флотів скарбів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_PACHACUTI_L1_NAME">
-			<Text>Economic Attribute Node</Text>
+			<Text>Економічний Вузол Атрибутів</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_PACHACUTI_L1_DESCRIPTION">
-			<Text>+25% Gold from Trade and Treasure Fleets.</Text>
+			<Text>+25% золота від торгівлі та флотів скарбів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_PACHACUTI_L2_NAME">
-			<Text>Expansionist Attribute Node</Text>
+			<Text>Вузол Атрибутів Експансії</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_PACHACUTI_L2_DESCRIPTION">
-			<Text>+50% Gold towards converting a Town to a City.</Text>
+			<Text>+50% золота на перетворення міста-містечка на місто.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_TRUNG_L1_NAME">
-			<Text>Militaristic Attribute Node</Text>
+			<Text>Вузол Атрибутів Мілітаризму</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_TRUNG_L1_DESCRIPTION">
-			<Text>+5 Combat Strength for all Units against Districts.</Text>
+			<Text>+5 до бойової сили для всіх юнітів проти районів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_TRUNG_L2_NAME">
-			<Text>Scientific Attribute Node</Text>
+			<Text>Вузол Атрибутів Науки</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_TRUNG_L2_DESCRIPTION">
-			<Text>+1 to the adjacencies of standard Gold, Production, and Science Buildings.</Text>
+			<Text>+1 до суміжностей стандартних будівель золота, виробництва та науки.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_XERXES_KING_L1_NAME">
-			<Text>Economic Attribute Node</Text>
+			<Text>Економічний Вузол Атрибутів</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_XERXES_KING_L1_DESCRIPTION">
-			<Text>+25% Gold from Trade and Treasure Fleets.</Text>
+			<Text>+25% золота від торгівлі та флотів скарбів.</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_XERXES_KING_L2_NAME">
-			<Text>Militaristic Attribute Node</Text>
+			<Text>Вузол Атрибутів Мілітаризму</Text>
 		</Row>
 		<Row Tag="LOC_ATTRIBUTENODE_XERXES_KING_L2_DESCRIPTION">
-			<Text>+5 Combat Strength for all Units against Districts.</Text>
+			<Text>+5 до бойової сили для всіх юнітів проти районів.</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_EVENT_PARTICIPATION_LEADERMIXNMATCH_NAME">
-			<Text>First Event Participation Badge</Text>
+			<Text>Знак участі в першій події</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_EVENT_PARTICIPATION_NATURALWONDER_NAME">
-			<Text>Uluru Badge</Text>
+			<Text>Знак Улуру</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_EVENT_VICTORY_NATURALWONDER_NAME">
-			<Text>Mount Fuji Badge</Text>
+			<Text>Знак гори Фудзі</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_EVENT_PARTICIPATION_MONEYMONEYMONEY_NAME">
-			<Text>Crossroads Badge</Text>
+			<Text>Знак Роздоріжжя</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_EVENT_VICTORY_MONEYMONEYMONEY_NAME">
-			<Text>Bloody Gold Badge</Text>
+			<Text>Знак Кривавого Золота</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_EVENT_PARTICIPATION_TROTTINGWATER_NAME">
-			<Text>Sea Horse Badge</Text>
+			<Text>Знак Морського Коня</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_EVENT_PARTICIPATION_MARVELOUSMOUNTAINS_NAME">
-			<Text>Mount Everest Badge</Text>
+			<Text>Знак гори Еверест</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_DLC_DELUXEPACK_NAME">
-			<Text>Badge for Deluxe Content Pack</Text>
+			<Text>Знак для Пакета Deluxe</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_DLC_DELUXEPACK_NAME">
-			<Text>Banner for Deluxe Content Pack</Text>
+			<Text>Банер для Пакета Deluxe</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_DLC_DELUXEPACK_NAME">
-			<Text>Title for Deluxe Content Pack</Text>
+			<Text>Титул для Пакета Deluxe</Text>
 		</Row>
 		<Row Tag="LOC_BORDER_DLC_DELUXEPACK_NAME">
-			<Text>Border for Deluxe Content Pack</Text>
+			<Text>Рамка для Пакета Deluxe</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_DLC_FOUNDERPACK_NAME">
-			<Text>Badge for Founder's Pack</Text>
+			<Text>Знак для Пакета Засновника</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_DLC_FOUNDERPACK_NAME">
-			<Text>Banner for Founder's Pack</Text>
+			<Text>Банер для Пакета Засновника</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_DLC_FOUNDERPACK_NAME">
-			<Text>Title for Founder's Pack</Text>
+			<Text>Титул для Пакета Засновника</Text>
 		</Row>
 		<Row Tag="LOC_BORDER_DLC_FOUNDERPACK_NAME">
-			<Text>Border for Founder's Pack</Text>
+			<Text>Рамка для Пакета Засновника</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_DLC_SEASONPASS_1_NAME">
-			<Text>Badge for Crossroads of the World</Text>
+			<Text>Знак для «Перехрестя Світу»</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_DLC_SEASONPASS_2_NAME">
-			<Text>Badge for Right to Rule</Text>
+			<Text>Знак для «Право Правити»</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_DLC_SEASONPASS_1_NAME">
-			<Text>Banner for Crossroads of the World</Text>
+			<Text>Банер для «Перехрестя Світу»</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_DLC_SEASONPASS_2_NAME">
-			<Text>Banner for Right to Rule</Text>
+			<Text>Банер для «Право Правити»</Text>
 		</Row>
 		<Row Tag="LOC_BORDER_DLC_SEASONPASS_1_NAME">
-			<Text>Border for Crossroads of the World</Text>
+			<Text>Рамка для «Перехрестя Світу»</Text>
 		</Row>
 		<Row Tag="LOC_BORDER_DLC_SEASONPASS_2_NAME">
-			<Text>Border for Right to Rule</Text>
+			<Text>Рамка для «Право Правити»</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_DLC_SEASONPASS_1_NAME">
-			<Text>Title for Crossroads of the World</Text>
+			<Text>Титул для «Перехрестя Світу»</Text>
 		</Row>
 		<Row Tag="LOC_TITLE_DLC_SEASONPASS_2_NAME">
-			<Text>Title for Right to Rule</Text>
+			<Text>Титул для «Право Правити»</Text>
 		</Row>
 		<Row Tag="LOC_DLC_DELUXEPACK_UNLOCK_CONDITION">
-			<Text>To Unlock: Purchase of Deluxe pack</Text>
+			<Text>Для розблокування: Купівля Пакета Deluxe</Text>
 		</Row>
 		<Row Tag="LOC_DLC_FOUNDERPACK_UNLOCK_CONDITION">
-			<Text>To Unlock: Purchase of Founder pack</Text>
+			<Text>Для розблокування: Купівля Пакета Засновника</Text>
 		</Row>
 		<Row Tag="LOC_DLC_SEASONPASS_1_UNLOCK_CONDITION">
-			<Text>To Unlock: Purchase of Crossroads of the World</Text>
+			<Text>Для розблокування: Купівля «Перехрестя Світу»</Text>
 		</Row>
 		<Row Tag="LOC_DLC_SEASONPASS_2_UNLOCK_CONDITION">
-			<Text>To Unlock: Purchase of Right to Rule</Text>
+			<Text>Для розблокування: Купівля «Право Правити»</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_TWITCH_NAME">
-			<Text>Trade Ships</Text>
+			<Text>Торговельні Кораблі</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_TWITCH_UNLOCK_CONDITION">
-			<Text>To Unlock: Twitch Drops</Text>
+			<Text>Для розблокування: Twitch Drops</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_TWITCH_NAME">
-			<Text>Twitch Viewer</Text>
+			<Text>Глядач Twitch</Text>
 		</Row>
 		<Row Tag="LOC_BADGE_TWITCH_UNLOCK_CONDITION">
-			<Text>To Unlock: Twitch Drops</Text>
+			<Text>Для розблокування: Twitch Drops</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_HYPERX_NAME">
-			<Text>Egypt</Text>
+			<Text>Єгипет</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_HYPERX2_NAME">
-			<Text>Egypt 2</Text>
+			<Text>Єгипет 2</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_HYPERX_UNLOCK_CONDITION">
-			<Text>Unlocked from HyperX Promotion</Text>
+			<Text>Розблоковано за промоакцією HyperX</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_TWITCH_WC_NAME">
-			<Text>Cavalry Charge</Text>
+			<Text>Кавалерійський Штурм</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_TWITCH_WC_UNLOCK_CONDITION">
-			<Text>To Unlock: View Twitch World Congress Stream</Text>
+			<Text>Для розблокування: Перегляд стріму Twitch World Congress</Text>
 		</Row>
 	</EnglishText>
 </Database>

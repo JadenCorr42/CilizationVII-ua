@@ -2,468 +2,467 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_1_TITLE">
-			<Text>Ages and Age Transition</Text>
+			<Text>Віки та Переходи між Віками</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_1_CHAPTER_CONTENT_PARA_1">
-			<Text>Ages and Age Transition are new to Civilization VII and represent large segments of human history, culture, and conflict. A full game in Civilization VII spans multiple Ages, as players play from one Age to the next. A game ends when any player wins a Victory.</Text>
+			<Text>Віки та Переходи між Віками є новинкою в Civilization VII та відображають великі періоди людської історії, культури й конфліктів. Повна гра в Civilization VII охоплює кілька Віків, адже гравці переходять від одного Віку до наступного. Гра завершується, коли будь-який гравець здобуває Перемогу.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Each Age has a set of challenges and rewards called Legacy Paths. Players can complete Milestones on a Legacy path to unlock powerful bonuses that can carry into the next Age (called Legacies). Players can also unlock additional playable Civilizations for the next age depending what they do in the current age.</Text>
+			<Text>Кожен Вік має набір випробувань і винагород, які називаються Шляхами Спадку. Гравці можуть завершувати Віхи на Шляху Спадку, щоб розблокувати потужні бонуси, які переносяться в наступний Вік (їх називають Спадщинами). Також гравці можуть розблокувати додаткові ігрові Цивілізації для наступного Віку залежно від їхніх дій у поточному Віці.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_1_CHAPTER_CONTENT_PARA_3">
-			<Text>When an Age ends, all players transition to the next age at the same time. An Age ends when the Age Progress Meter is filled. Age progress is added slowly every turn but also advances more quickly when a player accomplishes a Milestone for the first time, researches a Future Tech or Civic, or when a player is eliminated.</Text>
+			<Text>Коли Вік закінчується, усі гравці одночасно переходять до наступного Віку. Вік закінчується, коли Шкала Прогресу Віку заповнена. Прогрес Віку збільшується потроху кожен хід, а також просувається швидше, коли гравець уперше виконує Віху, досліджує майбутню Технологію або Культуру (Future Tech чи Civic) чи коли гравця усувають з гри.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_1_CHAPTER_CONTENT_PARA_4">
-			<Text>During Age transition, Players choose a new Civilization to play as and gain powerful bonuses from any Legacies unlocked in the previous Age. Players gain more Legacy points to spend on Legacies as well as unique Legacies by completing all Milestones on a Legacy Path. During this time, Mementos can also be changed. </Text>
+			<Text>Під час переходу між Віками гравці обирають нову Цивілізацію й отримують потужні бонуси від усіх Спадщин, розблокованих у попередньому Віці. Гравці також здобувають більше очок Спадку для витрат на Спадщини та унікальні Спадщини за повне проходження всіх Віх на Шляху Спадку. У цей же час можна змінити й Мементо.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_1_CHAPTER_CONTENT_PARA_5">
-			<Text>If an Age is not the last Age of a Campaign, a Crisis can trigger when the Age Progress Meter is almost full. Crises are major events that usher in the end of an Age and are not intended to be solved or stopped.</Text>
+			<Text>Якщо Вік не є останнім Віком Кампанії, може розпочатися Криза, коли Шкала Прогресу Віку майже заповнена. Кризи – це масштабні події, що наближають кінець Віку та не передбачають повного вирішення чи припинення.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_2_TITLE">
-			<Text>Carry over between Ages</Text>
+			<Text>Що переходить у наступний Вік</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_2_CHAPTER_CONTENT_PARA_1">
-			<Text>The following things carry over to the next Age after an Age Transition:</Text>
+			<Text>Після Переходу між Віками до наступного Віку переходять наступні речі:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_2_CHAPTER_CONTENT_PARA_2">
-			<Text>[BLIST][LI]Leaders and attribute points [LI]Legacy points (total number and type) [LI]Unlocked Traditions (i.e. the unique Social Policies specific to a Civilization)[LI]Golden Age and Dark Age Legacies from the previous age[LI]A number of units to defend your settlements (6 at the start of the Exploration Age, and 9 at the start of the Modern Age) [LI]Commanders, with their Promotions and level, along with units to fill them if you have enough[LI]Wonders and Unique Quarters (and their Yields and bonuses)[LI]Settlements (including those that were conquered, exchanged in peace deals, or incorporated from a City-State)[/LIST]</Text>
+			<Text>[BLIST][LI]Лідери та окуляри атрибутів [LI]Окуляри Спадку (загальна кількість і тип) [LI]Розблоковані Традиції (тобто унікальні соціальні політики, властиві Цивілізації) [LI]Спадщини Золотого Віку й Темного Віку з попереднього Віку [LI]Кілька юнітів для захисту поселень (6 на початку Віку Досліджень та 9 на початку Сучасного Віку) [LI]Командири зі своїми Промоціями та рівнями, а також юніти для їх комплектування (за наявності достатньої кількості) [LI]Дива та Унікальні Квартали (а також їхні Показники й бонуси) [LI]Поселення (включно з тими, що були завойовані, передані під час мирних угод або приєднані від Міста-Держави)[/LIST]</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_2_CHAPTER_CONTENT_PARA_3">
-			<Text>The following things change after an Age Transition:</Text>
+			<Text>Наступні речі змінюються після Переходу між Віками:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_2_CHAPTER_CONTENT_PARA_4">
-			<Text>[BLIST][LI]All Players select new Civilizations[LI]All Cities revert to Towns (except Player capitals)[LI]All Buildings bonuses will be removed and they can be overbuilt[LI]New Independent Powers and City-States emerge[LI]The map is populated with new Discoveries. In Modern, they must be discovered by Explorers in order to gain Artifacts for that Age.[LI]Any uncompleted Quests are lost [LI]Relationships with other leaders change by a moderate amount towards Neutral[/LIST]</Text>
+			<Text>[BLIST][LI]Усі гравці обирають нові Цивілізації [LI]Усі Міста перетворюються на Містечка (крім столиць гравців) [LI]Усі бонуси від Будівель скасовуються, і їх можна перебудовувати [LI]З’являються нові Незалежні Сили та Міста-Держави [LI]Карта заповнюється новими Відкриттями. У Сучасному Віці їх потрібно досліджувати Експлорерами, щоб отримувати Артефакти цього Віку. [LI]Усі незавершені Завдання зникають [LI]Відносини з іншими лідерами змінюються на помірну нейтральність[/LIST]</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_3_TITLE">
-			<Text>Advanced Start</Text>
+			<Text>Розширений старт</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Players can start a new game from any Age - not just Antiquity. Players can customize their Advanced start by selecting bonuses from different Legacies. These bonuses range from  additional settlements, automatically completed Techs/Civics, or a free army or navy. </Text>
+			<Text>Гравці можуть почати нову гру з будь-якого Віку, а не лише з Давнини. Гравці можуть налаштовувати свій розширений старт, обираючи бонуси з різних Спадщин. Ці бонуси можуть надавати додаткові поселення, автоматично завершені Технології/Культури або безкоштовну армію чи флот.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_3_CHAPTER_CONTENT_PARA_2">
-			<Text>Players also start the Age with the Social policies of a Civilization of the previous age. This Civilization will be one of the recommended Civilizations of a Player’s chosen Leader.</Text>
+			<Text>Гравці також починають Вік із соціальними політиками Цивілізації попереднього Віку. Ця Цивілізація буде однією з рекомендованих для обраного гравцем Лідера.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_3_CHAPTER_CONTENT_PARA_3">
-			<Text>For example, a Player who starts in the Exploration age as Hatshepsut begins the Age with the Social Policies of either Aksum or Egypt (the recommended Civilizations for Hatshepsut from Antiquity).</Text>
+			<Text>Наприклад, гравець, який починає Вік Досліджень за Хатшепсут, починає гру з соціальними політиками Аксуму або Єгипту (рекомендованих Цивілізацій для Хатшепсут з Давнини).</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_4_TITLE">
-			<Text>Single Age Games</Text>
+			<Text>Одновікові ігри</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_4_CHAPTER_CONTENT_PARA_1">
-			<Text>During setup, Players can decide to play through only a single Age. This is known as a Single Age Game. </Text>
+			<Text>Під час налаштування гри гравці можуть обрати гру лише на один Вік. Це називається «Одновікова гра».</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_4_CHAPTER_CONTENT_PARA_2">
-			<Text>Single Age games do not have a Crisis and do not end with an Age Transition. Single Age games still have the Domination and Points Victories. If playing a Single age Game in Modern, Players can still unlock unique Victories in the Modern age by completing all of the Milestones of any Modern age Legacy Path.</Text>
+			<Text>В Одновікових іграх немає Криз і вони не завершуються Переходом між Віками. Проте в них усе ще можна здобути Панування або Перемогу за Очками. Якщо грати в Одновікову гру в Сучасності, гравці досі можуть розблокувати унікальні Перемоги Сучасного Віку, виконавши всі Віхи будь-якого Шляху Спадку Сучасного Віку.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_5_TITLE">
-			<Text>Legacy Paths and Legacy Points</Text>
+			<Text>Шляхи Спадку та Окуляри Спадку</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_5_CHAPTER_CONTENT_PARA_1">
-			<Text>New to Civilization VII, Legacy Paths are challenges that offer rewards and give Players a chance to leave their mark on history. </Text>
+			<Text>Нововведенням у Civilization VII є Шляхи Спадку – це випробування, що пропонують нагороди та дають гравцям змогу залишити свій слід в історії.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_5_CHAPTER_CONTENT_PARA_2">
-			<Text>Each Player has four Legacy Paths they may pursue during an Age: Military, Scientific, Cultural, and Economic. Players do not need to complete a Legacy Path to end an Age or achieve a Victory (though they are very helpful). </Text>
+			<Text>Кожен гравець має чотири Шляхи Спадку, які він може обрати протягом Віку: Військовий, Науковий, Культурний і Економічний. Гравцям не обов’язково завершувати Шлях Спадку, щоб закінчити Вік чи здобути Перемогу (хоча це дуже корисно).</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_5_CHAPTER_CONTENT_PARA_3">
-			<Text>At the start of a new Age, each Player receives a new set of Legacy Paths specific to that age.</Text>
+			<Text>На початку кожного нового Віку гравець отримує новий набір Шляхів Спадку, характерних для цього Віку.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_6_TITLE">
-			<Text>Milestones</Text>
+			<Text>Віхи</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_6_CHAPTER_CONTENT_PARA_1">
-			<Text>Legacy Paths are divided into Milestones. When a Player completes a Milestone, they receive Legacy Points, Leader attribute points, or another bonus. Each Legacy Path contains one Golden Age Legacy and one Dark Age Legacy.</Text>
+			<Text>Шляхи Спадку поділяються на Віхи. Коли гравець завершує Віху, він отримує Окуляри Спадку, окуляри атрибутів Лідера чи інший бонус. Кожен Шлях Спадку містить одну Спадщину Золотого Віку і одну Спадщину Темного Віку.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_7_TITLE">
-			<Text>Golden Age and Dark Age Legacies</Text>
+			<Text>Спадщини Золотого Віку й Темного Віку</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_7_CHAPTER_CONTENT_PARA_1">
-			<Text>When a Player completes the final Milestone of a Legacy Path, they unlock a Golden Age Legacy. Golden Age Legacies allow Players to keep more of their Civilization intact after an Age transition. For example, some Golden Age Legacies allow a player to keep a specific type of Building into the next Age with its Yields and bonuses. </Text>
+			<Text>Коли гравець завершує фінальну Віху Шляху Спадку, він відкриває Спадщину Золотого Віку. Такі Спадщини дають змогу зберегти більше елементів Цивілізації після Переходу між Віками. Наприклад, деякі Спадщини Золотого Віку дають можливість зберегти певний тип Будівель у наступному Віці разом із їхніми Показниками та бонусами.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_7_CHAPTER_CONTENT_PARA_2">
-			<Text>In contrast, Dark Age Legacies are unlocked by default. If a Player choses a Dark Age Legacy, they will receive powerful bonuses in the next age at the cost of also applying negative effects. For example, a Dark Age Legacy may make it easier to research specific Techs, but at the cost of increasing how long it takes to produce a specific Unit.</Text>
+			<Text>На противагу цьому, Спадщини Темного Віку відкриваються за замовчуванням. Якщо гравець обирає Спадщину Темного Віку, він отримає потужні бонуси в наступному Віці, але разом із цим застосовуватимуться і негативні ефекти. Наприклад, Спадщина Темного Віку може полегшувати дослідження певних Технологій, проте збільшувати час на виробництво конкретних Юнітів.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_7_CHAPTER_CONTENT_PARA_3">
-			<Text>Players can only activate one Golden Age or Dark Age Legacy at the start of a new Age (even if they have unlocked more than one).</Text>
+			<Text>На початку нового Віку гравці можуть активувати лише одну Спадщину Золотого Віку або Темного Віку (навіть якщо вони розблокували більше однієї).</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_8_TITLE">
-			<Text>Legacy Points</Text>
+			<Text>Окуляри Спадку</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_8_CHAPTER_CONTENT_PARA_1">
-			<Text>Legacy Points are awarded after the completion of Milestones. Players spend Legacy points to purchase Legacies after an Age Transition. </Text>
+			<Text>Окуляри Спадку надаються після виконання Віх. Гравці витрачають Окуляри Спадку на придбання Спадщин після Переходу між Віками.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_8_CHAPTER_CONTENT_PARA_2">
-			<Text>In games where none of the Players achieve a Victory, the Player with the most Legacy Points at the end of the Modern Age (or the current Age if playing a Single Age game) wins the game.</Text>
+			<Text>У іграх, де жоден із гравців не досягає Перемоги, гравець із найбільшою кількістю Очок Спадку в кінці Сучасного Віку (або поточного Віку, якщо це Одновікова гра) здобуває перемогу.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_8_CHAPTER_CONTENT_PARA_3">
-			<Text>Legacy points also apply bonuses to their corresponding unique Victories in the Modern age, making these unique Victories easier to accomplish.</Text>
+			<Text>Окуляри Спадку також впливають на відповідні унікальні Перемоги у Сучасному Віці, полегшуючи їхнє досягнення.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_9_TITLE">
-			<Text>Legacies</Text>
+			<Text>Спадщини</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_9_CHAPTER_CONTENT_PARA_1">
-			<Text>Legacies are bonuses that players can purchase at the start of a new Age. The bonuses provided by Legacies include lump sums of Gold, completed Techs/Civics, full armies, or new unit abilities. </Text>
+			<Text>Спадщини – це бонуси, які гравці можуть придбати на початку нового Віку. Вони можуть надавати одноразову кількість Золота, завершені Технології/Культури, повні армії або нові здібності юнітів.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_9_CHAPTER_CONTENT_PARA_2">
-			<Text>Players purchase Legacies using the matching Legacy Point (Military, Cultural, Scientific, Economic, or Wildcard). </Text>
+			<Text>Гравці купують Спадщини за відповідні Окуляри Спадку (Військові, Культурні, Наукові, Економічні або універсальні).</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_9_CHAPTER_CONTENT_PARA_3">
-			<Text>Players can also unlock additional Legacies by completing Milestones on Legacy Paths. Completing all of the Milestones in a Legacy Path will unlock a very powerful Golden Age Legacy to use in the next Age. </Text>
+			<Text>Гравці також можуть розблокувати додаткові Спадщини, виконавши Віхи на Шляхах Спадку. Виконання всіх Віх у Шляху Спадку відкриває дуже потужну Спадщину Золотого Віку, яку можна використати в наступному Віці.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_10_TITLE">
-			<Text>Victories</Text>
+			<Text>Перемоги</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_10_CHAPTER_CONTENT_PARA_1">
-			<Text>In Civilization VII, Players can achieve victory in different ways. When any player achieves a Victory, the game immediately ends.</Text>
+			<Text>У Civilization VII гравці можуть досягти Перемоги різними способами. Коли будь-який гравець здобуває Перемогу, гра негайно завершується.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_11_TITLE">
-			<Text>Domination Victory</Text>
+			<Text>Перемога за Панування</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_11_CHAPTER_CONTENT_PARA_1">
-			<Text>To win a Domination victory, a Player must capture all Settlements that belong to other Civilizations. This does not include Settlements owned by Independent Powers or City-States.</Text>
+			<Text>Щоб здобути Перемогу за Панування, гравець повинен захопити всі Поселення, що належать іншим Цивілізаціям. Це не стосується Поселень, які належать Незалежним Силам або Містам-Державам.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_11_CHAPTER_CONTENT_PARA_2">
-			<Text>A Domination Victory is possible at any time during the Exploration and Modern Ages. In the Antiquity Age, a Domination Victory is only possible when playing a Single Age Game. (This is because players cannot cross the ocean to claim the settlements of Civilizations in the Distant Lands continent during Antiquity).</Text>
+			<Text>Перемога за Панування можлива будь-коли протягом Віку Досліджень і Сучасного Віку. У Давнині Перемога за Панування можлива лише в Одновіковій грі (оскільки гравці не можуть перетнути океан, щоб захопити поселення Цивілізацій на континенті Далекі Землі в Давнині).</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_12_TITLE">
-			<Text>Unique Legacy Path Victories</Text>
+			<Text>Унікальні Перемоги Шляху Спадку</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_12_CHAPTER_CONTENT_PARA_1">
-			<Text>Unique victories are also unlocked by completing the last Milestone of any Legacy Path in the final age. The first Player to complete any of these unique Victories immediately wins the game.</Text>
+			<Text>Унікальні перемоги також відкриваються завершенням останньої Віхи будь-якого Шляху Спадку у фінальному Віці. Перший гравець, який виконає будь-яку з цих унікальних Перемог, миттєво перемагає.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_12_CHAPTER_CONTENT_PARA_2">
-			<Text>Matching Legacy points earned from previous ages make these victories easier to achieve.</Text>
+			<Text>Відповідні Окуляри Спадку, зароблені в попередніх Віках, полегшують досягнення цих перемог.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_13_TITLE">
-			<Text>Points Victory</Text>
+			<Text>Перемога за Очками</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_13_CHAPTER_CONTENT_PARA_1">
-			<Text>If none of the other Victories are achieved by the end of the final Age, the Player with the most Legacy Points wins.</Text>
+			<Text>Якщо жодна інша Перемога не була досягнута до кінця фінального Віку, гравець із найбільшою кількістю Очок Спадку перемагає.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_14_TITLE">
-			<Text>Crisis</Text>
+			<Text>Криза</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_14_CHAPTER_CONTENT_PARA_1">
-			<Text>New to Civilization VII, Crises are negative events and effects that force Players to make difficult choices towards the end of an Age. These emergencies cannot be solved or stopped – they can only be managed until the Age ends.</Text>
+			<Text>Кризи – це нові негативні події й ефекти Civilization VII, що змушують гравців приймати складні рішення наприкінці Віку. Ці надзвичайні ситуації не можна вирішити чи припинити – їх можна лише стримувати, доки Вік не завершиться.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_14_CHAPTER_CONTENT_PARA_2">
-			<Text>Crises push Players to deal with escalating negative events, ranging from hostile invaders, spreading plagues, or open rebellion from settlements. During a Crisis, Players must slot Crisis Social Policies. These policies reflect how your civilization is choosing to manage the Crisis and often have negative effects that will last until the end of this Age.	</Text>
+			<Text>Кризи вимагають від гравців реагувати на зростаючі негативні події – від ворожих загарбників і поширення епідемій до відкритого бунту в поселеннях. Під час Кризи гравці повинні використовувати соціальні політики Кризи. Ці політики відображають, як ваша цивілізація обирає протидіяти Кризі, і часто мають негативні ефекти, що триватимуть до кінця цього Віку.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_14_CHAPTER_CONTENT_PARA_3">
-			<Text>A Crisis can only occur in an Age that ends in an Age transition. A Crisis cannot occur in a final Age (or during a Single Age game).  Crises can also unlock unique Legacies that reflect how the Crisis has left an enduring impact on your Civilization.</Text>
+			<Text>Криза може статися лише у Віку, який завершується Переходом між Віками. Криза не може виникнути у фінальному Віці (або під час Одновікової гри). Кризи також можуть відкрити унікальні Спадщини, що відображають тривалий вплив Кризи на вашу Цивілізацію.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_15_TITLE">
-			<Text>Invasion (Antiquity)</Text>
+			<Text>Нашестя (Давнина)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_15_CHAPTER_CONTENT_PARA_1">
-			<Text>During an Invasion Crisis, unsettled and migratory peoples become increasingly powerful and threaten to destroy the major civilizations.</Text>
+			<Text>Під час Кризи «Нашестя» нескінні кочові народи стають дедалі сильнішими та загрожують знищити великі цивілізації.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_15_CHAPTER_CONTENT_PARA_2">
-			<Text>New Hostile Independent encampments spawn which cannot be converted to City-States. Encampments spawn combat units which will raid nearby civilizations until dispersed but will respawn a few turns later in a new location as the highly mobile unsettled peoples are difficult to truly defeat.</Text>
+			<Text>На карті з’являються нові ворожі незалежні табори, які не можна перетворити на Міста-Держави. Ці табори створюють бойові юніти, що здійснюють набіги на сусідні цивілізації, доки їх не знищать, але через кілька ходів вони з’являються знову в новому місці, оскільки мобільні кочові народи надто складно повністю розгромити.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_15_CHAPTER_CONTENT_PARA_3">
-			<Text>Invasion Crisis policies affect how Players engage with Independent Powers, both militarily, diplomatically and economically.	</Text>
+			<Text>Політики Кризи «Нашестя» впливають на те, як гравці взаємодіють із Незалежними Силами – як військово, так і дипломатично чи економічно.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_16_TITLE">
-			<Text>Revolution (Exploration)</Text>
+			<Text>Революція (Вік Досліджень)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_16_CHAPTER_CONTENT_PARA_1">
-			<Text>In a Revolution Crisis, new ideas, technologies and the rise of the middle class destabilize and eventually overthrow the existing governments.</Text>
+			<Text>У Кризі «Революція» нові ідеї, технології та піднесення середнього класу дестабілізують і зрештою повалюють чинні уряди.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_16_CHAPTER_CONTENT_PARA_2">
-			<Text>Successive stages of the Revolution Crisis force Players to choose from mounting negative effects associated with their current Government. Eventually, these governments will be overthrown and the player will choose a new Revolutionary Government with their own unique bonuses and drawbacks.</Text>
+			<Text>Під час різних етапів Кризи «Революція» гравці змушені обирати дедалі більш негативні ефекти, пов’язані з їхнім поточним урядом. Урешті-решт цей уряд повалюють, і гравець обирає новий революційний уряд зі своїми унікальними бонусами й недоліками.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_17_TITLE">
-			<Text>Plagues</Text>
+			<Text>Епідемії</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_17_CHAPTER_CONTENT_PARA_1">
-			<Text>Plagues are a special type of disaster associated with Crises.  Plagues can be Major Outbreaks or Minor Outbreaks.  Major Outbreaks spread and cause Minor Outbreaks in Connected settlements.  Outbreaks are more likely to occur in settlements that are densely populated, highly connected to trade routes or under siege.  Outbreaks pillage Buildings and Improvements in a settlement but also sometimes give additional science or culture to an affected tile.  Units on an infected tile take damage every turn.</Text>
+			<Text>Епідемії – це особливий тип катастроф, пов’язаних із Кризами. Епідемії бувають Великі та Малі. Великі Епідемії поширюються й спричиняють Малі спалахи в Пов’язаних поселеннях. Імовірність спалахів вища в поселеннях із великою кількістю населення, високим рівнем торговельних зв’язків або там, де триває облога. Спалахи розорюють Будівлі та Поліпшення в поселенні, проте інколи додають додаткову науку чи культуру на уражену клітинку. Юніти, що перебувають на ураженій клітинці, щоходу втрачають здоров’я.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_18_TITLE">
-			<Text>Plague (Antiquity)</Text>
+			<Text>Епідемія (Давнина)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_18_CHAPTER_CONTENT_PARA_1">
-			<Text>In Antiquity plagues are less likely to spread but there is little that civilizations can do to avoid them. Antiquity plague Crisis policies have ways to mitigate some of the effects of plagues while suffering major economic or military downsides.</Text>
+			<Text>У Давнині епідемії рідше поширюються, але цивілізації майже не можуть їм протидіяти. Політики Кризи «Епідемія (Давнина)» дають змогу пом’якшити деякі наслідки епідемій, проте супроводжуються сильними економічними чи військовими штрафами.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_19_TITLE">
-			<Text>Plague (Exploration)</Text>
+			<Text>Епідемія (Вік Досліджень)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_19_CHAPTER_CONTENT_PARA_1">
-			<Text>In Exploration plagues are more likely to spread across whole Continents.  Exploration plague Crisis policies allow players to mitigate and eventually prevent Major Outbreaks as Civilizations eventually learn how to adapt to the constant waves of plague.</Text>
+			<Text>У Віку Досліджень епідемії мають більшу ймовірність охопити цілі континенти. Політики Кризи «Епідемія (Вік Досліджень)» дають змогу гравцям спочатку пом’якшувати, а згодом і запобігати Великим Спалахам, адже цивілізації зрештою навчаються протидіяти постійним хвилям епідемій.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_20_TITLE">
-			<Text>Revolts (Antiquity) </Text>
+			<Text>Повстання (Давнина)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_20_CHAPTER_CONTENT_PARA_1">
-			<Text>In Antiquity, crisis policies are tied to a Civilization’s Government. If a settlement’s people are unhappy then they can go into Unrest or even Revolt and try to defect to another civilization.  Antiquity Revolt crisis policies put pressure on the happiness of a player’s settlements so make sure to increase your local happiness in key settlements with Resources and Buildings or Stationing Commanders to supress Unhappiness.</Text>
+			<Text>У Давнині політики Кризи пов’язані з урядом Цивілізації. Якщо люди в поселенні незадоволені, воно може зануритися в Безлад або навіть Повстати й спробувати перейти до іншої цивілізації. Політики Кризи «Повстання (Давнина)» посилюють незадоволення в поселеннях, тож обов’язково підвищуйте локальне щастя важливих поселень за допомогою Ресурсів і Будівель або ж розміщуйте там Командирів, щоб придушити невдоволення.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_21_TITLE">
-			<Text>Wars of Religion (Exploration) </Text>
+			<Text>Релігійні війни (Вік Досліджень)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_21_CHAPTER_CONTENT_PARA_1">
-			<Text>In Exploration, settlement revolts are tied to Happiness and Religion.  Unhappy settlements that follow another civilization’s religion can go into Unrest or even Revolt and defect to the Founder of that Religion.  Exploration crisis policies give players a choice to pursue religious tolerance and maintain a religiously diverse Civilization or to embrace religious zeal and pursue a policy of strict religious unity. You can avoid unrest and revolts either by ensuring that all of your settlements follow your religion or by keeping any settlements that don't follow your religion happy.</Text>
+			<Text>У Віку Досліджень повстання в поселеннях пов’язане з рівнем Щастя та Релігією. Незадоволені поселення, що сповідують релігію іншої цивілізації, можуть зануритися в Безлад або Повстати й приєднатися до Засновника цієї релігії. Політики Кризи «Релігійні війни» пропонують гравцям обрати релігійну терпимість і зберігати релігійне розмаїття в цивілізації або прийняти шлях релігійного фанатизму і суворої єдності релігії. Уникнути невдоволення і повстань можна, забезпечивши, щоб усі ваші поселення сповідували вашу релігію, або підтримуючи щастя в поселеннях, що сповідують іншу.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_22_TITLE">
-			<Text>WMDs/Warheads</Text>
+			<Text>ЗМЗ (Зброя масового знищення)/Бойові боєголовки</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_22_CHAPTER_CONTENT_PARA_1">
-			<Text>WMDs are devastating and powerful tools that Players can use in the Modern Age. When deployed from a Heavy Bomber, Players can use them to completely destroy an enemy player’s Buildings or Units. Radioactive Fallout caused by them will continue to damage units caught in its radius.</Text>
+			<Text>ЗМЗ – це руйнівні та потужні засоби, якими гравці можуть скористатися в Сучасному Віці. Якщо їх скидати з Тяжкого бомбардувальника, можна повністю знищувати Будівлі чи Юніти противника. Радіоактивне забруднення, яке виникає внаслідок вибуху, продовжує завдавати шкоди юнітам, що опиняються в його радіусі дії.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_22_CHAPTER_CONTENT_PARA_2">
-			<Text>Players must construct the Manhattan Project Wonder before they can produce individual WMDs. The Manhattan Project Wonder is unlocked by completing all Milestones of the Military Legacy Path in the Modern age. Players can then win the unique Military Victory in Modern by completing the Operation Ivy Project in one of their Cities.</Text>
+			<Text>Гравці мають збудувати диво «Проєкт Мангеттен», перш ніж вони зможуть виробляти окремі ЗМЗ. Диво «Проєкт Мангеттен» розблоковується, коли ви виконаєте всі Віхи на Військовому Шляху Спадку в Сучасному Віці. Тоді гравці зможуть здобути унікальну Військову Перемогу в Сучасності, виконавши Проєкт «Операція Айві» в одному зі своїх Міст.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_22_CHAPTER_CONTENT_PARA_3">
-			<Text>In order to use a WMD offensively, Players must build a WMD and use the Deploy Warhead action from any Heavy Bomber packed in an Aerodrome, Squadron Commander, or Aircraft Carrier.</Text>
+			<Text>Щоб застосувати ЗМЗ у наступальних цілях, гравці повинні створити бойову боєголовку та виконати дію «Використати боєголовку» з будь-якого Тяжкого бомбардувальника, розміщеного на Аеродромі, у Загоні Командира або на Авіаносці.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_22_CHAPTER_CONTENT_PARA_4">
-			<Text>Additionally, all Military Legacy points make the construction of both the Manhattan Project Wonder and WMDs easier. These Military Legacy points can be gained from completing Milestones of the Military Legacy paths from any Age (not just Modern).</Text>
+			<Text>Крім того, усі Військові Окуляри Спадку полегшують будівництво дива «Проєкт Мангеттен» та виробництво ЗМЗ. Ці Військові Окуляри Спадку можна отримати, виконуючи Віхи на Військовому Шляху Спадку будь-якого Віку (а не лише в Сучасності).</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_23_TITLE">
-			<Text>Modern Military Victory</Text>
+			<Text>Сучасна Військова Перемога</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_23_CHAPTER_CONTENT_PARA_1">
-			<Text>To win a military victory, players must complete three steps. First, the Modern Military Legacy Path must be completed, which will unlock the Manhattan Project Wonder to build in a City. Once a player has built the Manhattan Project, they will able to to conduct an Operation Ivy Project in one of their Cities.</Text>
+			<Text>Щоб здобути військову перемогу в Сучасності, гравці мають виконати три кроки. Спочатку слід завершити Сучасний Військовий Шлях Спадку, який розблоковує можливість збудувати диво «Проєкт Мангеттен» у Місті. Після зведення «Проєкту Мангеттен» гравець зможе провести «Операцію Айві» в одному зі своїх Міст.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_23_CHAPTER_CONTENT_PARA_2">
-			<Text>A player who completes the Operation Ivy Project will immediately win a military victory. Military Legacy points earned across all ages will increase Production towards building the Manhattan Project and Operation Ivy.</Text>
+			<Text>Гравець, який завершує «Операцію Айві», миттєво здобуває військову перемогу. Військові Окуляри Спадку, набрані у всіх Віках, збільшують виробництво для зведення «Проєкту Мангеттен» і «Операції Айві».</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_24_TITLE">
-			<Text>Antiquity: Wonders of the Ancient World</Text>
+			<Text>Давнина: Дива Стародавнього Світу</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_24_CHAPTER_CONTENT_PARA_1">
-			<Text>The Wonders of the Ancient World is an Antiquity Age legacy path that challenges players to construct 7 Wonders within their empire. Each Wonder not only provides adjacency yields but also grants unique effects, enhancing your civilization's power and influence. </Text>
+			<Text>«Дива Стародавнього Світу» – це Шлях Спадку для Давнини, який заохочує гравців звести 7 Див у межах своєї імперії. Кожне Диво не лише забезпечує бонуси від сусідніх клітин, але й надає унікальні ефекти, що посилюють могутність та вплив вашої цивілізації.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_24_CHAPTER_CONTENT_PARA_2">
-			<Text>Failing to make progress on this legacy path will unlock the Cultural Dark Age card at the Age Transition. This card grants your Missionaries +1 Charge and +1 Movement but imposes a -3 Happiness penalty in all Settlements after founding a Religion, doubled in Settlements that do not follow your Religion.</Text>
+			<Text>Якщо не досягти жодного прогресу на цьому Шляху Спадку, в наступному Віці відкриється Культурна Спадщина Темного Віку. Ця карта надає вашим Місіонерам +1 заряд і +1 до Руху, але запроваджує покарання -3 до Щастя у всіх Поселеннях після заснування Релігії (це покарання подвоюється в Поселеннях, що не сповідують вашу Релігію).</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_24_CHAPTER_CONTENT_PARA_3">
-			<Text>Successfully finishing this legacy path upgrades your Amphitheaters to Golden Age Amphitheaters, allowing them to retain their base yield, adjacency bonuses, and effects in the next Age, preserving their impact and influence as your civilization advances.</Text>
+			<Text>Повне завершення цього Шляху Спадку покращить ваші Амфітеатри до «Золотих Амфітеатрів», дозволивши їм зберегти свою базову продуктивність, бонуси від суміжних клітин та ефекти в наступному Віці, щоб зберегти свій вплив і значення для вашої цивілізації.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_24_CHAPTER_CONTENT_PARA_4">
-			<Text>Tip: Most Wonders are unlocked through Tech and Civic Masteries, with a greater selection found in the Civic tree than the Tech tree. If you’re pursuing this Legacy Path, focusing on boosting your Culture output and prioritizing Civic Masteries will help you unlock these Wonders faster.</Text>
+			<Text>Порада: Більшість Див розблоковується завдяки опрацюванню Технологій і Культур (Masteries), причому у гілці Культур їх більше, ніж у гілці Технологій. Якщо ви прагнете пройти цей Шлях Спадку, варто зосередитися на підвищенні показника Культури та пріоритезувати Культурні Masteries для швидшого відкриття цих Див.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_25_TITLE">
-			<Text>Antiquity: Pax Imperatoria</Text>
+			<Text>Давнина: Pax Imperatoria</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_25_CHAPTER_CONTENT_PARA_1">
-			<Text>The Pax Imperatoria is an Antiquity Age legacy path that requires players to build a vast empire by controlling 12 Cities or Towns. Conquered Settlements count as double, making expansion through conquest a highly effective strategy for completing this path. </Text>
+			<Text>«Pax Imperatoria» – це Шлях Спадку Давнини, що вимагає від гравців мати 12 Міст чи Містечок під своїм контролем. Завойовані Поселення зараховуються за подвійну кількість, тож експансія шляхом завоювань – надзвичайно ефективний спосіб виконати цю умову.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_25_CHAPTER_CONTENT_PARA_2">
-			<Text>Failing to reach any milestones in this legacy path unlocks the Militaristic Dark Age option for the next Age. This option grants you three fully packed cavalry armies with siege capabilities, but at a steep cost: you will lose all existing armies and all Settlements except your capital.</Text>
+			<Text>Якщо не досягти жодної Віхи на цьому Шляху Спадку, для наступного Віку розблоковується Мілітаристична Спадщина Темного Віку. Вона надає три повністю укомплектовані кавалерійські армії із засобами облоги, але за це ви втрачаєте всі наявні армії та всі Поселення, крім вашої столиці.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_25_CHAPTER_CONTENT_PARA_3">
-			<Text>Successfully completing the Pax Imperatoria legacy path rewards you with the Pax Imperatoria Golden Age in the next Age, granting an Infantry unit in every settlement you conquered in the previous Age.</Text>
+			<Text>Успішне завершення Шляху «Pax Imperatoria» нагороджує вас у наступному Віці Золотим Віком Pax Imperatoria, що дає піхотний юніт у кожному Поселенні, яке ви завоювали в попередньому Віці.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_25_CHAPTER_CONTENT_PARA_4">
-			<Text>Tip: Building a strong military and focusing on conquest is the most effective way to progress along this path, as peaceful expansion may be limited by Settlement caps. Remember that even razed Settlements count toward your goal, so use razing wisely to speed up your progress.</Text>
+			<Text>Порада: Найефективнішим способом просування цим Шляхом є створення потужної армії та зосередження на завоюванні, оскільки мирна експансія може бути обмежена лімітами на Поселення. Пам’ятайте, що навіть зруйновані Поселення зараховуються до вашої мети, тож використовуйте руйнування з розумом, щоб прискорити свій прогрес.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_26_TITLE">
-			<Text>Antiquity: Great Library</Text>
+			<Text>Давнина: Велика Бібліотека</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_26_CHAPTER_CONTENT_PARA_1">
-			<Text>The Great Library is an Antiquity Age legacy path that requires displaying 10 Codices within your empire. Codices are displayed by slotting them into specific buildings; you can access the slotting menu by clicking the Great Works icon. Libraries, Academies, and the Nalanda Wonder each contain slots for Codices, and your Palace (in your Capital’s city center) includes one slot by default. To succeed on this path, you’ll need multiple Cities equipped with these constructible buildings.</Text>
+			<Text>«Велика Бібліотека» – це Шлях Спадку для Давнини, який вимагає розмістити 10 Кодексів у межах вашої імперії. Кодекси розміщуються в спеціальних будівлях: ви можете відкрити меню розміщення Кодексів, натиснувши піктограму Великих Творів. Бібліотеки, Академії та диво Наланда мають слоти для Кодексів, і ваш Палац (у центрі столиці) має один слот за замовчуванням. Щоб досягти успіху в цьому Шляху, вам будуть потрібні кілька Міст із відповідними спорудами.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_26_CHAPTER_CONTENT_PARA_2">
-			<Text>Most Codices are awarded through Tech Masteries, though some can also be obtained from the Civic Tree, narrative events, City-State Suzerain bonuses, or by completing the Nalanda Wonder. Certain Civilizations can also gain additional Codices through specific Great People.</Text>
+			<Text>Більшість Кодексів надається за Майстерність у Технологіях, хоча деякі можна отримати й у гілці Культур, через сюжетні події, бонуси від Міст-Держав або ж за завершення дива Наланда. Деякі Цивілізації можуть також отримати додаткові Кодекси через певних Великих Осіб.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_26_CHAPTER_CONTENT_PARA_3">
-			<Text>Failing to reach any milestones in this path triggers the Scientific Dark Age in the next Age. This Dark Age grants a random Technology boost every 5 turns but imposes a -50% Science penalty.</Text>
+			<Text>Якщо не дійти жодної Віхи на цьому Шляху, у наступному Віці настане Наукова Спадщина Темного Віку. Вона надає випадковий поштовх до дослідження Технології кожні 5 ходів, але накладає штраф -50% до Науки.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_26_CHAPTER_CONTENT_PARA_4">
-			<Text>Completing this legacy path grants you the Great Library Golden Age in the following Age. This transforms all Academies into Golden Age Academies, allowing them to retain their base yields, adjacency bonuses, and effects in the next Age.</Text>
+			<Text>Завершення цього Шляху Спадку дає у наступному Віці Золотий Вік Великої Бібліотеки, завдяки якому всі Академії перетворюються на Золоті Академії та зберігають свої базові показники, бонуси від суміжних клітин і ефекти в наступному Віці.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_26_CHAPTER_CONTENT_PARA_5">
-			<Text>To reach milestones on this path, focus on increasing your Science yield and constructing multiple Cities with the necessary buildings for slotting Codices.</Text>
+			<Text>Щоб ефективно просуватися цим Шляхом, зосередьтеся на збільшенні наукової продуктивності та спорудженні кількох Міст із необхідними будівлями для розміщення Кодексів.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_27_TITLE">
-			<Text>Antiquity: Silk Roads</Text>
+			<Text>Давнина: Шляхи Шовку</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_27_CHAPTER_CONTENT_PARA_1">
-			<Text>The Silk Roads is an Antiquity Age legacy path that challenges players to assign 20 resources to their Settlements. Resources are acquired by improving resource tiles on the map or by sending Merchants to foreign Settlements to establish trade routes, granting access to the resources available in those Settlements. Once resources are obtained, they must be assigned to Cities and Towns to progress along this path.</Text>
+			<Text>«Шляхи Шовку» – це Шлях Спадку в Давнині, що вимагає призначити 20 ресурсів у ваші Поселення. Ресурси отримуються шляхом покращення відповідних клітин на карті або відправленням Купців до чужих Поселень для встановлення торговельних маршрутів, що дає доступ до ресурсів цих Поселень. Після отримання ресурсів їх слід призначити Містам і Містечкам, аби просуватися цим Шляхом.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_27_CHAPTER_CONTENT_PARA_2">
-			<Text>Failing to reach any milestones in this path triggers the Economic Dark Age in the next Age, giving Naval Commanders a charge to create a new Settlement for every 2 levels they earn, but doubling the cost of Settlers.</Text>
+			<Text>Якщо не досягти жодних Віх на цьому Шляху, у наступному Віці настане Економічна Спадщина Темного Віку, яка надає Військово-морським Командирам можливість створювати нове Поселення за кожні 2 рівні, проте подвоює вартість Поселенців.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_27_CHAPTER_CONTENT_PARA_3">
-			<Text>Completing this legacy path unlocks the Silk Roads Golden Age in the following Age. In this Golden Age, all of your Cities from the previous Age remain Cities, preserving their development and benefits.</Text>
+			<Text>Завершення цього Шляху Спадку відкриває Золотий Вік Шляхів Шовку в наступному Віці. Під час цього Золотого Віку всі ваші Міста з попереднього Віку лишаються Містами, зберігаючи свій розвиток і переваги.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_27_CHAPTER_CONTENT_PARA_4">
-			<Text>Tip: Focus on assigning resources to Cities rather than Towns, as Cities have more resource slots. Note that empire-wide resources (those that cannot be slotted) do not count towards this Legacy Path, so plan your resource assignments carefully.</Text>
+			<Text>Порада: Зосередьтеся на призначенні ресурсів саме Містам, а не Містечкам, адже Міста мають більше слотів для ресурсів. Зверніть увагу, що ресурси, які діють на всю імперію й не потребують призначення, не зараховуються для цього Шляху, тож плануйте розподіл ресурсів уважно.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_28_TITLE">
-			<Text>Exploration: Toshakhana</Text>
+			<Text>Вік Досліджень: Тошахана</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_28_CHAPTER_CONTENT_PARA_1">
-			<Text>The Toshakhana is an Exploration Age legacy path that challenges players to display 12 Relics within their empire. To start, research the Piety Civic, which allows you to build Temples and establish a religion. Once you have founded a religion, you can train Missionary units to convert Settlements. For Settlements already following another religion, you must convert both a Rural and an Urban tile; for Settlements without an existing religion, a single conversion is sufficient.</Text>
+			<Text>«Тошахана» – це Шлях Спадку Віку Досліджень, що вимагає розмістити 12 Реліквій у межах вашої імперії. Спершу дослідіть Культуру «Благочестя» (Piety), яка дає змогу будувати Храми й заснувати релігію. Після заснування релігії ви можете навчати Місіонерів для навернення Поселень. Якщо Поселення вже сповідує іншу релігію, вам потрібно навернути як сільську, так і міську ділянку. Для Поселення без релігії достатньо одного навернення.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_28_CHAPTER_CONTENT_PARA_2">
-			<Text>By studying Reformation, you can adopt the Reliquary Belief, which generates Relics. Just like Codices in Antiquity, Relics require specific buildings, such as Temples and Wonders, to be displayed within your empire.</Text>
+			<Text>Дослідивши «Реформацію», ви можете ухвалити віру «Релікварій», що надає Реліквії. Як і Кодекси в Давнині, Реліквії слід розміщувати в певних будівлях, таких як Храми й Дива, щоб тримати їх у своїй імперії.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_28_CHAPTER_CONTENT_PARA_3">
-			<Text>Failing to achieve any milestones in this legacy path results in a Cultural Dark Age for the next Age. In this Dark Age, Explorers gain +1 movement speed and unearth Artifacts 50% faster, but your empire suffers a -50% Influence penalty.</Text>
+			<Text>Якщо не досягти жодних Віх на цьому Шляху, у наступному Віці настане Культурна Спадщина Темного Віку. У цьому Темному Віці Експлорери отримують +1 до швидкості пересування і на 50% швидше розкопують Артефакти, але ваша імперія отримує штраф -50% до Впливу.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_28_CHAPTER_CONTENT_PARA_4">
-			<Text>Completing the Toshakhana path unlocks the Toshakhana Golden Age in the next Age, allowing you to retain your Religious Founder Beliefs, further enhancing your cultural and religious influence.</Text>
+			<Text>Завершення Шляху «Тошахана» відкриває у наступному Віці Золотий Вік Тошахани, що дозволяє вам зберігати Засновницькі вірування вашої Релігії, посилюючи ваш культурний та релігійний вплив.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_28_CHAPTER_CONTENT_PARA_5">
-			<Text>Tip: Most Relics are earned through the Reliquary Belief, but you can also acquire them through narrative events, becoming Suzerain of a City-State, and other special events.</Text>
+			<Text>Порада: Більшість Реліквій отримують через віру «Релікварій», але їх також можна здобути через сюжетні події, отримавши статус сюзерена Міста-Держави та інші спеціальні події.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_29_TITLE">
-			<Text>Exploration: Treasure Fleet</Text>
+			<Text>Вік Досліджень: Скарбовий флот</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_29_CHAPTER_CONTENT_PARA_1">
-			<Text>The Treasure Fleet is an Exploration Age legacy path that requires players to accumulate 30 Treasure Fleet Points by returning treasures from Distant Lands. These lands, often only accessible by crossing Deep Ocean, hold unique Treasure Fleet resources. To progress on this path, establish a Settlement near these resources, build a Fishing Quay connected by water to your Homeland, and improve the Treasure Fleet resources. After some time, a Treasure Fleet will spawn in the Settlement, which you must then escort safely back to your Homeland to unload the treasure and earn Treasure Fleet Points.</Text>
+			<Text>«Скарбовий флот» – це Шлях Спадку в Віку Досліджень, що вимагає набрати 30 очок Скарбового флоту, повертаючи скарби з Далеких Земель. Ці землі, зазвичай доступні лише після перетину Глибокого океану, містять унікальні ресурси Скарбового флоту. Щоб прогресувати в цьому Шляху, заснуйте Поселення поблизу таких ресурсів, збудуйте там Рибальську пристань, з’єднану по воді з вашою батьківщиною, і покращте відповідні ресурси. Через деякий час у Поселенні з’явиться Скарбовий флот, який потрібно вберегти й доправити назад на батьківщину, щоб розвантажити скарби та отримати очки Скарбового флоту.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_29_CHAPTER_CONTENT_PARA_2">
-			<Text>Failing to reach any milestones in this path results in an Economic Dark Age for the next Age. This Dark Age provides +100% Production and Gold toward Rail Stations and Ports, adds +1 resource slot in all Settlements, but imposes a -25% Culture penalty.</Text>
+			<Text>Якщо не досягти жодних Віх на цьому Шляху, у наступному Віці настане Економічна Спадщина Темного Віку. Вона дає +100% до Виробництва й Золота на будівництво Залізничних станцій і Портів, додає +1 слот ресурсу у всіх Поселеннях, але накладає штраф -25% до Культури.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_29_CHAPTER_CONTENT_PARA_3">
-			<Text>Completing the Treasure Fleet path unlocks the Treasure Fleet Golden Age in the next Age. In this Golden Age, all of your cities from the previous Age remain cities, and cities in Distant Lands gain an additional 2 population.</Text>
+			<Text>Завершення цього Шляху Спадку відкриває Золотий Вік Скарбового флоту в наступному Віці. Під час цього Золотого Віку всі ваші Міста з попереднього Віку лишаються Містами, а Міста у Далеких Землях отримують додаткові 2 одиниці населення.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_29_CHAPTER_CONTENT_PARA_4">
-			<Text>Tip: You can intercept and steal Treasure Fleets from other civilizations, but be prepared for a potential naval confrontation.</Text>
+			<Text>Порада: Ви можете перехопити й викрасти Скарбові флоти інших цивілізацій, але будьте готові до можливої морської конфронтації.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_30_TITLE">
-			<Text>Exploration: Non Sufficit Orbis</Text>
+			<Text>Вік Досліджень: Non Sufficit Orbis</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_30_CHAPTER_CONTENT_PARA_1">
-			<Text>The Non Sufficit Orbis is an Exploration Age legacy path that challenges players to gain 12 points from Settlements in Distant Lands. Each Settlement in these regions contributes 1 point, with points doubled for conquered Settlements or Settlements following your religion, and quadrupled if both conditions are met. To progress in this path, focus on establishing new Settlements, converting religions, and capturing territories in Distant Lands. Strengthening your religion and military will greatly aid in advancing through this path.</Text>
+			<Text>«Non Sufficit Orbis» – це Шлях Спадку Віку Досліджень, що вимагає здобути 12 очок за Поселення у Далеких Землях. Кожне Поселення в цих регіонах дає 1 очко, при цьому здобуті внаслідок завоювання чи навернуті до вашої релігії Поселення дають подвійну кількість, а якщо обидві умови виконано, вони приносять учетверо більше. Щоб просуватися цим Шляхом, зосередьтеся на заснуванні нових Поселень, наверненні релігії та захопленні територій у Далеких Землях. Сильна релігія й військо суттєво прискорять ваш прогрес у цьому Шляху.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_30_CHAPTER_CONTENT_PARA_2">
-			<Text>Failing to reach any milestones on this path triggers the Militaristic Dark Age in the next Age. In this Dark Age, all Commanders gain 2 free levels, and new Commanders start with 2 additional levels, but all military units have a 25% increase in cost.</Text>
+			<Text>Якщо не досягти жодних Віх у цьому Шляху, у наступному Віці почнеться Мілітаристична Спадщина Темного Віку. У цьому Темному Віці всі Командири отримують 2 безкоштовних рівні, а нові Командири починають одразу з 2 додатковими рівнями, але вартість усіх військових юнітів підвищується на 25%.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_30_CHAPTER_CONTENT_PARA_3">
-			<Text>Completing the Non Sufficit Orbis path unlocks the Non Sufficit Orbis Golden Age in the following Age. In this Golden Age, you gain an Infantry Unit and a Ranged Unit in each of your Settlements in Distant Lands.</Text>
+			<Text>Завершення Шляху «Non Sufficit Orbis» відкриває у наступному Віці Золотий Вік Non Sufficit Orbis. Під час цього Золотого Віку ви отримуєте по одному піхотному та стрілецькому юніту в кожному вашому Поселенні в Далеких Землях.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_30_CHAPTER_CONTENT_PARA_4">
-			<Text>Tip: Unlocking Cartography will allow your Settler units to traverse Deep Ocean, while Astronomy grants access to the powerful Fleet Commander, enabling better organization of your naval forces. Sailing units across the ocean as early as possible gives you a strong start on this path.</Text>
+			<Text>Порада: Дослідження «Картографії» дозволить вашим Поселенцям перетинати Глибокий океан, а «Астрономія» дає доступ до потужного Флотського Командира, що допоможе краще організовувати морські сили. Якщо відправити кораблі через океан якомога раніше, це дасть вам вагому перевагу на цьому Шляху.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_31_TITLE">
-			<Text>Exploration: Enlightenment</Text>
+			<Text>Вік Досліджень: Просвітництво</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_31_CHAPTER_CONTENT_PARA_1">
-			<Text>The Enlightenment is an Exploration Age legacy path that challenges players to develop 5 districts outside the City Center, each producing a total of 40 yield. To achieve this, research Education to increase the number of Specialists you can assign to a single location and strategically place Specialists on high-yield, high-adjacency tiles.</Text>
+			<Text>«Просвітництво» – це Шлях Спадку Віку Досліджень, який вимагає від гравців збудувати 5 Районів поза межами Центру Міста, кожен із яких має виробляти сукупно 40 показників. Щоб це реалізувати, дослідіть «Освіту» для збільшення кількості Спеціалістів, яких можна призначити в одному місці, і розумно розподіляйте Спеціалістів на клітинках із високим базовим виробництвом чи бонусами суміжності.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_31_CHAPTER_CONTENT_PARA_2">
-			<Text>Failing to make progress on this path will trigger the Scientific Dark Age in the next Age. This Dark Age unlocks Flight along with Combustion, but imposes a +50% cost on all airplanes.</Text>
+			<Text>Якщо не досягти жодного прогресу в цьому Шляху, у наступному Віці настане Наукова Спадщина Темного Віку, що відкриває Польоти разом із «Винаходом двигуна внутрішнього згоряння», проте всі літаки коштують на 50% дорожче.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_31_CHAPTER_CONTENT_PARA_3">
-			<Text>Completing the Enlightenment path unlocks the Enlightenment Golden Age in the following Age. In this Golden Age, all Universities become Golden Age Universities, allowing them to retain their base yields, adjacency bonuses, and effects into the next Age.</Text>
+			<Text>Завершення Шляху «Просвітництво» відкриває у наступному Віці Золотий Вік Просвітництва. Під час нього всі Університети перетворюються на Золоті Університети та зберігають свої базові показники, бонуси від суміжності й ефекти у наступному Віці.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_31_CHAPTER_CONTENT_PARA_4">
-			<Text>Tip: To progress efficiently, specialize your Towns to send food to connected Cities, ensuring steady growth for creating Specialists. Use growth events to gain additional Specialists and maximize your yield in key districts.</Text>
+			<Text>Порада: Для ефективного прогресу спеціалізуйте Містечка на постачанні їжі до з’єднаних Міст, щоб ті могли швидше зростати й створювати більше Спеціалістів. Використовуйте події зростання для отримання додаткових Спеціалістів і максимізації показників у ключових районах.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_32_TITLE">
-			<Text>Modern: Railroad Tycoon</Text>
+			<Text>Сучасність: Залізничний магнат</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_32_CHAPTER_CONTENT_PARA_1">
-			<Text>The Railroad Tycoon is a Modern Age legacy path that challenges players to accumulate 500 Railroad Tycoon Points by manufacturing goods in their Factories. Points are generated each turn for every Factory Resource slotted into a Settlement with a Factory that is connected to your Rail or Port Network.</Text>
+			<Text>«Залізничний магнат» – це Шлях Спадку Сучасного Віку, що вимагає від гравців набрати 500 очок Залізничного магната, виробляючи товари на своїх Фабриках. Очки нараховуються щоходу за кожен Ресурс для Фабрики, призначений Поселенню з Фабрикою, що під’єднане до вашої Залізничної або Портової мережі.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_32_CHAPTER_CONTENT_PARA_2">
-			<Text>To begin advancing on this path, research Industrialization to unlock Rail Stations, then progress to Mass Production to enable Factory construction. After building Factories, place Factory Resources into their slots to start accumulating points. Completing this legacy path unlocks the opportunity to pursue a Modern Victory, positioning your civilization for ultimate success in the Modern Age.</Text>
+			<Text>Щоб почати прогресувати на цьому Шляху, дослідіть «Індустріалізацію» для розблокування Залізничних станцій, а потім «Масове виробництво» (Mass Production), щоб почати будувати Фабрики. Після зведення Фабрик розмістіть у них Фабричні ресурси, щоб почати накопичувати очки. Завершення цього Шляху Спадку розблоковує можливість переслідувати Сучасну Перемогу, даючи вашій цивілізації шанс на тріумф у Сучасному Віці.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_32_CHAPTER_CONTENT_PARA_3">
-			<Text>Tip: Build a robust Rail and Port Network to connect as many Settlements with Factories as possible. This setup will maximize resource production efficiency and help you reach your Railroad Tycoon Points goal more quickly.</Text>
+			<Text>Порада: Створіть розгалужену мережу Залізниць і Портів, щоб поєднати якомога більше Поселень із Фабриками. Це допоможе максимізувати ефективність виробництва ресурсів і швидше досягти необхідних очок Залізничного магната.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_33_TITLE">
-			<Text>Modern: Ideology</Text>
+			<Text>Сучасність: Ідеологія</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_33_CHAPTER_CONTENT_PARA_1">
-			<Text>The Ideology is a Modern Age legacy path that requires players to accumulate 20 Ideology Points by conquering Settlements for the first time. You gain 1 point before adopting an Ideology, 2 points after adopting one, and 3 points when capturing a Settlement from a civilization that follows a different Ideology.</Text>
+			<Text>«Ідеологія» – це Шлях Спадку Сучасного Віку, що потребує від гравців набрати 20 очок Ідеології, захоплюючи Поселення вперше. Ви отримуєте 1 очко до прийняття Ідеології, 2 очки після її прийняття та 3 очки за захоплення Поселення в цивілізації з іншою Ідеологією.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_33_CHAPTER_CONTENT_PARA_2">
-			<Text>To pursue this path, research Political Theory, which unlocks the choice of a political Ideology. By completing its associated Civic, you can adopt one of three Ideologies: Democracy, Fascism, or Communism. The highest points are earned by capturing Settlements from civilizations with opposing Ideologies. Completing this legacy path unlocks the opportunity to pursue a Modern Victory.</Text>
+			<Text>Щоб обрати цей Шлях, дослідіть «Політичну теорію» (Political Theory), яка відкриває вибір політичної Ідеології. Завершивши відповідну Культуру, ви можете прийняти одну з трьох Ідеологій: Демократію, Фашизм чи Комунізм. Найбільше очок приносить захоплення Поселень у цивілізацій з іншою Ідеологією. Завершення цього Шляху Спадку розблоковує можливість переслідувати Сучасну Перемогу.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_33_CHAPTER_CONTENT_PARA_3">
-			<Text>Tip: Adopting an Ideology early and targeting civilizations with different Ideologies will accelerate your progress on this path and bring you closer to a Modern Victory.</Text>
+			<Text>Порада: Раннє прийняття Ідеології та цілеспрямовані дії проти цивілізацій з іншими Ідеологіями дозволить швидше просуватися цим Шляхом і наблизити вас до Сучасної Перемоги.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_34_TITLE">
-			<Text>Modern: Space Race Projects</Text>
+			<Text>Сучасність: Космічні проєкти</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_34_CHAPTER_CONTENT_PARA_1">
-			<Text>The Space Race Projects is a Modern Age legacy path that challenges players to be the first to complete all three Space Race Projects and achieve the First Staffed Space Flight. Completing this path unlocks the opportunity to pursue a Modern Victory, symbolizing your civilization’s leadership in space exploration.</Text>
+			<Text>«Космічні проєкти» – це Шлях Спадку Сучасного Віку, у якому гравці змагаються, щоб першими завершити всі три Космічні проєкти та досягти «Першого пілотованого польоту в космос». Завершення цього Шляху відкриває можливість переслідувати Сучасну Перемогу, демонструючи лідерство вашої цивілізації в космічних дослідженнях.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_34_CHAPTER_CONTENT_PARA_2">
-			<Text>To begin, research Flight, which unlocks the first Space Race Project. Construct an Aerodrome and complete the Trans-Oceanic Flight Project. Next, research Aerodynamics to unlock the Break the Sound Barrier Project. Finally, research Rocketry, build a Launch Pad, and complete the Launch Satellite Project to advance further on this path.</Text>
+			<Text>Спочатку дослідіть «Польоти» (Flight), що відкривають перший Космічний проєкт. Збудуйте Аеродром і виконайте проєкт «Трансатлантичний Політ» (Trans-Oceanic Flight). Далі дослідіть «Аеродинаміку» (Aerodynamics), щоб розблокувати проєкт «Подолання звукового бар’єра» (Break the Sound Barrier). І нарешті відкрийте «Рокетобудування» (Rocketry), збудуйте Пусковий майданчик і виконайте проєкт «Запуск Супутника» (Launch Satellite), щоб просунутися далі у цьому Шляху.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_34_CHAPTER_CONTENT_PARA_3">
-			<Text>Tip: Prioritize the relevant technologies and infrastructure to stay ahead in the Space Race. Securing the lead in these projects can give you a decisive advantage in the Modern Victory pursuit.</Text>
+			<Text>Порада: Пріоритезуйте відповідні технології та інфраструктуру, щоб випередити суперників у Космічній гонці. Лідерство в цих проєктах дасть вам суттєву перевагу у боротьбі за Сучасну Перемогу.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_35_TITLE">
-			<Text>Modern: Geographic Society</Text>
+			<Text>Сучасність: Географічне товариство</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_35_CHAPTER_CONTENT_PARA_1">
-			<Text>The Geographic Society is a Modern Age legacy path that requires players to house 15 Artifacts within their empire. Completing this path unlocks the opportunity to pursue a Modern Victory, showcasing your civilization’s dedication to preserving history and culture.</Text>
+			<Text>«Географічне товариство» – це Шлях Спадку Сучасного Віку, який вимагає зібрати 15 Артефактів у межах вашої імперії. Виконання цього Шляху відкриває можливість переслідувати Сучасну Перемогу, демонструючи прагнення вашої цивілізації зберігати історію та культуру.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_35_CHAPTER_CONTENT_PARA_2">
-			<Text>To get started, study the Natural History Civic, which enables you to train an Explorer. This specialized unit can research and excavate Artifacts. Your Explorer can locate Artifact sites by conducting research at any University (available from the Exploration Age) or Museum (unlocked in the Modern Age). Through these investigations, Ruins on the continent will be revealed. After locating a site, send your Explorer to excavate the Artifact, a process that takes several turns and results in an Artifact.</Text>
+			<Text>Щоб почати, дослідіть Культуру «Природнича історія» (Natural History), яка дозволить вам навчати Експлорера. Цей спеціальний юніт може досліджувати й розкопувати Артефакти. Ваш Експлорер може виявляти місця Артефактів, проводячи дослідження в Університеті (доступному з Віку Досліджень) або Музеї (розблоковується у Сучасності). Після цих досліджень на континенті будуть показані Руїни. Відправте свого Експлорера для розкопок Артефакта, що триває кілька ходів і зрештою дає Артефакт.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_35_CHAPTER_CONTENT_PARA_3">
-			<Text>Tip: Artifacts can be acquired through excavating Ruins, certain Narrative Events, and by Overbuilding in your Settlements. Focus on these activities to quickly accumulate Artifacts and advance along this legacy path.</Text>
+			<Text>Порада: Артефакти можна здобувати, розкопуючи Руїни, через певні сюжетні події та завдяки Перебудові в Поселеннях. Зосередьтеся на цих діях, щоб якнайшвидше зібрати Артефакти й просунутися цим Шляхом Спадку.</Text>
 		</Row>
-
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_36_TITLE">
-			<Text>Modern Economic Victory</Text>
+			<Text>Сучасна Економічна Перемога</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_36_CHAPTER_CONTENT_PARA_1">
-			<Text>To win an economic victory, players must first complete the Modern Economic Legacy Path, which will grant them the Great Banker in their Capital. Once a player has gained the Great Banker, they must use its Establish World Bank Office action in the Capital Cities of each other player.</Text>
+			<Text>Щоб здобути економічну перемогу, гравці мають спочатку завершити Сучасний Економічний Шлях Спадку, який надасть їм Великого Банкіра в їхній столиці. Отримавши Великого Банкіра, гравець повинен використати його дію «Заснувати Світовий банк» у столиці кожного іншого гравця.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_36_CHAPTER_CONTENT_PARA_2">
-			<Text>The Establish World Bank Office action costs both Gold and Influence each time it is used (scaled by relationship). Economic Legacy points earned across all ages will reduce the cost of the Establish World Bank Office action. A player who establishes a World Bank Office in every Capital will immediately win an economic victory.</Text>
+			<Text>Дія «Заснувати Світовий банк» вимагає витратити певну кількість Золота й Впливу щоразу (залежно від відносин). Окуляри Економічної Спадщини, набрані протягом усіх Віків, зменшують вартість цієї дії. Гравець, який заснує Світовий банк у кожній чужій столиці, негайно здобуде економічну перемогу.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_37_TITLE">
-			<Text>Modern Cultural Victory</Text>
+			<Text>Сучасна Культурна Перемога</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_37_CHAPTER_CONTENT_PARA_1">
-			<Text>To win a cultural victory, players must first complete the Modern Culture Legacy Path, which will unlock the World's Fair Wonder to be built in any City. A player who completes the World's Fair Wonder will immediately win a cultural victory.</Text>
+			<Text>Щоб здобути культурну перемогу, гравці мають спочатку завершити Сучасний Культурний Шлях Спадку, який відкриває диво «Всесвітній ярмарок» (World's Fair), що можна збудувати в будь-якому Місті. Гравець, який першим збудує диво «Всесвітній ярмарок», негайно здобуде культурну перемогу.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_37_CHAPTER_CONTENT_PARA_2">
-			<Text>Culture Legacy points earned across all ages will increase Production towards the World's Fair Wonder.</Text>
+			<Text>Окуляри Культурної Спадщини, набрані в усіх Віках, збільшують Виробництво для будівництва дива «Всесвітній ярмарок».</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_PAGE_AGES_38_TITLE">
-			<Text>Modern Science Victory</Text>
+			<Text>Сучасна Наукова Перемога</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_38_CHAPTER_CONTENT_PARA_1">
-			<Text>To win a science victory, players must complete two steps. First, the Modern Science Legacy Path must be completed. Secondly, a player must complete the Staffed Space Flight Project in a City with a Launch Pad.</Text>
+			<Text>Щоб здобути наукову перемогу, гравцям потрібно виконати два кроки. Спочатку слід завершити Сучасний Науковий Шлях Спадку. Потім гравець повинен завершити проєкт «Пілотований політ у космос» (Staffed Space Flight) у Місті з Пусковим майданчиком.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_AGES_38_CHAPTER_CONTENT_PARA_2">
-			<Text>A player who completes the Staffed Space Flight Project will immediately win a science victory. Science Legacy points earned across all ages will increase Production towards the Staffed Space Flight Project.</Text>
+			<Text>Гравець, який виконає проєкт «Пілотований політ у космос», негайно здобуває наукову перемогу. Окуляри Наукової Спадщини, зібрані у всіх Віках, підвищують Виробництво для цього проєкту.</Text>
 		</Row>
 
 	</EnglishText>

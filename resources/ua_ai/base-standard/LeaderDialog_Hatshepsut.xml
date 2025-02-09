@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Database>
 	<EnglishText>
-		<!-- Hatshepsut Main Menu Char Select Text-->
+		
 		<Row Tag="LOC_MAIN_CHAR_SELECT_LEADER_HATSHEPSUT_ANY">
 			<Text>Horus, the bright god, reborn into this person you see before you. Horus who is Hatshepsut. All that surrounds the sun works for me. Do you?</Text>
 		</Row>
 
-		<!--Hatshepsut Statement Text-->
+		
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_HATSHEPSUT_ANY">
 			<Text>I am Horus in human flesh — Hatshepsut, pharaoh of the red lands and the black lands. </Text>
 		</Row>

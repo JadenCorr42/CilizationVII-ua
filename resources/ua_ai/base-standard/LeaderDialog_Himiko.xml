@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Database>
 	<EnglishText>
-		<!-- Himiko Main Menu Char Select Text-->
+		
 		<Row Tag="LOC_MAIN_CHAR_SELECT_LEADER_HIMIKO_ANY">
 			<Text>The sun shines upon me, her daughter. Upon my enemies, it will burn.</Text>
 		</Row>
 
-		<!--Himiko Statement Text-->
+		
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_HIMIKO_ANY">
 			<Text>Your coming was foretold. </Text>
 		</Row>

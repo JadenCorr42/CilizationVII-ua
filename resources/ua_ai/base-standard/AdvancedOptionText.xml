@@ -2,229 +2,229 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_ADVANCED_OPTIONS_GAME_SETTINGS">
-			<Text>Game Settings</Text>
+			<Text>Налаштування гри</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_PLAYER_SETTINGS">
-			<Text>Player Settings</Text>
+			<Text>Налаштування гравця</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ADD_PLAYER">
-			<Text>Add AI Player</Text>
+			<Text>Додати AI гравця</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_RULESET">
-			<Text>Ruleset</Text>
+			<Text>Правила</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_DIFFICULTY">
-			<Text>Game Difficulty</Text>
+			<Text>Складність гри</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_START_ERA">
-			<Text>Start Era</Text>
+			<Text>Початкова епоха</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_CITY_STATES">
-			<Text>City-States</Text>
+			<Text>Міста-держави</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_MAP">
-			<Text>Map</Text>
+			<Text>Карта</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_LEADER_POOL">
-			<Text>Leader Pool {1_value}</Text>
+			<Text>Пул лідерів {1_value}</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_RESOURCE">
-			<Text>Resources</Text>
+			<Text>Ресурси</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_SELECT_CITY_STATES">
-			<Text>Select City-States</Text>
+			<Text>Вибрати міста-держави</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_NATURAL">
-			<Text>Select Natural Wonders</Text>
+			<Text>Вибрати природні дива</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_WORLD_AGE">
-			<Text>World Age</Text>
+			<Text>Вік світу</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_START_POSITION">
-			<Text>Start Position</Text>
+			<Text>Початкова позиція</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_TEMPERATURE">
-			<Text>Temperature</Text>
+			<Text>Температура</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_RAINFALL">
-			<Text>Rainfall</Text>
+			<Text>Опади</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_SEA_LEVEL">
-			<Text>Sea Level</Text>
+			<Text>Рівень моря</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS">
-			<Text>Options</Text>
+			<Text>Опції</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_GAME_MODES">
-			<Text>Game Modes</Text>
+			<Text>Режими гри</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_VICTORY_CONDITIONS">
-			<Text>Victory Conditions</Text>
+			<Text>Умови перемоги</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ADVANCED">
-			<Text>Advanced Options</Text>
+			<Text>Розширені опції</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ONLINE">
-			<Text>Online</Text>
+			<Text>Онлайн</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_QUICK">
-			<Text>Quick</Text>
+			<Text>Швидко</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_EPIC">
-			<Text>Epic</Text>
+			<Text>Епічно</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_MARATHON">
-			<Text>Marathon</Text>
+			<Text>Марафон</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_EVERYTHING">
-			<Text>Everything</Text>
+			<Text>Все</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_SPARSE">
-			<Text>Sparse</Text>
+			<Text>Рідко</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ABUNDANT">
-			<Text>Abundant</Text>
+			<Text>Багато</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_RANDOM">
-			<Text>Random</Text>
+			<Text>Випадково</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_NEW">
-			<Text>New</Text>
+			<Text>Новий</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_OLD">
-			<Text>Old</Text>
+			<Text>Старий</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_HOT">
-			<Text>Hot</Text>
+			<Text>Гарячий</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_COLD">
-			<Text>Cold</Text>
+			<Text>Холодний</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_HIGH">
-			<Text>High</Text>
+			<Text>Високий</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_LOW">
-			<Text>Low</Text>
+			<Text>Низький</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_CULTURE_VICTORY">
-			<Text>Culture Victory</Text>
+			<Text>Культурна перемога</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_DOMINATION_VICTORY">
-			<Text>Domination</Text>
+			<Text>Домінація</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_LEGACY_VICTORY">
-			<Text>Legacy Victory</Text>
+			<Text>Перемога спадщини</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_MILITARY_VICTORY">
-			<Text>Military Victory</Text>
+			<Text>Військова перемога</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_SCIENCE_VICTORY">
-			<Text>Science Victory</Text>
+			<Text>Наукова перемога</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ECONOMIC_VICTORY">
-			<Text>Economic Victory</Text>
+			<Text>Економічна перемога</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_SCORE_VICTORY">
-			<Text>Score Victory</Text>
+			<Text>Перемога за очками</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ENABLE">
-			<Text>Enable</Text>
+			<Text>Увімкнути</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_DISABLE">
-			<Text>Disable</Text>
+			<Text>Вимкнути</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_LIMIT_TURNS">
-			<Text>Limit Turns</Text>
+			<Text>Обмежити ходи</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_LIMIT_1">
-			<Text>By Game Speed</Text>
+			<Text>За швидкістю гри</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_LIMIT_2">
-			<Text>Custom</Text>
+			<Text>Користувацький</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_LIMIT_3">
-			<Text>No Turn Limit</Text>
+			<Text>Без обмеження ходів</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_DUPLICATE_CIV">
-			<Text>No Duplicate Civilizations</Text>
+			<Text>Без дублікатів цивілізацій</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_DUPLICATE_LEADER">
-			<Text>No Duplicate Leaders</Text>
+			<Text>Без дублікатів лідерів</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_TEAM_SHARE_VIS">
-			<Text>Teams Share Visibility</Text>
+			<Text>Команди діляться видимістю</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_NO_TEAMS">
-			<Text>No Teams</Text>
+			<Text>Без команд</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_TRIBAL">
-			<Text>No Tribal Villages</Text>
+			<Text>Без племінних сіл</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ANTIQUITY_CRISIS_1">
-			<Text>Invasion</Text>
+			<Text>Вторгнення</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ANTIQUITY_CRISIS_2">
-			<Text>Loyalty</Text>
+			<Text>Лояльність</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ANTIQUITY_CRISIS_3">
-			<Text>Plague</Text>
+			<Text>Чума</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_EXPLORATION_CRISIS_1">
-			<Text>Revolution</Text>
+			<Text>Революція</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_EXPLORATION_CRISIS_2">
-			<Text>Wars of Religion</Text>
+			<Text>Релігійні війни</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_EXPLORATION_CRISIS_3">
-			<Text>Plague</Text>
+			<Text>Чума</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_AGE_LENGTH">
-			<Text>Age Length</Text>
+			<Text>Тривалість епохи</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_AGE_LENGTH_DESC">
-			<Text>Determines how much age progress is required to complete an age</Text>
+			<Text>Визначає, скільки прогресу епохи потрібно для завершення епохи</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_DISASTER_INTENSITY">
-			<Text>Disaster Intensity</Text>
+			<Text>Інтенсивність катастроф</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_DISASTER_INTENSITY_DESC">
-			<Text>Determines the strength and frequency of disasters</Text>
+			<Text>Визначає силу та частоту катастроф</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_CRISIS">
-			<Text>Crises</Text>
+			<Text>Кризи</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_CRISIS_DESC">
-			<Text>Enables Crisis Events in Ages without Victory Unlocks</Text>
+			<Text>Вмикає кризові події в епохах без розблокування перемоги</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ABBREVIATED">
-			<Text>Abbreviated</Text>
+			<Text>Скорочено</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_LONG">
-			<Text>Long</Text>
+			<Text>Довго</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_LIGHT">
-			<Text>Light</Text>
+			<Text>Легко</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_MODERATE">
-			<Text>Moderate</Text>
+			<Text>Помірно</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_STANDARD">
-			<Text>Standard</Text>
+			<Text>Стандартно</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_CATASTROPHIC">
-			<Text>Catastrophic</Text>
+			<Text>Катастрофічно</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_SELECT_OPPONENTS">
-			<Text>Select Opponents</Text>
+			<Text>Вибрати суперників</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_FREQUENT">
-			<Text>Frequent</Text>
+			<Text>Часто</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_ON">
-			<Text>On</Text>
+			<Text>Увімкнено</Text>
 		</Row>
 		<Row Tag="LOC_ADVANCED_OPTIONS_OFF">
-			<Text>Off</Text>
+			<Text>Вимкнено</Text>
 		</Row>
 	</EnglishText>
 </Database>

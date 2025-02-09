@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Database>
 	<EnglishText>
-		<!-- Ibn Battuta Main Menu Char Select Text-->
+		
 		<Row Tag="LOC_MAIN_CHAR_SELECT_LEADER_IBN_BATTUTA_ANY">
 			<Text>Come, and we will walk strange shores and make them familiar. And on returning find our familiar shores strange. </Text>
 		</Row>
 
-		<!--Ibn Battuta Statement Text-->
+		
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_IBN_BATTUTA_ANY">
 			<Text>We are well met upon the traveler's road. At least I hope so! </Text>
 		</Row>

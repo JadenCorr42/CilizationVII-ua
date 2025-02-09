@@ -2,86 +2,86 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_CLOSE">
-			<Text>Close</Text>
+			<Text>Закрити</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_BEGIN">
-			<Text>Begin</Text>
+			<Text>Почати</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_CONTINUE">
-			<Text>Continue</Text>
+			<Text>Продовжити</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_GO_BACK">
-			<Text>Go Back</Text>
+			<Text>Назад</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_EXPLORE">
-			<Text>Explore</Text>
+			<Text>Досліджувати</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_ACCEPT">
-			<Text>Accept</Text>
+			<Text>Прийняти</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_ACCEPT_QUEST">
-			<Text>Accept Objective</Text>
+			<Text>Прийняти завдання</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_DECLINE_QUEST">
-			<Text>Decline for Now</Text>
+			<Text>Відхилити зараз</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_VICTORIES">
-			<Text>See Legacy Paths</Text>
+			<Text>Переглянути шляхи спадщини</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CIVILOPEDIA_MORE_INFO">
-			<Text>More Info</Text>
+			<Text>Детальніше</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CIVILOPEDIA_TELL_ME_MORE">
-			<Text>Tell Me More</Text>
+			<Text>Розкажіть більше</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CIVILOPEDIA_SUBJECT_PARAMETER">
-			<Text>Civilopedia: {1_SubjectName}</Text>
+			<Text>Цивілопедія: {1_SubjectName}</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_SHOW_ME">
-			<Text>Show Me</Text>
+			<Text>Покажіть</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_ALLOCATE_RESOURCES">
-			<Text>Allocate Resources</Text>
+			<Text>Розподілити ресурси</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_CANCEL_QUEST">
-			<Text>Cancel Quest</Text>
+			<Text>Скасувати завдання</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_DISMISS">
-			<Text>Dismiss</Text>
+			<Text>Відхилити</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CALLOUT_TAKE_ME">
-			<Text>Take Me There</Text>
+			<Text>Відведіть мене туди</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_DEACTIVATE_ALL">
-			<Text>Deactivate All Tutorials</Text>
+			<Text>Деактивувати всі підказки</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_DEACTIVATE_TITLE">
-			<Text>Deactivate Tutorials</Text>
+			<Text>Деактивувати підказки</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_REOPEN_KBM">
-			<Text>Click to re-open</Text>
+			<Text>Натисніть, щоб відкрити знову</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_REOPEN_GAMEPAD">
-			<Text>Re-open</Text>
+			<Text>Відкрити знову</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_REOPEN_TOUCH">
-			<Text>Select to re-open</Text>
+			<Text>Виберіть, щоб відкрити знову</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_DEACTIVATE_BODY">
-			<Text>Do you want to deactivate all tutorials? You can reactivate them later on the Options Menu</Text>
+			<Text>Ви хочете деактивувати всі підказки? Ви можете активувати їх пізніше в меню налаштувань</Text>
 		</Row>
 		<!-- Crisis Tutorial Text -->
 		<Row Tag="LOC_TUTORIAL_PLAGUES_NAME">
-			<Text>Plagues</Text>
+			<Text>Епідемії</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_PLAGUES_BODY">
-			<Text>A Settlement is suffering from an Outbreak. Outbreaks cause Unrest, pillage Buildings and Improvements and damage Units in the affected tiles. While a settlement is Infected, it cannot grow and will create Migrants instead.[n]Major Outbreaks can spread and cause Minor Outbreaks in Connected settlements.[n]Outbreaks are more likely to occur in settlements that are densely populated, connected to road and trade networks or under siege.</Text>
+			<Text>Поселення страждає від спалаху. Спалахи викликають заворушення, грабують будівлі та покращення і завдають шкоди підрозділам на уражених плитках. Поки поселення заражене, воно не може рости і буде створювати мігрантів замість цього.[n]Великі спалахи можуть поширюватися і викликати незначні спалахи в підключених поселеннях.[n]Спалахи частіше трапляються в густонаселених поселеннях, підключених до дорожніх і торгових мереж або в облозі.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_REVOLTS_NAME">
-			<Text>Revolts</Text>
+			<Text>Повстання</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_REVOLTS_BODY">
-			<Text>The Settlement of [b]{1_CityName} [/b] is so unhappy they are considering Revolt. If they remain Unhappy they may petition to join another Civilization.[n]Consider changing your Policies or moving Resources to this settlement to improve their Happiness. If all else fails, Stationing a Commander here will help reduce the Unhappiness as well.</Text>
+			<Text>Поселення [b]{1_CityName} [/b] настільки незадоволене, що розглядає можливість повстання. Якщо вони залишаться незадоволеними, вони можуть подати петицію про приєднання до іншої цивілізації.[n]Розгляньте можливість зміни своїх політик або переміщення ресурсів до цього поселення, щоб покращити їхнє задоволення. Якщо нічого не допоможе, розміщення командира тут також допоможе зменшити незадоволення.</Text>
 		</Row>
 	</EnglishText>
 </Database>

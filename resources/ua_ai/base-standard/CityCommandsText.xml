@@ -2,34 +2,34 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_CITYCOMMAND_NEW_POPULATION_HEADER">
-			<Text>Expand or Migrate?</Text>
+			<Text>Розширити чи Мігрувати?</Text>
 		</Row>
 		<Row Tag="LOC_CITYCOMMAND_NEW_POPULATION_BODY">
-			<Text>Expansion is available in {1_CityName}! Should this Population remain here and expand to a new tile, or become a Migrant and move elsewhere?</Text>
+			<Text>Розширення доступне в {1_CityName}! Чи повинно це населення залишитися тут і розширитися на нову плитку, чи стати мігрантом і переїхати в інше місце?</Text>
 		</Row>
 		<Row Tag="LOC_CITYCOMMAND_OPTION_SETTLE">
-			<Text>Settle</Text>
+			<Text>Оселитися</Text>
 		</Row>
 		<Row Tag="LOC_CITYCOMMAND_OPTION_MIGRATE">
-			<Text>Migrate</Text>
+			<Text>Мігрувати</Text>
 		</Row>
 		<Row Tag="LOC_CITYCOMMAND_PRODUCTION_FAILURE_NO_SPAWN_LOCATION">
-			<Text>No suitable location to spawn this Unit.</Text>
+			<Text>Немає відповідного місця для створення цього підрозділу.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_TEXT_CITY_CENTER_RAZED">
-			<Text>City Razed!</Text>
+			<Text>Місто зруйновано!</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_TEXT_DISTRICT_RAZED">
-			<Text>District Razed!</Text>
+			<Text>Район зруйновано!</Text>
 		</Row>
 		<Row Tag="LOC_CITYCOMMAND_DESTROY_CANNOT_RAZE_OWN_CITY">
-			<Text>You cannot raze a settlement that you have founded.</Text>
+			<Text>Ви не можете зруйнувати поселення, яке ви заснували.</Text>
 		</Row>
 		<Row Tag="LOC_CITYCOMMAND_DESTROY_RAZE_CONDITIONS">
-			<Text>{1_Name} will be gradually destroyed over a period of {2_NumTurns} Turns. During this time the settlement will not generate any yields.[n]Opponents in all current and future wars will gain 1 bonus War Support against you.</Text>
+			<Text>{1_Name} буде поступово знищено протягом {2_NumTurns} ходів. Протягом цього часу поселення не буде генерувати жодних ресурсів.[n]Противники у всіх поточних і майбутніх війнах отримають 1 бонусну підтримку війни проти вас.</Text>
 		</Row>
 		<Row Tag="LOC_CITYCOMMAND_EXPAND_NO_EXPANSION_PLOTS">
-			<Text>This Settlement cannot expand right now.</Text>
+			<Text>Це поселення не може розширюватися зараз.</Text>
 		</Row>
 	</EnglishText>
 </Database>

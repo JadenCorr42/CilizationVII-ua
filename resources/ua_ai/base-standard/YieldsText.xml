@@ -2,157 +2,157 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_YIELD_FOOD">
-			<Text>[icon:YIELD_FOOD] Food</Text>
+			<Text>[icon:YIELD_FOOD] Їжа</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_PRODUCTION">
-			<Text>[icon:YIELD_PRODUCTION] Production</Text>
+			<Text>[icon:YIELD_PRODUCTION] Виробництво</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_GOLD">
-			<Text>[icon:YIELD_GOLD] Gold</Text>
+			<Text>[icon:YIELD_GOLD] Золото</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_GOLD_TREASURY">
-			<Text>Gold Treasury</Text>
+			<Text>Золота скарбниця</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_SCIENCE">
-			<Text>[icon:YIELD_SCIENCE] Science</Text>
+			<Text>[icon:YIELD_SCIENCE] Наука</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_CULTURE">
-			<Text>[icon:YIELD_CULTURE] Culture</Text>
+			<Text>[icon:YIELD_CULTURE] Культура</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_HAPPINESS">
-			<Text>[icon:YIELD_HAPPINESS] Happiness</Text>
+			<Text>[icon:YIELD_HAPPINESS] Щастя</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_UNHAPPINESS">
-			<Text>Unhappiness</Text>
+			<Text>Нещастя</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_DIPLOMACY">
-			<Text>[icon:YIELD_DIPLOMACY] Influence</Text>
+			<Text>[icon:YIELD_DIPLOMACY] Вплив</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_DIPLOMACY_TREASURY">
-			<Text>Accumulated Influence</Text>
+			<Text>Накопичений вплив</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_ENVOYS">
-			<Text>Envoys</Text>
+			<Text>Посланці</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_MAX_CITIES">
-			<Text>Settlement Limit. -5 [icon:YIELD_HAPPINESS] Happiness in all Settlements per Settlement over the limit (to a maximum of -35 [icon:YIELD_HAPPINESS] Happiness).</Text>
+			<Text>Ліміт поселень. -5 [icon:YIELD_HAPPINESS] Щастя у всіх поселеннях за кожне поселення понад ліміт (до максимуму -35 [icon:YIELD_HAPPINESS] Щастя).</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_HEAL_NAME">
-			<Text>Healing</Text>
+			<Text>Зцілення</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_GOLD_NAME">
-			<Text>Gold</Text>
+			<Text>Золото</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_SCIENCE_NAME">
-			<Text>Science</Text>
+			<Text>Наука</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_CULTURE_NAME">
-			<Text>Culture</Text>
+			<Text>Культура</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
-			<Text>[STYLE:yield-gold]+{1_Value} Gold[/STYLE]</Text>
+			<Text>[STYLE:yield-gold]+{1_Value} Золото[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_CULTURE_INCREASE_FLOATER">
-			<Text>[STYLE:yield-culture]+{1_Value} Culture[/STYLE]</Text>
+			<Text>[STYLE:yield-culture]+{1_Value} Культура[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_HAPPINESS_INCREASE_FLOATER">
-			<Text>[STYLE:yield-happiness]+{1_Value} Happiness[/STYLE]</Text>
+			<Text>[STYLE:yield-happiness]+{1_Value} Щастя[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
-			<Text>[STYLE:yield-food]+{1_Value} Food[/STYLE]</Text>
+			<Text>[STYLE:yield-food]+{1_Value} Їжа[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_HEAL_INCREASE_FLOATER">
-			<Text>+{1_Value} HP</Text>
+			<Text>+{1_Value} ОЗ</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
-			<Text>[STYLE:yield-production]+{1_Value} Production[/STYLE]</Text>
+			<Text>[STYLE:yield-production]+{1_Value} Виробництво[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_DIPLOMACY_INCREASE_FLOATER">
-			<Text>[STYLE:yield-diplomacy]+{1_Value} Influence[/STYLE]</Text>
+			<Text>[STYLE:yield-diplomacy]+{1_Value} Вплив[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_DIPLOMACY_DECREASE_FLOATER">
-			<Text>[STYLE:yield-diplomacy]-{1_Value} Influence[/STYLE]</Text>
+			<Text>[STYLE:yield-diplomacy]-{1_Value} Вплив[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_SCIENCE_INCREASE_FLOATER">
-			<Text>[STYLE:yield-science]+{1_Value} Science[/STYLE]</Text>
+			<Text>[STYLE:yield-science]+{1_Value} Наука[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_CULTURE_DECREASE_FLOATER">
-			<Text>[STYLE:yield-culture]-{1_Value} Culture[/STYLE]</Text>
+			<Text>[STYLE:yield-culture]-{1_Value} Культура[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_HAPPINESS_DECREASE_FLOATER">
-			<Text>[STYLE:yield-happiness]-{1_Value} Happiness[/STYLE]</Text>
+			<Text>[STYLE:yield-happiness]-{1_Value} Щастя[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
-			<Text>[STYLE:yield-food]-{1_Value} Food[/STYLE]</Text>
+			<Text>[STYLE:yield-food]-{1_Value} Їжа[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_GOLD_DECREASE_FLOATER">
-			<Text>[STYLE:yield-gold]-{1_Value} Gold[/STYLE]</Text>
+			<Text>[STYLE:yield-gold]-{1_Value} Золото[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
-			<Text>[STYLE:yield-production]-{1_Value} Production[/STYLE]</Text>
+			<Text>[STYLE:yield-production]-{1_Value} Виробництво[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_SCIENCE_DECREASE_FLOATER">
-			<Text>[STYLE:yield-science]-{1_Value} Science[/STYLE]</Text>
+			<Text>[STYLE:yield-science]-{1_Value} Наука[/STYLE]</Text>
 		</Row>
 		<Row Tag="LOC_VP_FLOATER">
-			<Text>+{1_Value} Treasure Fleet {1_Value: plural 1?Point;other?Points;}</Text>
+			<Text>+{1_Value} Скарбничий флот {1_Value: plural 1?Очко;other?Очки;}</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_TITLE">
-			<Text>Global Yields Breakdown</Text>
+			<Text>Розподіл глобальних доходів</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_SUBTITLE">
-			<Text>Yields Breakdown across all Cities in your Empire</Text>
+			<Text>Розподіл доходів по всіх містах вашої імперії</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_SUMMARY_TITLE">
-			<Text>Yield Summary</Text>
+			<Text>Зведення доходів</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_SUMMARY_TOTAL_INCOME">
-			<Text>Total Income</Text>
+			<Text>Загальний дохід</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_SUMMARY_TOTAL_INCOME_PER_TURN">
-			<Text>Total Income per Turn</Text>
+			<Text>Загальний дохід за хід</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_SUMMARY_TOTAL_MAINTENANCE_PER_TURN">
-			<Text>Total Maintenance per Turn</Text>
+			<Text>Загальні витрати за хід</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_SUMMARY_NET_PER_TURN">
-			<Text>Net per Turn</Text>
+			<Text>Чистий дохід за хід</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_SUMMARY_TREASURY">
-			<Text>Treasury</Text>
+			<Text>Скарбниця</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_SETTLEMENT_INCOME">
-			<Text>Settlement Income</Text>
+			<Text>Дохід від поселень</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_UNIT_EXPENSE">
-			<Text>Unit Expenses</Text>
+			<Text>Витрати на утримання юнітів</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_DIPLO_ACTIONS">
-			<Text>Diplomatic Actions</Text>
+			<Text>Дипломатичні дії</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_TOTAL_FROM_CITIES">
-			<Text>Total from Cities</Text>
+			<Text>Загальний дохід від міст</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_URBAN_DISTRICTS">
-			<Text>Urban Districts</Text>
+			<Text>Міські райони</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_RURAL_DISTRICTS">
-			<Text>Rural Districts</Text>
+			<Text>Сільські райони</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_UNIT_NAME">
-			<Text>Unit Name</Text>
+			<Text>Назва юніта</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_NUMBER_OF_UNITS">
-			<Text>Number of Units</Text>
+			<Text>Кількість юнітів</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_COLLAPSE_ALL">
-			<Text>Collapse All</Text>
+			<Text>Згорнути все</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_OTHER_INCOME">
-			<Text>Other Yield Income</Text>
+			<Text>Інші доходи</Text>
 		</Row>
 		<Row Tag="LOC_GLOBAL_YIELDS_OTHER">
-			<Text>Other</Text>
+			<Text>Інше</Text>
 		</Row>
 	</EnglishText>
 </Database>

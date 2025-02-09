@@ -3,31 +3,31 @@
 	<EnglishText>
 		<!--BUILDING PLACEMENT MODE-->
 		<Row Tag="LOC_BUILDING_PLACEMENT_REMOVE_IMPOVEMENT">
-			<Text>Remove Improvement?</Text>
+			<Text>Видалити покращення?</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PLACEMENT_REMOVE_IMPOVEMENT_BODY">
-			<Text>Selecting this tile will remove the existing {1_CurrentImprovementName} to make way for the {2_WonderName}. Continue?</Text>
+			<Text>Вибір цієї плитки видалить існуюче {1_CurrentImprovementName}, щоб звільнити місце для {2_WonderName}. Продовжити?</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PLACEMENT_REMOVE_GENERIC_IMPOVEMENT_BODY">
-			<Text>Selecting this tile will remove the existing Improvement to make way for the {1_WonderName}. Continue?</Text>
+			<Text>Вибір цієї плитки видалить існуюче покращення, щоб звільнити місце для {1_WonderName}. Продовжити?</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PLACEMENT_CREATE_URBAN_TILE">
-			<Text>Create Urban District?</Text>
+			<Text>Створити міський район?</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PLACEMENT_CREATE_URBAN_TILE_REMOVE_IMPROVEMENT">
-			<Text>You must convert to an Urban District to build a {2_Name}. Selecting this tile will remove the existing {1_CurrentImprovementName} to convert it to an Urban District. Continue?</Text>
+			<Text>Ви повинні перетворити на міський район, щоб побудувати {2_Name}. Вибір цієї плитки видалить існуюче {1_CurrentImprovementName}, щоб перетворити його на міський район. Продовжити?</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PLACEMENT_CREATE_URBAN_TILE_BODY">
-			<Text>Selecting this tile will convert it to an Urban District. You must convert to an Urban District to to build a {1_Name}. Continue?</Text>
+			<Text>Вибір цієї плитки перетворить її на міський район. Ви повинні перетворити на міський район, щоб побудувати {1_Name}. Продовжити?</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PLACEMENT_REPLACE_BUILDING">
-			<Text>Replace Previous Age Building?</Text>
+			<Text>Замінити будівлю попередньої епохи?</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PLACEMENT_REPLACE_BUILDING_BODY_ADD_SPECIALIST">
-			<Text>The workers from the {1_CurrentBuildingName} will become Specialists when you add the new {2_Name} to this tile. Specialists contribute the yield of their previous Building to the City. Continue?</Text>
+			<Text>Працівники з {1_CurrentBuildingName} стануть спеціалістами, коли ви додасте новий {2_Name} до цієї плитки. Спеціалісти додають дохід своєї попередньої будівлі до міста. Продовжити?</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PLACEMENT_REPLACE_BUILDING_BODY">
-			<Text>You will replace an existing Building when you add the new {2_Name} to this tile. Continue?</Text>
+			<Text>Ви заміните існуючу будівлю, коли додасте новий {2_Name} до цієї плитки. Продовжити?</Text>
 		</Row>
 	</EnglishText>
 </Database>

@@ -3,33 +3,33 @@
 	<EnglishText>
 		<!-- Ashoka Main Menu Char Select Text-->
 		<Row Tag="LOC_MAIN_CHAR_SELECT_LEADER_ASHOKA_ANY">
-			<Text>Let all listen, and be willing to listen to the teachings of all others. </Text>
+			<Text>Нехай усі слухають і будуть готові слухати вчення всіх інших.</Text>
 		</Row>
 
 		<!--Ashoka Statement Text-->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_ASHOKA_ANY">
-			<Text>I am Ashoka, the great king at the center of the world, and profound sinner.</Text>
+			<Text>Я Ашока, великий цар у центрі світу і глибокий грішник.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_ASHOKA_ANY">
-			<Text>I am Ashoka, the great king at the center of the world, and profound sinner.</Text>
+			<Text>Я Ашока, великий цар у центрі світу і глибокий грішник.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_ASHOKA_ANY">
-			<Text>I am Ashoka, the great king at the center of the world, and profound sinner.</Text>
+			<Text>Я Ашока, великий цар у центрі світу і глибокий грішник.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_ASHOKA_ANY">
-			<Text>The path of violence is a path that I swore never to take again. But here we are.</Text>
+			<Text>Шлях насильства - це шлях, який я поклявся більше ніколи не обирати. Але ось ми тут.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_ASHOKA_ANY">
-			<Text>Violence echoes across multiple lives, multiple worlds. It will return to you.</Text>
+			<Text>Насильство відлунює через багато життів, багато світів. Воно повернеться до вас.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEFEAT_AI_LEADER_ASHOKA_ANY">
-			<Text>And now, the burning wheel passes over me.</Text>
+			<Text>І тепер палаюче колесо проходить наді мною.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_ASHOKA">
-			<Text>The righteous path.</Text>
+			<Text>Праведний шлях.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_ASHOKA">
-			<Text>This is "adharma", an error.</Text>
+			<Text>Це "адхарма", помилка.</Text>
 		</Row>
 	</EnglishText>
 </Database>

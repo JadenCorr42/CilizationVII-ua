@@ -2,130 +2,130 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_VICTORY_PROGRESS_MILITARY_VICTORY">
-			<Text>Military</Text>
+			<Text>Військова</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_SCIENCE_VICTORY">
-			<Text>Science</Text>
+			<Text>Наукова</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_CULTURE_VICTORY">
-			<Text>Culture</Text>
+			<Text>Культурна</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_ECONOMIC_VICTORY">
-			<Text>Economic</Text>
+			<Text>Економічна</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_VICTORY_POINTS">
-			<Text>Victory Overview</Text>
+			<Text>Огляд перемоги</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_TRACK_VICTORY">
-			<Text>Track Progress</Text>
+			<Text>Відстеження прогресу</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_STATE_UNSTARTED">
-			<Text>Quest Not Started</Text>
+			<Text>Завдання не розпочато</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_STATE_IN_PROGRESS">
-			<Text>Quest In Progress</Text>
+			<Text>Завдання в процесі</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_STATE_COMPLETED">
-			<Text>Quest Completed</Text>
+			<Text>Завдання завершено</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_REWARDS">
-			<Text>Rewards</Text>
+			<Text>Нагороди</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_NEXT_STEP">
-			<Text>Next Step</Text>
+			<Text>Наступний крок</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_LEGACY_PROGRESS">
-			<Text>Legacy Paths</Text>
+			<Text>Шляхи спадщини</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_LEGACY_POINTS">
-			<Text>Legacy Points</Text>
+			<Text>Очки спадщини</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_OVERVIEW">
-			<Text>Overview</Text>
+			<Text>Огляд</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_MILESTONE">
-			<Text>Milestone Progress</Text>
+			<Text>Прогрес віх</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_PROGRESS_REWARD">
-			<Text>Rewards</Text>
+			<Text>Нагороди</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GOLDEN_AGE">
-			<Text>Golden Age</Text>
+			<Text>Золота ера</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_VICTORY">
-			<Text>Victory</Text>
+			<Text>Перемога</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_RANKINGS">
-			<Text>Rankings</Text>
+			<Text>Рейтинги</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_AGE_PROGRESS">
-			<Text>+{1_Amount} [icon:ADVISOR_HOUR_GLASS] Age Progression</Text>
+			<Text>+{1_Amount} [icon:ADVISOR_HOUR_GLASS] Прогрес віку</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_AGE_PROGRESS_TOOLTIP">
-			<Text>The first time any player reaches this milestone, {1_amount} Age Progress Points are added for all players</Text>
+			<Text>Коли будь-який гравець вперше досягає цієї віхи, {1_amount} очок прогресу віку додаються для всіх гравців</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_ADDITIONAL_REWARDS">
 			<Text>+1[icon:{1_Icon}] </Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_AGE_PROGRESS_TALLY">
-			<Text>Age Progress</Text>
+			<Text>Прогрес віку</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_TOTAL_GOLD_NAME">
-			<Text>Total Gold</Text>
+			<Text>Загальне золото</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_TOTAL_GOLD_DESCRIPTION">
-			<Text>Total Player Gold per Turn</Text>
+			<Text>Загальне золото гравця за хід</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_TURN">
-			<Text>Turn</Text>
+			<Text>Хід</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_GOLD">
-			<Text>Gold</Text>
+			<Text>Золото</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_PLAYER_GOLD_NAME">
-			<Text>Total Player Gold</Text>
+			<Text>Загальне золото гравця</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_PLAYER_GOLD_DESCRIPTION">
-			<Text>Total Gold</Text>
+			<Text>Загальне золото</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_TOTAL_SCIENCE_NAME">
-			<Text>Total Science</Text>
+			<Text>Загальна наука</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_TOTAL_SCIENCE_DESCRIPTION">
-			<Text>Total Science per Turn</Text>
+			<Text>Загальна наука за хід</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_SCIENCE">
-			<Text>Science</Text>
+			<Text>Наука</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_CITIES_FOUNDED_NAME">
-			<Text>Cities Founded</Text>
+			<Text>Засновані міста</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_CITIES_FOUNDED_DESCRIPTION">
-			<Text>Number of Cities</Text>
+			<Text>Кількість міст</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_CITY">
-			<Text>Cities</Text>
+			<Text>Міста</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_WONDERS_CONTRUCTED_NAME">
-			<Text>Wonders Built</Text>
+			<Text>Побудовані чудеса</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_WONDERS_CONTRUCTED_DESCRIPTION">
-			<Text>Number of Wonders built</Text>
+			<Text>Кількість побудованих чудес</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_WONDER">
-			<Text>Wonders</Text>
+			<Text>Чудеса</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_UNITS_TRAINED_NAME">
-			<Text>Units Trained</Text>
+			<Text>Навчені юніти</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_UNIT">
-			<Text>Unit Type</Text>
+			<Text>Тип юніта</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_TRAINED">
-			<Text>Trained</Text>
+			<Text>Навчено</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GRAPH_PLAYER_UNITS_NAME">
-			<Text>Player Units Trained by Type</Text>
+			<Text>Юніти гравця, навчені за типом</Text>
 		</Row>
 	</EnglishText>
 </Database>

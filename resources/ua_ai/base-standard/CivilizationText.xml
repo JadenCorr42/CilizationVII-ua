@@ -3,309 +3,309 @@
 	<EnglishText>
 		<!--Civilization Names-->
 		<Row Tag="LOC_CIVILIZATION_NONE_NAME">
-			<Text>World</Text>
+			<Text>Світ</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_NONE_ADJECTIVE">
-			<Text>World</Text>
+			<Text>Світ</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_NONE_FULLNAME">
-			<Text>World</Text>
+			<Text>Світ</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_INDEPENDENT_NAME">
-			<Text>Villages</Text>
+			<Text>Села</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_INDEPENDENT_FULLNAME">
-			<Text>Villages</Text>
+			<Text>Села</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_INDEPENDENT_ADJECTIVE">
-			<Text>Village</Text>
+			<Text>Село</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_INDEPENDENT_SINGULAR">
-			<Text>{1_Name} Village</Text>
+			<Text>{1_Name} Село</Text>
 		</Row>
 		<!--Civilization Names-->
 		<Row Tag="LOC_CIVILIZATION_AKSUM_NAME">
-			<Text>Aksum</Text>
+			<Text>Аксум</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_EGYPT_NAME">
-			<Text>Egypt</Text>
+			<Text>Єгипет</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_GREECE_NAME">
-			<Text>Greece</Text>
+			<Text>Греція</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_HAN_NAME">
-			<Text>Han</Text>
+			<Text>Хань</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_KHMER_NAME">
-			<Text>Khmer</Text>
+			<Text>Кхмер</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MAURYA_NAME">
-			<Text>Maurya</Text>
+			<Text>Маур'я</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MAYA_NAME">
-			<Text>Maya</Text>
+			<Text>Майя</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MISSISSIPPIAN_NAME">
-			<Text>Mississippian</Text>
+			<Text>Міссісіпі</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_PERSIA_NAME">
-			<Text>Persia</Text>
+			<Text>Персія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_ROME_NAME">
-			<Text>Rome</Text>
+			<Text>Рим</Text>
 		</Row>
 		<!--Civilization Full Names-->
 		<Row Tag="LOC_CIVILIZATION_AKSUM_FULLNAME">
-			<Text>Aksumite Empire</Text>
+			<Text>Аксумська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_EGYPT_FULLNAME">
-			<Text>Egyptian Empire</Text>
+			<Text>Єгипетська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_GREECE_FULLNAME">
-			<Text>Greek Empire</Text>
+			<Text>Грецька імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_HAN_FULLNAME">
-			<Text>Han Empire</Text>
+			<Text>Ханьська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_KHMER_FULLNAME">
-			<Text>Khmer Empire</Text>
+			<Text>Кхмерська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MAURYA_FULLNAME">
-			<Text>Mauryan Empire</Text>
+			<Text>Маур'янська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MAYA_FULLNAME">
-			<Text>Maya Empire</Text>
+			<Text>Імперія Майя</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MISSISSIPPIAN_FULLNAME">
-			<Text>Mississippian Empire</Text>
+			<Text>Імперія Міссісіпі</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_PERSIA_FULLNAME">
-			<Text>Persian Empire</Text>
+			<Text>Перська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_ROME_FULLNAME">
-			<Text>Roman Empire</Text>
+			<Text>Римська імперія</Text>
 		</Row>
 		<!--Civilization Adjectives-->
 		<Row Tag="LOC_CIVILIZATION_AKSUM_ADJECTIVE">
-			<Text>Aksumite</Text>
+			<Text>Аксумський</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
-			<Text>Egyptian</Text>
+			<Text>Єгипетський</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
-			<Text>Greek</Text>
+			<Text>Грецький</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_HAN_ADJECTIVE">
-			<Text>Han</Text>
+			<Text>Ханьський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_KHMER_ADJECTIVE">
-			<Text>Khmer</Text>
+			<Text>Кхмерський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MAURYA_ADJECTIVE">
-			<Text>Mauryan</Text>
+			<Text>Маур'янський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE">
-			<Text>Maya</Text>
+			<Text>Майя</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MISSISSIPPIAN_ADJECTIVE">
-			<Text>Mississippian</Text>
+			<Text>Міссісіпський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_PERSIA_ADJECTIVE">
-			<Text>Persian</Text>
+			<Text>Перський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
-			<Text>Roman</Text>
+			<Text>Римський</Text>
 		</Row>
 		<!--Civilization Names-->
 		<Row Tag="LOC_CIVILIZATION_ABBASID_NAME">
-			<Text>Abbasid</Text>
+			<Text>Аббасид</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_CHOLA_NAME">
-			<Text>Chola</Text>
+			<Text>Чола</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_HAWAII_NAME">
-			<Text>Hawai'i</Text>
+			<Text>Гаваї</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_INCA_NAME">
-			<Text>Inca</Text>
+			<Text>Інка</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MAJAPAHIT_NAME">
-			<Text>Majapahit</Text>
+			<Text>Маджапахіт</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MING_NAME">
-			<Text>Ming</Text>
+			<Text>Мін</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
-			<Text>Mongolia</Text>
+			<Text>Монголія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_NORMAN_NAME">
-			<Text>Norman</Text>
+			<Text>Норман</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SONGHAI_NAME">
-			<Text>Songhai</Text>
+			<Text>Сонгай</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SPAIN_NAME">
-			<Text>Spain</Text>
+			<Text>Іспанія</Text>
 		</Row>
 		<!--Civilization Full Names-->
 		<Row Tag="LOC_CIVILIZATION_ABBASID_FULLNAME">
-			<Text>Abbasid Empire</Text>
+			<Text>Аббасидська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_CHOLA_FULLNAME">
-			<Text>Chola Empire</Text>
+			<Text>Імперія Чола</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_HAWAII_FULLNAME">
-			<Text>Hawaiian Empire</Text>
+			<Text>Гавайська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_INCA_FULLNAME">
-			<Text>Inca Empire</Text>
+			<Text>Імперія Інка</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MAJAPAHIT_FULLNAME">
-			<Text>Majapahit Empire</Text>
+			<Text>Імперія Маджапахіт</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MING_FULLNAME">
-			<Text>Ming Empire</Text>
+			<Text>Імперія Мін</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MONGOLIA_FULLNAME">
-			<Text>Mongolian Empire</Text>
+			<Text>Монгольська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_NORMAN_FULLNAME">
-			<Text>Norman Empire</Text>
+			<Text>Норманська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SONGHAI_FULLNAME">
-			<Text>Songhai Empire</Text>
+			<Text>Імперія Сонгай</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SPAIN_FULLNAME">
-			<Text>Spanish Empire</Text>
+			<Text>Іспанська імперія</Text>
 		</Row>
 		<!--Civilization Adjectives-->
 		<Row Tag="LOC_CIVILIZATION_ABBASID_ADJECTIVE">
-			<Text>Abbasid</Text>
+			<Text>Аббасидський</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_CHOLA_ADJECTIVE">
-			<Text>Chola</Text>
+			<Text>Чола</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_HAWAII_ADJECTIVE">
-			<Text>Hawaiian</Text>
+			<Text>Гавайський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_INCA_ADJECTIVE">
-			<Text>Incan</Text>
+			<Text>Інкський</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MAJAPAHIT_ADJECTIVE">
-			<Text>Majapahit</Text>
+			<Text>Маджапахітський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MING_ADJECTIVE">
-			<Text>Ming</Text>
+			<Text>Мінський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
-			<Text>Mongolian</Text>
+			<Text>Монгольський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_NORMAN_ADJECTIVE">
-			<Text>Norman</Text>
+			<Text>Норманський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SONGHAI_ADJECTIVE">
-			<Text>Songhai</Text>
+			<Text>Сонгайський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
-			<Text>Spanish</Text>
+			<Text>Іспанський</Text>
 		</Row>
 		<!--Civilization Names-->
 		<Row Tag="LOC_CIVILIZATION_AMERICA_NAME">
-			<Text>America</Text>
+			<Text>Америка</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BUGANDA_NAME">
-			<Text>Buganda</Text>
+			<Text>Буганда</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_FRENCH_EMPIRE_NAME">
-			<Text>French Empire</Text>
+			<Text>Французька імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MEIJI_NAME">
-			<Text>Meiji Japan</Text>
+			<Text>Мейдзі Японія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MEXICO_NAME">
-			<Text>Mexico</Text>
+			<Text>Мексика</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MUGHAL_NAME">
-			<Text>Mughal</Text>
+			<Text>Могол</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_PRUSSIA_NAME">
-			<Text>Prussia</Text>
+			<Text>Пруссія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_QING_NAME">
-			<Text>Qing</Text>
+			<Text>Цін</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_RUSSIA_NAME">
-			<Text>Russia</Text>
+			<Text>Росія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SIAM_NAME">
-			<Text>Siam</Text>
+			<Text>Сіам</Text>
 		</Row>
 		<!--Civilization Full Names-->
 		<Row Tag="LOC_CIVILIZATION_AMERICA_FULLNAME">
-			<Text>American Empire</Text>
+			<Text>Американська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BUGANDA_FULLNAME">
-			<Text>Buganda Empire</Text>
+			<Text>Імперія Буганда</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_FRENCH_EMPIRE_FULLNAME">
-			<Text>French Empire</Text>
+			<Text>Французька імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MEIJI_FULLNAME">
-			<Text>Meiji Japan</Text>
+			<Text>Мейдзі Японія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MEXICO_FULLNAME">
-			<Text>Mexican Empire</Text>
+			<Text>Мексиканська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MUGHAL_FULLNAME">
-			<Text>Mughal Empire</Text>
+			<Text>Могольська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_PRUSSIA_FULLNAME">
-			<Text>Prussian Empire</Text>
+			<Text>Прусська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_QING_FULLNAME">
-			<Text>Qing Empire</Text>
+			<Text>Імперія Цін</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_RUSSIA_FULLNAME">
-			<Text>Russian Empire</Text>
+			<Text>Московія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SIAM_FULLNAME">
-			<Text>Siamese Empire</Text>
+			<Text>Сіамська імперія</Text>
 		</Row>
 		<!--Civilization Adjectives-->
 		<Row Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
-			<Text>American</Text>
+			<Text>Американський</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BUGANDA_ADJECTIVE">
-			<Text>Bugandan</Text>
+			<Text>Буганда</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_FRENCH_EMPIRE_ADJECTIVE">
-			<Text>French Imperial</Text>
+			<Text>Французький імперський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MEIJI_ADJECTIVE">
-			<Text>Meiji Japanese</Text>
+			<Text>Мейдзі Японський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MEXICO_ADJECTIVE">
-			<Text>Mexican</Text>
+			<Text>Мексиканський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MUGHAL_ADJECTIVE">
-			<Text>Mughal</Text>
+			<Text>Могольський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_PRUSSIA_ADJECTIVE">
-			<Text>Prussian</Text>
+			<Text>Прусський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_QING_ADJECTIVE">
-			<Text>Qing</Text>
+			<Text>Цінський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
-			<Text>Russian</Text>
+			<Text>Російський</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SIAM_ADJECTIVE">
-			<Text>Siamese</Text>
+			<Text>Сіамський</Text>
 		</Row>
 	</EnglishText>
 </Database>

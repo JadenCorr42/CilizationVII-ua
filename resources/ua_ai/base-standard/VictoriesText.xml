@@ -3,122 +3,122 @@
 	<EnglishText>
 
 		<Row Tag="LOC_VICTORY_DOMINATION_NAME">
-			<Text>Domination Victory</Text>
+			<Text>Перемога через домінування</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DOMINATION_DESCRIPTION">
-			<Text>Capture all settlements not owned by Independent Powers or City-States.</Text>
+			<Text>Захопіть усі поселення, що не належать Незалежним Силам або Міським Державам.</Text>
 		</Row>
 
 		<Row Tag="LOC_VICTORY_LEGACY_NAME">
-			<Text>Domination Victory</Text>
+			<Text>Перемога через домінування</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_LEGACY_DESCRIPTION">
-			<Text>Have the most legacy points by the end of the game.</Text>
+			<Text>Майте найбільшу кількість очок спадщини до кінця гри.</Text>
 		</Row>
 
 		<Row Tag="LOC_LEGACY_OPTION">
-			<Text>Legacy Option for Next Age</Text>
+			<Text>Опція спадщини для наступного віку</Text>
 		</Row>
 		<!-- Rewards -->
 		<!-- Antiquity -->
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_CULTURE_GOLDEN_AGE_NAME">
-			<Text>Wonders of the Ancient World Golden Age</Text>
+			<Text>Золотий вік чудес стародавнього світу</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_CULTURE_GOLDEN_AGE_REWARD_TEXT">
 			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_CULTURE_GOLDEN_AGE_NAME}</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_CULTURE_GOLDEN_AGE_DESCRIPTION">
-			<Text>Amphitheaters become Golden Age Amphitheaters (They retain their base yields, adjacency bonuses, and effects in the next age).</Text>
+			<Text>Амфітеатри стають амфітеатрами Золотого віку (вони зберігають свої базові доходи, бонуси від сусідства та ефекти в наступному віці).</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_CULTURE_DARK_AGE_NAME">
-			<Text>Cultural Dark Age</Text>
+			<Text>Культурний Темний вік</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_CULTURE_DARK_AGE_REWARD_TEXT">
 			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_CULTURE_DARK_AGE_NAME}</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_CULTURE_DARK_AGE_DESCRIPTION">
-			<Text>Missionaries have +1 charge and +1 movement, but -3[icon:YIELD_HAPPINESS] Happiness in all Settlements once you have founded a religion, doubled if the Settlement does not follow your religion.</Text>
+			<Text>Місіонери мають +1 заряд і +1 рух, але -3[icon:YIELD_HAPPINESS] Щастя у всіх поселеннях після заснування релігії, подвоюється, якщо поселення не дотримується вашої релігії.</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_CULTURE_MILESTONE_2_NAME">
-			<Text>Wondrous Heritage</Text>
+			<Text>Чудова спадщина</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_CULTURE_MILESTONE_2_REWARD_TEXT">
-			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_CULTURE_MILESTONE_2_NAME}</Text>
+			<Text>Чудеса, якими ви володієте, отримують +1[icon:YIELD_CULTURE] Культура та +1[icon:YIELD_HAPPINESS] Щастя.</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_CULTURE_MILESTONE_2_DESCRIPTION">
 			<Text>Wonders you control get +1[icon:YIELD_CULTURE] Culture and +1[icon:YIELD_HAPPINESS] Happiness.</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_MILITARY_GOLDEN_AGE_NAME">
-			<Text>Pax Imperatoria Golden Age</Text>
+			<Text>Золотий вік Pax Imperatoria</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_MILITARY_GOLDEN_AGE_REWARD_TEXT">
 			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_MILITARY_GOLDEN_AGE_NAME}</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_MILITARY_GOLDEN_AGE_DESCRIPTION">
-			<Text>Gain an Infantry unit in every settlement you conquered last age.</Text>
+			<Text>Отримайте піхотний підрозділ у кожному поселенні, яке ви завоювали в минулому віці.</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_MILITARY_GOLDEN_AGE_DESCRIPTION_DYNAMIC">
-			<Text>{LOC_LEGACY_PATH_ANTIQUITY_MILITARY_GOLDEN_AGE_DESCRIPTION} Total Units: {1_totalUnits}</Text>
+			<Text>{LOC_LEGACY_PATH_ANTIQUITY_MILITARY_GOLDEN_AGE_DESCRIPTION} Загальна кількість підрозділів: {1_totalUnits}</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_MILITARY_DARK_AGE_NAME">
-			<Text>Militaristic Dark Age</Text>
+			<Text>Мілітаристичний Темний вік</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_MILITARY_DARK_AGE_REWARD_TEXT">
 			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_MILITARY_DARK_AGE_NAME}</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_MILITARY_DARK_AGE_DESCRIPTION">
-			<Text>Gain 3 fully packed cavalry armies with siege, BUT lose all of your existing armies and all of your settlements except your capital.</Text>
+			<Text>Отримайте 3 повністю укомплектовані кавалерійські армії з облоговими машинами, АЛЕ втратьте всі свої існуючі армії та всі свої поселення, крім столиці.</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_MILITARY_MILESTONE_2_NAME">
-			<Text>Fealty</Text>
+			<Text>Вірність</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_MILITARY_MILESTONE_2_REWARD_TEXT">
 			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_MILITARY_MILESTONE_2_NAME}</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_MILITARY_MILESTONE_2_DESCRIPTION">
-			<Text>+2 Settlement Limit.</Text>
+			<Text>+2 до ліміту поселень.</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_GOLDEN_AGE_NAME">
-			<Text>Great Library Golden Age</Text>
+			<Text>Золотий вік Великої бібліотеки</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_GOLDEN_AGE_REWARD_TEXT">
 			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_GOLDEN_AGE_NAME}</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_GOLDEN_AGE_DESCRIPTION">
-			<Text>Academies become Golden Age Academies (They retain their base yields, adjacency bonuses, and effects in the next age).</Text>
+			<Text>Академії стають Академіями Золотого віку (вони зберігають свої базові доходи, бонуси від сусідства та ефекти в наступному віці).</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_DARK_AGE_NAME">
-			<Text>Scientific Dark Age</Text>
+			<Text>Науковий Темний вік</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_DARK_AGE_REWARD_TEXT">
 			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_DARK_AGE_NAME}</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_DARK_AGE_DESCRIPTION">
-			<Text>Gain a random Technology boost every 5 Turns, BUT -50%[icon:YIELD_SCIENCE] Science.</Text>
+			<Text>Отримуйте випадкове прискорення технології кожні 5 ходів, АЛЕ -50%[icon:YIELD_SCIENCE] Наука.</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_MILESTONE_2_NAME">
-			<Text>Collector of Knowledge</Text>
+			<Text>Збирач знань</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_MILESTONE_2_REWARD_TEXT">
 			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_MILESTONE_2_NAME}</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_MILESTONE_2_DESCRIPTION_DYNAMIC">
-			<Text>+{1_total_science}[icon:YIELD_SCIENCE] Science for every Codex in Antiquity. (+{2_total_from_codicies}).</Text>
+			<Text>+{1_total_science}[icon:YIELD_SCIENCE] Наука за кожен Кодекс в Античності. (+{2_total_from_codicies}).</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_SCIENCE_MILESTONE_2_DESCRIPTION">
 			<Text>+1[icon:YIELD_SCIENCE] Science for every Codex in Antiquity.</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_ECONOMIC_GOLDEN_AGE_NAME">
-			<Text>Silk Roads Golden Age</Text>
+			<Text>Золотий вік Шовкових шляхів</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_ECONOMIC_GOLDEN_AGE_REWARD_TEXT">
 			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_ECONOMIC_GOLDEN_AGE_NAME}</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_ECONOMIC_GOLDEN_AGE_DESCRIPTION">
-			<Text>All of your cities from the previous age remain cities.</Text>
+			<Text>Усі ваші міста з попереднього віку залишаються містами.</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_ECONOMIC_DARK_AGE_NAME">
-			<Text>Economic Dark Age</Text>
+			<Text>Економічний Темний вік</Text>
 		</Row>
 		<Row Tag="LOC_LEGACY_PATH_ANTIQUITY_ECONOMIC_DARK_AGE_REWARD_TEXT">
 			<Text>{LOC_LEGACY_OPTION} - {LOC_LEGACY_PATH_ANTIQUITY_ECONOMIC_DARK_AGE_NAME}</Text>

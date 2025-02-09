@@ -3,118 +3,118 @@
 	<EnglishText>
 		<!--POLICIES SCREEN-->
 		<Row Tag="LOC_POLICIES_BONUSES_TITLE">
-			<Text>Bonuses</Text>
+			<Text>Бонуси</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_HAPPINESS_BONUS">
-			<Text>+{1_Happiness} per turn from {2_HappinessSource}.</Text>
+			<Text>+{1_Happiness} за хід від {2_HappinessSource}.</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_HAPPINESS_PROGRESS_TITLE">
-			<Text>Progress</Text>
+			<Text>Прогрес</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_HAPPINESS_NEXT_SLOT_TITLE">
-			<Text>Celebration</Text>
+			<Text>Святкування</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_ACTIVATE">
-			<Text>Activate Social Policy</Text>
+			<Text>Активувати соціальну політику</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_DEACTIVATE">
-			<Text>Deactivate Social Policy</Text>
+			<Text>Деактивувати соціальну політику</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_COMMIT_CHANGES">
-			<Text>Confirm</Text>
+			<Text>Підтвердити</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_AVAILABLE_POLICIES">
-			<Text>Available</Text>
+			<Text>Доступні</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_ACTIVE_POLICIES">
-			<Text>Your Social Policies</Text>
+			<Text>Ваші соціальні політики</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_NO_AVAILABLE_SLOTS_TITLE">
-			<Text>No Available Slots</Text>
+			<Text>Немає доступних слотів</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_NO_AVAILABLE_SLOTS_DESCRIPTION">
-			<Text>You must deactivate a slotted Social Policy before you can activate this one.</Text>
+			<Text>Ви повинні деактивувати одну з активних соціальних політик, перш ніж активувати цю.</Text>
 		</Row>
 		<Row Tag="LOC_POLICIES_GOVERNMENT">
-			<Text>Government</Text>
+			<Text>Уряд</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_NO_GOVERNMENT_DESCRIPTION">
-			<Text>Study "Chiefdom" to unlock the ability to choose a Government</Text>
+			<Text>Вивчіть "Вождизм", щоб отримати можливість обрати уряд</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_NO_SLOTS_HEADER">
-			<Text>No Slots Currently Available</Text>
+			<Text>Наразі немає доступних слотів</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_NO_SLOTS_SUBHEADER">
-			<Text>Research Civics or enter a Celebration to unlock a Policy Slot. Next Celebration occurs in {1_turns} {1_turns: plural 1?turn; other?turns;}</Text>
+			<Text>Досліджуйте цивіки або почніть святкування, щоб відкрити слот політики. Наступне святкування відбудеться через {1_turns} {1_turns: plural 1?хід; other?ходів;}</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_CURRENT_GOVERNMENT">
-			<Text>Current Government Style</Text>
+			<Text>Поточний стиль уряду</Text>
 		</Row>
 		<Row Tag="LOC_UI_NEXT_CELEBRATION">
-			<Text>Next Celebration</Text>
+			<Text>Наступне святкування</Text>
 		</Row>
 		<Row Tag="LOC_UI_CURRENT_CELEBRATION">
-			<Text>Current Celebration</Text>
+			<Text>Поточне святкування</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_INCOME">
-			<Text>Income</Text>
+			<Text>Дохід</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_OVERVIEW_TAB">
-			<Text>Overview</Text>
+			<Text>Огляд</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_POLICIES_TAB">
-			<Text>Policies</Text>
+			<Text>Політики</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_CRISIS_TAB">
-			<Text>Crisis</Text>
+			<Text>Криза</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_CAN_SWAP">
-			<Text>Your people are open to a Policy change.</Text>
+			<Text>Ваші люди готові до зміни політики.</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_MAY_CHANGE">
-			<Text>You may change any of the Policies in your Government. This can only be done when you unlock a new Social Policy or a new Policy slot.</Text>
+			<Text>Ви можете змінити будь-яку з політик у вашому уряді. Це можна зробити лише при відкритті нової соціальної політики або нового слота політики.</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_NEW_POLICY_SLOT_CANT_FILL">
-			<Text>You do not have a Policy to slot. Research Civics to acquire new Social Policies.</Text>
+			<Text>У вас немає політики для слота. Досліджуйте цивіки, щоб отримати нові соціальні політики.</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_YOUR_SOCIAL_POLICIES">
-			<Text>Your Social Policies</Text>
+			<Text>Ваші соціальні політики</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_YOUR_CRISIS_POLICIES">
-			<Text>Your Crisis Policies</Text>
+			<Text>Ваші кризові політики</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_ADD_NORMAL_POLICY">
-			<Text>Select Policy from options on the left</Text>
+			<Text>Виберіть політику з варіантів зліва</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_ADD_CRISIS_POLICY">
-			<Text>You must select a Crisis Policy</Text>
+			<Text>Ви повинні вибрати кризову політику</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_CRISIS_AGE_BEGINS">
-			<Text>The Age Begins</Text>
+			<Text>Початок епохи</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_CRISIS_BEGINS">
-			<Text>The Crisis Begins</Text>
+			<Text>Початок кризи</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_CRISIS_INTENSIFIES">
-			<Text>The Crisis Intensifies</Text>
+			<Text>Криза посилюється</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_CRISIS_CULMINATES">
-			<Text>The Crisis Culminates</Text>
+			<Text>Криза досягає кульмінації</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_TURNS_UNTIL_CRISIS">
-			<Text>{1_turns} {1_turns: plural 1?turn; other?turns;} until the next crisis</Text>
+			<Text>{1_turns} {1_turns: plural 1?хід; other?ходів;} до наступної кризи</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_CONFIRM_DISABLED_TOOLTIP">
-			<Text>All policy slots must be filled if possible</Text>
+			<Text>Усі слоти політики повинні бути заповнені, якщо це можливо</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_HAPPINESS_PER_TURN">
-			<Text>{1_Amount}[icon:YIELD_HAPPINESS] per turn</Text>
+			<Text>{1_Amount}[icon:YIELD_HAPPINESS] за хід</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_NO_GOVERNMENT_TITLE">
-			<Text>No Government</Text>
+			<Text>Немає уряду</Text>
 		</Row>
 		<Row Tag="LOC_UI_POLICIES_NO_GOVERNMENT_DESC">
-			<Text>You currently have no Government</Text>
+			<Text>Наразі у вас немає уряду</Text>
 		</Row>
 	</EnglishText>
 </Database>

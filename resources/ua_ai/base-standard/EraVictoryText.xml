@@ -2,62 +2,62 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_ERA_VICTORY_OVERVIEW_VICTORY_NAME">
-			<Text>Overview</Text>
+			<Text>Огляд</Text>
 		</Row>
 		<Row Tag="LOC_ERA_VICTORY_NEXT">
-			<Text>Next Victory Tab</Text>
+			<Text>Наступна вкладка перемоги</Text>
 		</Row>
 		<Row Tag="LOC_ERA_VICTORY_PREVIOUS">
-			<Text>Previous Victory Tab</Text>
+			<Text>Попередня вкладка перемоги</Text>
 		</Row>
 		<Row Tag="LOC_ERA_VICTORY_PLACE_1">
-			<Text>1st Place: </Text>
+			<Text>1-е місце: </Text>
 		</Row>
 		<Row Tag="LOC_ERA_VICTORY_PLACE_2">
-			<Text>2nd Place: </Text>
+			<Text>2-е місце: </Text>
 		</Row>
 		<Row Tag="LOC_ERA_VICTORY_PLACE_3">
-			<Text>3rd Place: </Text>
+			<Text>3-е місце: </Text>
 		</Row>
     <!-- Age Scores - panel-age-scores -->
     <Row Tag="LOC_AGE_SCORE_PLACE_1">
-      <Text>1st</Text>
+      <Text>1-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_2">
-      <Text>2nd</Text>
+      <Text>2-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_3">
-      <Text>3rd</Text>
+      <Text>3-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_4">
-      <Text>4th</Text>
+      <Text>4-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_5">
-      <Text>5th</Text>
+      <Text>5-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_6">
-      <Text>6th</Text>
+      <Text>6-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_7">
-      <Text>7th</Text>
+      <Text>7-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_8">
-      <Text>8th</Text>
+      <Text>8-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_9">
-      <Text>9th</Text>
+      <Text>9-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_10">
-      <Text>10th</Text>
+      <Text>10-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_11">
-      <Text>11th</Text>
+      <Text>11-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_PLACE_12">
-      <Text>12th</Text>
+      <Text>12-е</Text>
     </Row>
     <Row Tag="LOC_AGE_SCORE_YOU_TEXT">
-      <Text>You</Text>
+      <Text>Ви</Text>
     </Row>
 	</EnglishText>
 </Database>

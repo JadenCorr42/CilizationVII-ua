@@ -2,19 +2,19 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_BANNER_NAME_UNSET">
-			<Text>Banner Name Unset.</Text>
+			<Text>Назва банера не встановлена.</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_INDEPENDENT_POWER_NAME">
-			<Text>Village: {1_Name}</Text>
+			<Text>Село: {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_ENCAMPMENT_NAME">
-			<Text>Encampment: {1_Name}</Text>
+			<Text>Табір: {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_BANNER_CITY_STATE_NAME">
-			<Text>City-State: {1_Name}</Text>
+			<Text>Місто-держава: {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_CONQUERED_TOOLTIP">
-			<Text>Conquered Settlement.</Text>
+			<Text>Завойоване поселення.</Text>
 		</Row>
 	</EnglishText>
 </Database>

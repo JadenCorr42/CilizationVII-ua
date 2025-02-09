@@ -2,25 +2,25 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_WORKERS_TITLE">
-			<Text>Specialists</Text>
+			<Text>Спеціалісти</Text>
 		</Row>
 		<Row Tag="LOC_WORKERS_AVAILABLE_WORKERS">
-			<Text>Available: {1_numWorkers}</Text>
+			<Text>Доступно: {1_numWorkers}</Text>
 		</Row>
 		<Row Tag="LOC_WORKERS_COMMIT">
-			<Text>Commit</Text>
+			<Text>Застосувати</Text>
 		</Row>
 		<Row Tag="LOC_WORKERS_COMMIT_BODY">
-			<Text>Are you sure you want to commit your Specialist placements? They cannot be undone.</Text>
+			<Text>Ви впевнені, що хочете застосувати розміщення Спеціалістів? Це не можна буде скасувати.</Text>
 		</Row>
 		<Row Tag="LOC_WORKERS_COMMIT_TITLE">
-			<Text>Commit Specialists?</Text>
+			<Text>Застосувати Спеціалістів?</Text>
 		</Row>
 		<Row Tag="LOC_WORKERS_CONFIRM_LEAVE_BODY">
-			<Text>Are you sure you want to leave Specialist placement? Your changes will be lost.</Text>
+			<Text>Ви впевнені, що хочете залишити розміщення Спеціалістів? Ваші зміни будуть втрачені.</Text>
 		</Row>
 		<Row Tag="LOC_WORKERS_CONFIRM_LEAVE_TITLE">
-			<Text>Leave Specialist Placement?</Text>
+			<Text>Залишити розміщення Спеціалістів?</Text>
 		</Row>
 	</EnglishText>
 </Database>

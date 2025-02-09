@@ -3,452 +3,452 @@
 	<EnglishText>
 		<!-- Hall of Fame auxiliary snippets -->
 		<Row Tag="LOC_HOF_AUX_CIV_PLAYED_ZERO">
-			<Text>You have not played this Civilization.</Text>
+			<Text>Ви не грали за цю цивілізацію.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_AUX_LEADER_PLAYED_ZERO">
-			<Text>You have not played this Leader.</Text>
+			<Text>Ви не грали за цього лідера.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_AUX_CIV_PLAYED_COUNT">
-			<Text>You've played this Civilization {1_Amount: plural 1?{1_Amount} time;other?{1_Amount} times;}.</Text>
+			<Text>Ви грали за цю цивілізацію {1_Amount: plural 1?{1_Amount} раз;other?{1_Amount} рази;}.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_AUX_LEADER_PLAYED_COUNT">
-			<Text>You've played this Leader {1_Amount: plural 1?{1_Amount} time;other?{1_Amount} times;}.</Text>
+			<Text>Ви грали за цього лідера {1_Amount: plural 1?{1_Amount} раз;other?{1_Amount} рази;}.</Text>
 		</Row>
 
 
 		<!-- Hall of Fame UI -->
 		<Row Tag="LOC_HOF_TITLE">
-			<Text>Hall of Fame</Text>
+			<Text>Зала слави</Text>
 		</Row>
 		<Row Tag="LOC_HOF_OVERVIEW">
-			<Text>Overview</Text>
+			<Text>Огляд</Text>
 		</Row>
 		<Row Tag="LOC_HOF_HISTORY">
-			<Text>History</Text>
+			<Text>Історія</Text>
 		</Row>
 		<Row Tag="LOC_HOF_MAP">
-			<Text>Map</Text>
+			<Text>Карта</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPHS">
-			<Text>Graphs</Text>
+			<Text>Графіки</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS">
-			<Text>Reports</Text>
+			<Text>Звіти</Text>
 		</Row>
 		<Row Tag="LOC_HOF_VICTORY">
-			<Text>VICTORY!</Text>
+			<Text>ПЕРЕМОГА!</Text>
 		</Row>
 		<Row Tag="LOC_HOF_DEFEAT">
-			<Text>[COLOR_RED]DEFEAT[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]ПОРАЗКА[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_HOF_YOU">
-			<Text>You</Text>
+			<Text>Ви</Text>
 		</Row>
 		<Row Tag="LOC_HOF_NOBODY_WON">
-			<Text>Nobody Won</Text>
+			<Text>Ніхто не переміг</Text>
 		</Row>
 		<Row Tag="LOC_HOF_TURNS">
-			<Text>[ICON_TURN] {1_Turns} turns</Text>
+			<Text>[ICON_TURN] {1_Turns} ходів</Text>
 		</Row>
 		<Row Tag="LOC_HOF_ERA_STARTED">
-			<Text>Started in {1_EraName}</Text>
+			<Text>Почато в {1_EraName}</Text>
 		</Row>
 		<Row Tag="LOC_HOF_LAST_PLAYED">
-			<Text>Last Played {1_Time: datetime short}</Text>
+			<Text>Остання гра {1_Time: datetime short}</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CONTEXT">
 			<Text>{1_PlayerName}</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CONTEXT_GLOBAL">
-			<Text>Overall</Text>
+			<Text>Загалом</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CONTEXT_LOCAL">
-			<Text>{1_PlayerName} (You)</Text>
+			<Text>{1_PlayerName} (Ви)</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CONTEXT_LOCAL_WINNER">
-			<Text>{1_PlayerName} (You - Winner)</Text>
+			<Text>{1_PlayerName} (Ви - Переможець)</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CONTEXT_WINNER">
-			<Text>{1_PlayerName} (Winner)</Text>
+			<Text>{1_PlayerName} (Переможець)</Text>
 		</Row>
 		<Row Tag="LOC_HOF_VICTORYPROGRESS_COUNT">
-			<Text>Achieved {1_Count} times.</Text>
+			<Text>Досягнуто {1_Count} разів.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_VICTORYPROGRESS_LEADER">
-			<Text>Most recently achieved as {1_LeaderName}.</Text>
+			<Text>Останній раз досягнуто як {1_LeaderName}.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_LEADERPROGRESS_PLAYCOUNT">
-			<Text>Played {1_Num} games.</Text>
+			<Text>Зіграно {1_Num} ігор.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_LEADERPROGRESS_WINCOUNT">
-			<Text>Won {1_NumVictories} out of {2_NumPlayed} games.</Text>
+			<Text>Переможено в {1_NumVictories} з {2_NumPlayed} ігор.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_LEADERPROGRESS_VICTORY">
-			<Text>Most recently won a {1_Victory}.</Text>
+			<Text>Остання перемога {1_Victory}.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_UNKNOWN">
-			<Text>Unknown</Text>
+			<Text>Невідомо</Text>
 		</Row>
 		<Row Tag="LOC_HOF_HIGHLIGHTS">
-			<Text>Highlights</Text>
+			<Text>Основні моменти</Text>
 		</Row>
 		<Row Tag="LOC_HOF_PLAYERS">
-			<Text>Players</Text>
+			<Text>Гравці</Text>
 		</Row>
 		<Row Tag="LOC_HOF_VICTORYPROGRESS">
-			<Text>Victory Progress</Text>
+			<Text>Прогрес перемоги</Text>
 		</Row>
 		<Row Tag="LOC_HOF_LEADERPROGRESS">
-			<Text>Leader Progress</Text>
+			<Text>Прогрес лідера</Text>
 		</Row>
 		<Row Tag="LOC_HOF_HISTORY_SCORE">
-			<Text>Score</Text>
+			<Text>Рахунок</Text>
 		</Row>
 		<Row Tag="LOC_HOF_HISTORY_YOU">
-			<Text>You</Text>
+			<Text>Ви</Text>
 		</Row>
 		<Row Tag="LOC_HOF_HISTORY_RESULTS">
-			<Text>Results</Text>
+			<Text>Результати</Text>
 		</Row>
 		<Row Tag="LOC_HOF_HISTORY_VICTORY">
-			<Text>Victory</Text>
+			<Text>Перемога</Text>
 		</Row>
 		<Row Tag="LOC_HOF_HISTORY_SETTINGS">
-			<Text>Settings</Text>
+			<Text>Налаштування</Text>
 		</Row>
 
 		<Row Tag="LOC_HOF_VIEWDETAILS">
-			<Text>Game Details</Text>
+			<Text>Деталі гри</Text>
 		</Row>
 		<Row Tag="LOC_HOF_DELETE_GAME">
-			<Text>Delete Game</Text>
+			<Text>Видалити гру</Text>
 		</Row>
 		<Row Tag="LOC_HOF_DELETE_GAME_PROMPT">
-			<Text>Are you sure you wish to delete this game?</Text>
+			<Text>Ви впевнені, що хочете видалити цю гру?</Text>
 		</Row>
 		<Row Tag="LOC_HOF_DELETE_GAME_TOOLTIP">
-			<Text>This will remove the game from the Hall of Fame and will adjust any relevent statistics and leader/victory progress.</Text>
+			<Text>Це видалить гру з Зали слави та скоригує відповідну статистику та прогрес лідера/перемоги.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_NOREPORTDATA">
-			<Text>No Report Data</Text>
+			<Text>Немає даних звіту</Text>
 		</Row>
 		<Row Tag="LOC_HOF_NOGRAPHDATA">
-			<Text>No Graph Data</Text>
+			<Text>Немає даних графіка</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CATEGORY_GENERAL">
-			<Text>General</Text>
+			<Text>Загальні</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CATEGORY_COMBAT">
-			<Text>Combat</Text>
+			<Text>Бойові</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CATEGORY_PROSPERITY">
-			<Text>Prosperity</Text>
+			<Text>Процвітання</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CATEGORY_DIPLOMACY">
-			<Text>Diplomacy</Text>
+			<Text>Дипломатія</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CATEGORY_DISCOVERY">
-			<Text>Discovery</Text>
+			<Text>Відкриття</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CATEGORY_RELIGION">
-			<Text>Religion</Text>
+			<Text>Релігія</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CATEGORY_EXTRA">
-			<Text>Extra</Text>
+			<Text>Додатково</Text>
 		</Row>
 		<Row Tag="LOC_HOF_CATEGORY_ENABLED_GAMEMODES">
-			<Text>Enabled Game Modes</Text>
+			<Text>Увімкнені режими гри</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_BUILDINGS">
-			<Text>City Buildings</Text>
+			<Text>Будівлі міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_CULTURE">
-			<Text>City Culture</Text>
+			<Text>Культура міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_DISTRICTS">
-			<Text>City Districts</Text>
+			<Text>Райони міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_FAITH">
-			<Text>City Faith</Text>
+			<Text>Віра міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_FOOD">
-			<Text>City Food</Text>
+			<Text>Їжа міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_GOLD">
-			<Text>City Gold</Text>
+			<Text>Золото міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_POPULATION">
-			<Text>City Population</Text>
+			<Text>Населення міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_PRODUCTION">
-			<Text>City Production</Text>
+			<Text>Виробництво міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_SCIENCE">
-			<Text>City Science</Text>
+			<Text>Наука міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_TOURISM">
-			<Text>City Tourism</Text>
+			<Text>Туризм міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_CITY_WONDERS">
-			<Text>City Wonders</Text>
+			<Text>Чудеса міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_BUILDINGS">
-			<Text>Buildings Constructed</Text>
+			<Text>Побудовані будівлі</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_CAPTURED">
-			<Text>Cities Captured</Text>
+			<Text>Захоплені міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_FOUNDED">
-			<Text>Cities Founded</Text>
+			<Text>Засновані міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_LOST">
-			<Text>Cities Lost</Text>
+			<Text>Втрачені міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_CIVICS">
-			<Text>Civics Acquired</Text>
+			<Text>Отримані цивіки</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_COMBATS">
-			<Text>Number of Combats</Text>
+			<Text>Кількість боїв</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_CULTURE">
-			<Text>Player Culture</Text>
+			<Text>Культура гравця</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_DISTRICTS">
-			<Text>Districts Constructed</Text>
+			<Text>Побудовані райони</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_FAITH">
-			<Text>Player Faith</Text>
+			<Text>Віра гравця</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_GOLD">
-			<Text>Player Gold</Text>
+			<Text>Золото гравця</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_GREAT_PEOPLE">
-			<Text>Great People Earned</Text>
+			<Text>Отримані великі люди</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_NATURAL_WONDERS">
-			<Text>Natural Wonders Discovered</Text>
+			<Text>Відкриті природні чудеса</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_NUKES">
-			<Text>Nukes Launched</Text>
+			<Text>Запущені ядерні ракети</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_SCIENCE">
-			<Text>Player Science</Text>
+			<Text>Наука гравця</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_SCORE">
-			<Text>Player Score</Text>
+			<Text>Рахунок гравця</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_TECHS">
-			<Text>Technologies Acquired</Text>
+			<Text>Отримані технології</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_UNITS_KILLED">
-			<Text>Units Killed</Text>
+			<Text>Знищені одиниці</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_UNITS_LOST">
-			<Text>Units Lost</Text>
+			<Text>Втрачено одиниць</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_WARS_DECLARED">
-			<Text>Wars Declared</Text>
+			<Text>Оголошено війн</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_WARS_RECEIVED">
-			<Text>War Declarations Received</Text>
+			<Text>Отримано оголошень війни</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_WONDERS">
-			<Text>Wonders Constructed</Text>
+			<Text>Побудовані чудеса</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_RELIGION_BELIEFS">
-			<Text>Religious Beliefs</Text>
+			<Text>Релігійні вірування</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_RELIGION_CITIES">
-			<Text>Religious Cities</Text>
+			<Text>Релігійні міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_RELIGION_FOLLOWERS">
-			<Text>Religious Followers</Text>
+			<Text>Релігійні послідовники</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS">
-			<Text>City Status</Text>
+			<Text>Статус міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Будівлі</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_DISTRICTS">
-			<Text>Districts</Text>
+			<Text>Райони</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_INITIAL_COLUMN">
-			<Text>City</Text>
+			<Text>Місто</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_POPULATION">
-			<Text>Population</Text>
+			<Text>Населення</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_TURN_FOUNDED">
-			<Text>Turn Founded</Text>
+			<Text>Хід заснування</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_WONDERS">
-			<Text>Wonders</Text>
+			<Text>Чудеса</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS">
-			<Text>City Yields</Text>
+			<Text>Доходи міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_CULTURE">
-			<Text>Culture</Text>
+			<Text>Культура</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_FAITH">
-			<Text>Faith</Text>
+			<Text>Віра</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_FOOD">
-			<Text>Food</Text>
+			<Text>Їжа</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_GOLD">
-			<Text>Gold</Text>
+			<Text>Золото</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_INITIAL_COLUMN">
-			<Text>City</Text>
+			<Text>Місто</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_PRODUCTION">
-			<Text>Production</Text>
+			<Text>Виробництво</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_SCIENCE">
-			<Text>Science</Text>
+			<Text>Наука</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_TOURISM">
-			<Text>Tourism</Text>
+			<Text>Туризм</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS">
-			<Text>Governments</Text>
+			<Text>Уряди</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS_INITIAL_COLUMN">
-			<Text>Government</Text>
+			<Text>Уряд</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS_TURNS_ACTIVE">
-			<Text>Turns Active</Text>
+			<Text>Ходи активності</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_RELIGIONS">
-			<Text>Religions</Text>
+			<Text>Релігії</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_BELIEFS">
-			<Text>Beliefs</Text>
+			<Text>Вірування</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_CITIES">
-			<Text>Cities</Text>
+			<Text>Міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_FOLLOWERS">
-			<Text>Followers</Text>
+			<Text>Послідовники</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_FOUNDER">
-			<Text>Founder</Text>
+			<Text>Засновник</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_HOLY_CITY">
-			<Text>Holy City</Text>
+			<Text>Святе місто</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_INITIAL_COLUMN">
-			<Text>Religion</Text>
+			<Text>Релігія</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_TURN_FOUNDED">
-			<Text>Turn Founded</Text>
+			<Text>Хід заснування</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_UNITS">
-			<Text>Units</Text>
+			<Text>Одиниці</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_UNITS_INITIAL_COLUMN">
-			<Text>Unit</Text>
+			<Text>Одиниця</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_UNITS_KILLS">
-			<Text>Kills</Text>
+			<Text>Знищено</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_UNITS_LOST">
-			<Text>Lost</Text>
+			<Text>Втрачено</Text>
 		</Row>
 		<Row Tag="LOC_HOF_REPORTS_UNITS_TRAINED">
-			<Text>Trained</Text>
+			<Text>Навчено</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_CITIES_CAPTURED">
-			<Text>Cities Conquered</Text>
+			<Text>Захоплені міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_CITIES_FOUNDED">
-			<Text>Cities Founded</Text>
+			<Text>Засновані міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_CITIES_LOST">
-			<Text>Cities Lost</Text>
+			<Text>Втрачені міста</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_CIVICS">
-			<Text>Civics Acquired</Text>
+			<Text>Отримані цивіки</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_CIVIC_BOOSTS">
-			<Text>Civics Boosted</Text>
+			<Text>Підвищені цивіки</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_COMBATS">
-			<Text>Battles Fought</Text>
+			<Text>Бої</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_FAVORITE_GOVERNMENT">
-			<Text>Favorite Government</Text>
+			<Text>Улюблений уряд</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_FAVORITE_GOVERNMENT_ANNOTATION">
-			<Text>Active for a combined {Amount: plural 1?{Amount} turn;other?{Amount} turns;}.</Text>
+			<Text>Активний протягом {Amount: plural 1?{Amount} хід;other?{Amount} ходів;}.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_FAVORITE_UNIT">
-			<Text>Favorite Unit</Text>
+			<Text>Улюблена одиниця</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_FAVORITE_UNIT_ANNOTATION">
-			<Text>{Amount: plural 1?{Amount} unit;other?{Amount} units;} trained</Text>
+			<Text>{Amount: plural 1?{Amount} одиниця;other?{Amount} одиниць;} навчено</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_GOVERNMENT">
-			<Text>Government</Text>
+			<Text>Уряд</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_GREAT_PEOPLE">
-			<Text>Great People Earned</Text>
+			<Text>Отримані великі люди</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_LARGEST_CITY">
-			<Text>Largest City</Text>
+			<Text>Найбільше місто</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_LARGEST_CITY_ANNOTATION">
-			<Text>{Amount: plural 1?{Amount} citizen;other?{Amount} citizens;}</Text>
+			<Text>{Amount: plural 1?{Amount} житель;other?{Amount} жителів;}</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_NATURAL_WONDERS">
-			<Text>Natural Wonders Discovered</Text>
+			<Text>Відкриті природні чудеса</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_NUKES">
-			<Text>Nuclear Missile Launches</Text>
+			<Text>Запущені ядерні ракети</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_POPULAR_RELIGION">
-			<Text>Most Followed Religion</Text>
+			<Text>Найпопулярніша релігія</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_POPULAR_RELIGION_ANNOTATION">
-			<Text>{Amount: plural 1?{Amount} follower;other?{Amount} followers;}.</Text>
+			<Text>{Amount: plural 1?{Amount} послідовник;other?{Amount} послідовників;}.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_RELGIONS_FOUNDED">
-			<Text>Religions Founded</Text>
+			<Text>Засновані релігії</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_STRONGEST_UNIT">
-			<Text>Strongest Unit</Text>
+			<Text>Найсильніша одиниця</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_STRONGEST_UNIT_ANNOTATION">
-			<Text>Killed {Amount: plural 1?{Amount} unit;other?{Amount} units;}.</Text>
+			<Text>Знищено {Amount: plural 1?{Amount} одиниця;other?{Amount} одиниць;}.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_TECHS">
-			<Text>Techs Acquired</Text>
+			<Text>Отримані технології</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_UNITS_KILLED">
-			<Text>Units Killed</Text>
+			<Text>Знищені одиниці</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_UNITS_LOST">
-			<Text>Units Lost</Text>
+			<Text>Втрачено одиниць</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_UNITS_TRAINED">
-			<Text>Units Trained</Text>
+			<Text>Навчено одиниць</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_WARS_DECLARED">
-			<Text>Wars Declared</Text>
+			<Text>Оголошено війн</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_WARS_RECEIVED">
-			<Text>Wars Received</Text>
+			<Text>Отримано оголошень війни</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_WEAKEST_UNIT">
-			<Text>Weakest Unit</Text>
+			<Text>Найслабша одиниця</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_WEAKEST_UNIT_ANNOTATION">
-			<Text>{Amount: plural 1?{Amount} unit;other?{Amount} units;} lost.</Text>
+			<Text>{Amount: plural 1?{Amount} одиниця;other?{Amount} одиниць;} втрачено.</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_WONDERS">
-			<Text>Wonders Built</Text>
+			<Text>Побудовані чудеса</Text>
 		</Row>
 	</EnglishText>
 </Database>

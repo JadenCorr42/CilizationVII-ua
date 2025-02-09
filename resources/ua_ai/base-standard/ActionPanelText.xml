@@ -2,46 +2,46 @@
 <Database>
     <EnglishText>
         <Row Tag="LOC_ACTION_PANEL_TAKE_THE_NEXT_ACTION">
-            <Text>Take the Next Action</Text>
+            <Text>Зробіть наступну дію</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_PLEASE_WAIT">
-            <Text>Please Wait...</Text>
+            <Text>Будь ласка, зачекайте...</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_WAITING_FOR_PLAYERS">
-            <Text>Waiting for Players</Text>
+            <Text>Очікування гравців</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_WAITING_FOR_PLAYERS_TT">
-            <Text>The game is waiting for the following players to take their turn...</Text>
+            <Text>Гра очікує, поки наступні гравці зроблять свій хід...</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_NEXT_TURN">
-            <Text>Next Turn</Text>
+            <Text>Наступний хід</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_AUTO_PLAYING">
-            <Text>Auto Playing...</Text>
+            <Text>Автоматична гра...</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_CURRENT_AGE_PROGRESS">
-            <Text>Age Progress: {2_AgeProgress}. The {1_Age} Age will end at {3_MaxAgeProgress} Age Progress.</Text>
+            <Text>Прогрес віку: {2_AgeProgress}. {1_Age} вік закінчиться при {3_MaxAgeProgress} прогресу віку.</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_CURRENT_TURN">
-            <Text>Turn: {1_TurnNumber}</Text>
+            <Text>Хід: {1_TurnNumber}</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_CURRENT_TURN_OVER_MAX_TURNS">
-            <Text>Turn: {1_TurnNumber}/{2_MaxTurns}</Text>
+            <Text>Хід: {1_TurnNumber}/{2_MaxTurns}</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_UNIT_MOVES_REMAINING">
-            <Text>Unit Has Moves</Text>
+            <Text>Юніт має ходи</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_UNIT_MOVES_REMAINING_TT">
-            <Text>A unit has moves remaining.</Text>
+            <Text>Юніт має залишкові ходи.</Text>
         </Row>
         <Row Tag="LOC_ACTION_PANEL_LAST_PLAYER_MESSAGE">
-            <Text>The game is waiting for you.</Text>
+            <Text>Гра очікує на вас.</Text>
         </Row>
 		<Row Tag="LOC_ACTION_PANEL_TIME_AMPM_AM">
-			<Text>{1_Hours}:{2_Minutes} AM</Text>
+			<Text>{1_Hours}:{2_Minutes} ДП</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_TIME_AMPM_PM">
-			<Text>{1_Hours}:{2_Minutes} PM</Text>
+			<Text>{1_Hours}:{2_Minutes} ПП</Text>
 		</Row>
     </EnglishText>
 </Database>

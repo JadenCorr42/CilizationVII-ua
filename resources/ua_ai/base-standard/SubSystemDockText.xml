@@ -2,22 +2,22 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_SUB_SYSTEM_TECH_NO_RESEARCH">
-			<Text>You are not currently researching any Techs.</Text>
+			<Text>Ви наразі не досліджуєте жодних технологій.</Text>
 		</Row>
 		<Row Tag="LOC_SUB_SYSTEM_TECH_CURRENT_RESEARCH">
-			<Text>Currently researching {1_techName} [N]{2_Turns} {2_Turns: plural 1?turn; other?turns;} until researching is complete.</Text>
+			<Text>Наразі досліджується {1_techName} [N]{2_Turns} {2_Turns: plural 1?хід; other?ходів;} до завершення дослідження.</Text>
 		</Row>
 		<Row Tag="LOC_SUB_SYSTEM_CULTURE_NO_RESEARCH">
-			<Text>You are not currently studying any Civics.</Text>
+			<Text>Ви наразі не вивчаєте жодних цивік.</Text>
 		</Row>
 		<Row Tag="LOC_SUB_SYSTEM_CULTURE_CURRENT_RESEARCH">
-			<Text>Currently studying {1_civicName} [N]{2_Turns} {2_Turns: plural 1?turn; other?turns;} until studying is complete.</Text>
+			<Text>Наразі вивчається {1_civicName} [N]{2_Turns} {2_Turns: plural 1?хід; other?ходів;} до завершення вивчення.</Text>
 		</Row>
 		<Row Tag="LOC_SUB_SYSTEM_TRADITIONS_TURNS_UNTIL_CELEBRATION_START">
-			<Text>View Your Social Policies[n]{1_turns} {1_turns: plural 1?turn; other?turns;} until the next Celebration.</Text>
+			<Text>Перегляньте свої соціальні політики[n]{1_turns} {1_turns: plural 1?хід; other?ходів;} до початку наступного святкування.</Text>
 		</Row>
 		<Row Tag="LOC_SUB_SYSTEM_TRADITIONS_TURNS_UNTIL_CELEBRATION_END">
-			<Text>View Your Social Policies[n]{1_turns} {1_turns: plural 1?turn; other?turns;} until the Celebration ends.</Text>
+			<Text>Перегляньте свої соціальні політики[n]{1_turns} {1_turns: plural 1?хід; other?ходів;} до завершення святкування.</Text>
 		</Row>
 	</EnglishText>
 </Database>

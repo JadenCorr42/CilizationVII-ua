@@ -4,89 +4,89 @@
 	<EnglishText>
 		<!--Watch Out Moments-->
 		<Row Tag="LOC_WARNING_UNDEFENDED_CITY_THREATENED_MESSAGE">
-			<Text>Our settlement of {1_City} stands unguarded in these dangerous times — but not unnoticed. The forces of the {2_CivName} approach, and we must bare our fangs to protect the citizens. Send military units to this urban center immediately. </Text>
+			<Text>Наше поселення {1_City} стоїть беззахисним у ці небезпечні часи — але не непоміченим. Сили {2_CivName} наближаються, і ми повинні оголити ікла, щоб захистити громадян. Негайно відправте військові підрозділи до цього міського центру.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_UNDEFENDED_CITY_THREATENED_SUMMARY">
-			<Text>Defenseless Settlement</Text>
+			<Text>Беззахисне поселення</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_DEFENDED_CITY_THREATENED_MESSAGE">
-			<Text>The enemy approaches our settlement of {1_City}, bearing the banners of the {2_CivName}. The garrison will defend our people to the end, but they are greatly outnumbered. Send reinforcements to swell their ranks.</Text>
+			<Text>Ворог наближається до нашого поселення {1_City}, несучи прапори {2_CivName}. Гарнізон захищатиме наших людей до кінця, але їх значно більше. Відправте підкріплення, щоб збільшити їхні ряди.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_DEFENDED_CITY_THREATENED_SUMMARY">
-			<Text>Settlement Under Threat</Text>
+			<Text>Поселення під загрозою</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_LOSING_INDEPENDENT_MESSAGE">
-			<Text>The rulers of {2_IndependentName} are being swayed more and more by {1_LeaderName}. If we do not spend more Influence there, they will become a City-State under the suzerainty of our rivals!</Text>
+			<Text>Правителі {2_IndependentName} все більше схиляються до {1_LeaderName}. Якщо ми не витратимо більше Впливу там, вони стануть містом-державою під сюзеренітетом наших суперників!</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_LOSING_INDEPENDENT_SUMMARY">
-			<Text>Independent Being Lured Away</Text>
+			<Text>Незалежний відводиться</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_OVER_SETTLEMENT_CAP_MESSAGE">
-			<Text>There is only so much administration one can assemble, and too many places for it to go. With our new Settlement, we have exceeded our Settlement Cap. Perhaps researching some new Civics might help.</Text>
+			<Text>Адміністрації можна зібрати лише стільки, і занадто багато місць, куди вона може піти. З нашим новим Поселенням ми перевищили нашу межу поселень. Можливо, дослідження нових Цивіксів може допомогти.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_OVER_SETTLEMENT_CAP_SUMMARY">
-			<Text>Over Settlement Cap</Text>
+			<Text>Перевищення межі поселення</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_TRAILING_2_TECHS_MESSAGE">
-			<Text>Rumors abound that {1_CivAdjective} Technology is decades ahead of the rest of the world's. If we are to remain relevant in the scientific community, we must find a way to increase our own Science output.</Text>
+			<Text>Чутки ходять, що {1_CivAdjective} Технологія на десятиліття випереджає решту світу. Якщо ми хочемо залишатися актуальними в науковій спільноті, ми повинні знайти спосіб збільшити власний науковий потенціал.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_TRAILING_2_TECHS_SUMMARY">
-			<Text>Trailing in Technology</Text>
+			<Text>Відставання в технологіях</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_TRAILING_2_CIVICS_MESSAGE">
-			<Text>"What is the latest style in {1_CivName}?" It is a question I hear daily. They appear to be ahead of us by several Civics, and people are starting to take notice. Perhaps some more Culture output is in order?</Text>
+			<Text>"Який останній стиль у {1_CivName}?" Це питання я чую щодня. Вони, здається, випереджають нас на кілька Цивіксів, і люди починають це помічати. Можливо, варто збільшити вихід культури?</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_TRAILING_2_CIVICS_SUMMARY">
-			<Text>Trailing in Civics</Text>
+			<Text>Відставання в цивіках</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_NEGATIVE_GPT_MESSAGE">
-			<Text>A well-run economy sails like a well-hulled ship. Ours is leaking Gold. To keep from sinking entirely, we must construct buildings that provide Gold, reduce our military, construct Towns in productive areas, or sign Open Markets deals with our neighbors.</Text>
+			<Text>Добре керована економіка пливе, як добре обшитий корабель. Наш витікає золото. Щоб не потонути повністю, ми повинні будувати будівлі, які приносять золото, скорочувати нашу армію, будувати міста в продуктивних районах або підписувати угоди про відкриті ринки з нашими сусідами.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_NEGATIVE_GPT_SUMMARY">
-			<Text>Negative Gold Per Turn</Text>
+			<Text>Негативне золото за хід</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_SURPLUS_INFLUENCE_MESSAGE">
-			<Text>Influence is squandered when hoarded. Its value lies in how it is traded. We should use our unspent Influence to strengthen Alliances and boost our trade yields!</Text>
+			<Text>Вплив марнується, коли його накопичують. Його цінність полягає в тому, як його обмінюють. Ми повинні використовувати наш невитрачений Вплив для зміцнення Альянсів і підвищення наших торгових доходів!</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_SURPLUS_INFLUENCE_SUMMARY">
-			<Text>Surplus Influence</Text>
+			<Text>Надлишок впливу</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_SURPLUS_PROMOTIONS_MESSAGE">
-			<Text>One of our great Commanders is a hero to soldiers and civilians alike. Their battlefield ingenuity has earned them several promotions, but these have yet to be awarded. It is time they receive their rightful honors.</Text>
+			<Text>Один з наших великих командирів є героєм як для солдатів, так і для цивільних. Їхня винахідливість на полі бою принесла їм кілька підвищень, але ці підвищення ще не були присвоєні. Настав час, щоб вони отримали свої заслужені почесті.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_SURPLUS_PROMOTIONS_SUMMARY">
-			<Text>Promotions to Award</Text>
+			<Text>Підвищення для присвоєння</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_TRADE_OPPORTUNITY_MESSAGE">
-			<Text>{2_City}, part of the {3_CivName}, is overflowing with valuable commodities and {1_Amount} resources. Thriving markets are a sign of thriving societies. To strengthen our own, we should dispatch a merchant to negotiate a trade agreement.</Text>
+			<Text>{2_City}, частина {3_CivName}, переповнена цінними товарами та {1_Amount} ресурсами. Процвітаючі ринки є ознакою процвітаючих суспільств. Щоб зміцнити наше власне, ми повинні відправити купця для укладення торгової угоди.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_TRADE_OPPORTUNITY_SUMMARY">
-			<Text>Trade Opportunity</Text>
+			<Text>Торгова можливість</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_LOW_HAPPINESS_MESSAGE">
-			<Text>{1_City} is brimming with discontent, and productivity is flagging. We should assign Happiness resources, station a Commander in the settlement, or invest in Happiness infrastructure here. With trust and confidence in your rule, Gold will flow once more.</Text>
+			<Text>{1_City} переповнене невдоволенням, і продуктивність падає. Ми повинні призначити ресурси для Щастя, розмістити командира в поселенні або інвестувати в інфраструктуру Щастя тут. З довірою та впевненістю у вашому правлінні золото знову потече.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_LOW_HAPPINESS_SUMMARY">
-			<Text>Low Happiness</Text>
+			<Text>Низький рівень щастя</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_ALLIANCE_WEAKENING_MESSAGE">
-			<Text>The bond between us and {1_LeaderName} is beginning to fray. If relations become Neutral, this Alliance will cease. We should strengthen our ties through a joint Diplomatic Endeavor.</Text>
+			<Text>Зв'язок між нами та {1_LeaderName} починає слабшати. Якщо відносини стануть нейтральними, цей Альянс припиниться. Ми повинні зміцнити наші зв'язки через спільне дипломатичне зусилля.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_ALLIANCE_WEAKENING_SUMMARY">
-			<Text>Alliance Weakening</Text>
+			<Text>Альянс слабшає</Text>
 		</Row>
 		<!--  If you change this then check LOC_WAR_TOOLTIP_RECEIVING_WAR_WEARINESS in DiplomacyText.xml to see if it needs to be updated as well.  -->
 		<Row Tag="LOC_WARNING_WAR_WEARINESS_MESSAGE">
-			<Text>Our war efforts falter as {1_playerName}'s support in this conflict grows. At home, our people suffer a penalty to [icon:YIELD_HAPPINESS]Happiness in our settlements. At the front, our soldiers endure a combat penalty when fighting {1_playerName}'s units. Let us spend [icon:YIELD_DIPLOMACY]Influence to increase support for our cause to reduce these negative effects.</Text>
+			<Text>Наші військові зусилля слабшають, оскільки підтримка {1_playerName} у цьому конфлікті зростає. Вдома наші люди страждають від штрафу до [icon:YIELD_HAPPINESS]Щастя в наших поселеннях. На фронті наші солдати зазнають бойового штрафу при боротьбі з підрозділами {1_playerName}. Давайте витратимо [icon:YIELD_DIPLOMACY]Вплив, щоб збільшити підтримку нашої справи та зменшити ці негативні наслідки.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_WAR_WEARINESS_SUMMARY">
-			<Text>Suffering War Weariness</Text>
+			<Text>Страждаємо від військової втоми</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_REVOLT_MESSAGE">
-			<Text>The settlement of {2_CityName} is on the brink of Revolt. If they remain Unhappy for {1_Duration} turns, they may Revolt. We should assign Happiness resources, station a Commander in the settlement, or invest in Happiness infrastructure here immediately.</Text>
+			<Text>Поселення {2_CityName} на межі повстання. Якщо вони залишаться незадоволеними протягом {1_Duration} ходів, вони можуть повстати. Ми повинні призначити ресурси для Щастя, розмістити командира в поселенні або інвестувати в інфраструктуру Щастя тут негайно.</Text>
 		</Row>
 		<Row Tag="LOC_WARNING_REVOLT_SUMMARY">
-			<Text>Settlement Revolt</Text>
+			<Text>Повстання поселення</Text>
 		</Row>
 	</EnglishText>
 </Database>

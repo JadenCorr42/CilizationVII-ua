@@ -3,450 +3,450 @@
 	<EnglishText>
 		<!--UI-->
 		<Row Tag="LOC_UNITNAME_BASE_TEMPLATE">
-			<Text>{1_Prefix} {2_Suffix}</Text>
+			<Text>{1\_Prefix} {2\_Suffix}</Text>
 		</Row>
 		<!--Prefixes-->
 		<Row Tag="LOC_ARMYNAME_PREFIX_1ST">
-			<Text>The 1st</Text>
+			<Text>1-й</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_2ND">
-			<Text>The 2nd</Text>
+			<Text>2-й</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_3RD">
-			<Text>The 3rd</Text>
+			<Text>3-й</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_4TH">
-			<Text>The 4th</Text>
+			<Text>4-й</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_5TH">
-			<Text>The 5th</Text>
+			<Text>5-й</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_AIMED">
-			<Text>The Aimed</Text>
+			<Text>Прицільний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_ALPHA">
-			<Text>The Alpha</Text>
+			<Text>Альфа</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_ALPINE">
-			<Text>The Alpine</Text>
+			<Text>Альпійський</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_ANGEL">
-			<Text>The Angel</Text>
+			<Text>Ангел</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_ARMORED">
-			<Text>The Armored</Text>
+			<Text>Броньований</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_BLOOD">
-			<Text>The Blood</Text>
+			<Text>Кров</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_BLOODY">
-			<Text>The Bloody</Text>
+			<Text>Кривавий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_BRAVE">
-			<Text>The Brave</Text>
+			<Text>Хоробрий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_BULL">
-			<Text>The Bull</Text>
+			<Text>Бик</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_CELESTIAL">
-			<Text>The Celestial</Text>
+			<Text>Небесний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_CRAZY">
-			<Text>The Crazy</Text>
+			<Text>Божевільний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_DEAD_CENTER">
-			<Text>The Center</Text>
+			<Text>Центр</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_DEADLY">
-			<Text>The Deadly</Text>
+			<Text>Смертельний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_DEATHS">
-			<Text>The Death's</Text>
+			<Text>Смерті</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_DELTA">
-			<Text>The Delta</Text>
+			<Text>Дельта</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_DIRTY">
-			<Text>The Dirty</Text>
+			<Text>Брудний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_DRAGON">
-			<Text>The Dragon</Text>
+			<Text>Дракон</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_DRAWN">
-			<Text>The Drawn</Text>
+			<Text>Намальований</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_ELITE">
-			<Text>The Elite</Text>
+			<Text>Елітний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_FIGHTING">
-			<Text>The Fighting</Text>
+			<Text>Бойовий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_FLYING">
-			<Text>The Flying</Text>
+			<Text>Літаючий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_GALLOPING">
-			<Text>The Galloping</Text>
+			<Text>Галопуючий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_GHOST">
-			<Text>The Ghost</Text>
+			<Text>Привид</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_GLORY">
-			<Text>The Glory</Text>
+			<Text>Слава</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_GOLDEN">
-			<Text>The Golden</Text>
+			<Text>Золотий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_GREAT">
-			<Text>The Great</Text>
+			<Text>Великий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_GRIM">
-			<Text>The Grim</Text>
+			<Text>Похмурий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_HADES">
-			<Text>The Hades</Text>
+			<Text>Аїд</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_HELLISH">
-			<Text>The Hellish</Text>
+			<Text>Пекельний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_HELLS">
-			<Text>The Hells</Text>
+			<Text>Пекла</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_HOLY">
-			<Text>The Holy</Text>
+			<Text>Святий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_INVINCIBLE">
-			<Text>The Invincible</Text>
+			<Text>Непереможний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_IRON">
-			<Text>The Iron</Text>
+			<Text>Залізний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_LAVA">
-			<Text>The Lava</Text>
+			<Text>Лава</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_LIGHT">
-			<Text>The Light</Text>
+			<Text>Світлий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_LIGHTNING">
-			<Text>The Lightning</Text>
+			<Text>Блискавка</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_LION">
-			<Text>The Lion</Text>
+			<Text>Лев</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_LONG">
-			<Text>The Long</Text>
+			<Text>Довгий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_MAGNIFICENT">
-			<Text>The Magnificent</Text>
+			<Text>Величний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_MOUNTAIN">
-			<Text>The Mountain</Text>
+			<Text>Гірський</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_MOUNTED">
-			<Text>The Mounted</Text>
+			<Text>Верховий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_NOMADIC">
-			<Text>The Nomadic</Text>
+			<Text>Кочовий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_OLD">
-			<Text>The Old</Text>
+			<Text>Старий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_ORPHAN">
-			<Text>The Orphan</Text>
+			<Text>Сирота</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_PARTISAN">
-			<Text>The Partisan</Text>
+			<Text>Партизан</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_RAGGED">
-			<Text>The Ragged</Text>
+			<Text>Обірваний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_RAINING">
-			<Text>The Raining</Text>
+			<Text>Дощовий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_REVOLUTIONARY">
-			<Text>The Revolutionary</Text>
+			<Text>Революційний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_RIVER">
-			<Text>The River</Text>
+			<Text>Річковий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_ROCK">
-			<Text>The Rock</Text>
+			<Text>Скеля</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_ROYAL">
-			<Text>The Royal</Text>
+			<Text>Королівський</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_SACRED">
-			<Text>The Sacred</Text>
+			<Text>Священний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_SALTY">
-			<Text>The Salty</Text>
+			<Text>Солоний</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_SCREAMING">
-			<Text>The Screaming</Text>
+			<Text>Кричущий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_SEA">
-			<Text>The Sea</Text>
+			<Text>Морський</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_SHARP">
-			<Text>The Sharp</Text>
+			<Text>Гострий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_SILENT">
-			<Text>The Silent</Text>
+			<Text>Тихий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_SOARING">
-			<Text>The Soaring</Text>
+			<Text>Паруючий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_STONE">
-			<Text>The Stone</Text>
+			<Text>Камінь</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_STONEWALL">
-			<Text>The Stonewall</Text>
+			<Text>Кам'яна стіна</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_STORM">
-			<Text>The Storm</Text>
+			<Text>Шторм</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_TALL">
-			<Text>The Tall</Text>
+			<Text>Високий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_TEN">
-			<Text>The Ten</Text>
+			<Text>Десятий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_TERRIBLE">
-			<Text>The Terrible</Text>
+			<Text>Жахливий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_THUNDERING">
-			<Text>The Thundering</Text>
+			<Text>Громовий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_TIMBER">
-			<Text>The Timber</Text>
+			<Text>Дерево</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_WALKING">
-			<Text>The Walking</Text>
+			<Text>Ходячий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_WAR">
-			<Text>The War</Text>
+			<Text>Війна</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_WHITE">
-			<Text>The White</Text>
+			<Text>Білий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_WILD">
-			<Text>The Wild</Text>
+			<Text>Дикий</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_PREFIX_WINDING">
-			<Text>The Winding</Text>
+			<Text>Звивистий</Text>
 		</Row>
 		<!--Suffixes-->
 		<Row Tag="LOC_ARMYNAME_SUFFIX_BANNER">
-			<Text>Banner</Text>
+			<Text>Прапор</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_BATTALION">
-			<Text>Battalion</Text>
+			<Text>Батальйон</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_BERETS">
-			<Text>Berets</Text>
+			<Text>Берети</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_BODYGUARDS">
-			<Text>Bodyguards</Text>
+			<Text>Охоронці</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_BOOTS">
-			<Text>Boots</Text>
+			<Text>Черевики</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_BRIGADE">
-			<Text>Brigade</Text>
+			<Text>Бригада</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_BROTHERS">
-			<Text>Brothers</Text>
+			<Text>Брати</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_BUTCHERS">
-			<Text>Butchers</Text>
+			<Text>М'ясники</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_CAPS">
-			<Text>Caps</Text>
+			<Text>Кепки</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_CHAMPIONS">
-			<Text>Champions</Text>
+			<Text>Чемпіони</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_CIRCUS">
-			<Text>Circus</Text>
+			<Text>Цирк</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_COMPANY">
-			<Text>Company</Text>
+			<Text>Компанія</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_COMRADES">
-			<Text>Comrades</Text>
+			<Text>Товариші</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_CROWS">
-			<Text>Crows</Text>
+			<Text>Ворони</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_DEAD">
-			<Text>Dead</Text>
+			<Text>Мертві</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_DEMONS">
-			<Text>Demons</Text>
+			<Text>Демони</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_DEVILS">
-			<Text>Devils</Text>
+			<Text>Дияволи</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_DOGS">
-			<Text>Dogs</Text>
+			<Text>Собаки</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_DOZEN">
-			<Text>Dozen</Text>
+			<Text>Дюжина</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_DRAGONS">
-			<Text>Dragons</Text>
+			<Text>Дракони</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_EAGLES">
-			<Text>Eagles</Text>
+			<Text>Орли</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_EXCELLERS">
-			<Text>Excellers</Text>
+			<Text>Відмінники</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_FORCE">
-			<Text>Force</Text>
+			<Text>Сила</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_FUSILIERS">
-			<Text>Fusiliers</Text>
+			<Text>Фузилери</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_GAMBLERS">
-			<Text>Gamblers</Text>
+			<Text>Гравці</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_GANG">
-			<Text>Gang</Text>
+			<Text>Банда</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_GARDE">
-			<Text>Garde</Text>
+			<Text>Гвардія</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_GIANTS">
-			<Text>Giants</Text>
+			<Text>Гіганти</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_GOONS">
-			<Text>Goons</Text>
+			<Text>Головорізи</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_GRENADIERS">
-			<Text>Grenadiers</Text>
+			<Text>Гренадери</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_GUARD">
-			<Text>Guard</Text>
+			<Text>Охорона</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_GUARDIANS">
-			<Text>Guardians</Text>
+			<Text>Захисники</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_HATS">
-			<Text>Hats</Text>
+			<Text>Капелюхи</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_HELMETS">
-			<Text>Helmets</Text>
+			<Text>Шоломи</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_HORDE">
-			<Text>Horde</Text>
+			<Text>Орда</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_HOUNDS">
-			<Text>Hounds</Text>
+			<Text>Гончі</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_HUNTERS">
-			<Text>Hunters</Text>
+			<Text>Мисливці</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_IMMORTALS">
-			<Text>Immortals</Text>
+			<Text>Безсмертні</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_INFANTRY">
-			<Text>Infantry</Text>
+			<Text>Піхота</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_IRONS">
-			<Text>Irons</Text>
+			<Text>Залізні</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_KILLERS">
-			<Text>Killers</Text>
+			<Text>Вбивці</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_KINGS">
-			<Text>Kings</Text>
+			<Text>Королі</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_LAMBS">
-			<Text>Lambs</Text>
+			<Text>Ягнята</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_LEGION">
-			<Text>Legion</Text>
+			<Text>Легіон</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_LIBERATORS">
-			<Text>Liberators</Text>
+			<Text>Визволителі</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_LINE">
-			<Text>Line</Text>
+			<Text>Лінія</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_LIONS">
-			<Text>Lions</Text>
+			<Text>Леви</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_MARTYRS">
-			<Text>Martyrs</Text>
+			<Text>Мученики</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_ONE">
-			<Text>Ones</Text>
+			<Text>Одиниці</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_PANTHERS">
-			<Text>Panthers</Text>
+			<Text>Пантери</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_PEACEMAKERS">
-			<Text>Peacemakers</Text>
+			<Text>Миротворці</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_PHANTOMS">
-			<Text>Phantoms</Text>
+			<Text>Фантоми</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_PROFESSIONALS">
-			<Text>Professionals</Text>
+			<Text>Професіонали</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_RAIDERS">
-			<Text>Raiders</Text>
+			<Text>Рейдери</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_RAMPAGERS">
-			<Text>Rampagers</Text>
+			<Text>Руйнівники</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_REGIMENT">
-			<Text>Regiment</Text>
+			<Text>Полк</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_RELIABLES">
-			<Text>Reliables</Text>
+			<Text>Надійні</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_SAINTS">
-			<Text>Saints</Text>
+			<Text>Святі</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_SEEKERS">
-			<Text>Seekers</Text>
+			<Text>Шукачі</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_SHIELDS">
-			<Text>Shields</Text>
+			<Text>Щити</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_SONS">
-			<Text>Sons</Text>
+			<Text>Сини</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_TIGERS">
-			<Text>Tigers</Text>
+			<Text>Тигри</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_TIMBERWOLVES">
-			<Text>Timberwolves</Text>
+			<Text>Тімберволфи</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_TOUGHS">
-			<Text>Toughs</Text>
+			<Text>Круті</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_TROOP">
-			<Text>Troop</Text>
+			<Text>Загін</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_VOLUNTEERS">
-			<Text>Volunteers</Text>
+			<Text>Добровольці</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_WARLORDS">
-			<Text>Warlords</Text>
+			<Text>Ватажки</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_WATCH">
-			<Text>Watch</Text>
+			<Text>Варта</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_WIDOWMAKERS">
-			<Text>Widowmakers</Text>
+			<Text>Вдоводіли</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_WOLFHOUNDS">
-			<Text>Wolfhounds</Text>
+			<Text>Вовкодави</Text>
 		</Row>
 		<Row Tag="LOC_ARMYNAME_SUFFIX_WOLVES">
-			<Text>Wolves</Text>
+			<Text>Вовки</Text>
 		</Row>
 	</EnglishText>
 </Database>

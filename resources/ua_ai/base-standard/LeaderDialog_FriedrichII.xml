@@ -3,33 +3,33 @@
 	<EnglishText>
 		<!-- Friedrich Main Menu Char Select Text-->
 		<Row Tag="LOC_MAIN_CHAR_SELECT_LEADER_FRIEDRICH_ANY">
-			<Text>We strive to do our duty, to serve our country faithfully at the expense of our blood and of our repose, to commit our whole being to it. </Text>
+			<Text>Ми прагнемо виконувати свій обов'язок, вірно служити своїй країні ціною нашої крові та нашого спокою, віддати їй всю свою сутність.</Text>
 		</Row>
 
 		<!--Friedrich Statement Text-->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_LEADER_FRIEDRICH_ANY">
-			<Text>Friedrich II, pleased to meet you. I am an angel in the salon, but a demon on the battlefield.</Text>
+			<Text>Фрідріх II, радий зустрічі. Я ангел у салоні, але демон на полі бою.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_RECIPIENT_LEADER_FRIEDRICH_ANY">
-			<Text>Friedrich II, pleased to meet you. I am an angel in the salon, but a demon on the battlefield.</Text>
+			<Text>Фрідріх II, радий зустрічі. Я ангел у салоні, але демон на полі бою.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_LEADER_FRIEDRICH_ANY">
-			<Text>Friedrich II, pleased to meet you. I am an angel in the salon, but a demon on the battlefield.</Text>
+			<Text>Фрідріх II, радий зустрічі. Я ангел у салоні, але демон на полі бою.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_INITIATOR_LEADER_FRIEDRICH_ANY">
-			<Text>I have been in the theater too long, and hunger for the sound of cannon.</Text>
+			<Text>Я занадто довго був у театрі і прагну почути звук гармат.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_RECIPIENT_LEADER_FRIEDRICH_ANY">
-			<Text>To war, then! You rogues! Would you live forever?</Text>
+			<Text>До війни, тоді! Ви негідники! Хочете жити вічно?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEFEAT_AI_LEADER_FRIEDRICH_ANY">
-			<Text>And my critics said that my poetry would be my downfall!</Text>
+			<Text>І мої критики казали, що моя поезія стане моїм падінням!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_DEAL_ACCEPTED_LEADER_FRIEDRICH">
-			<Text>"Bien sur," this is a rational offer!</Text>
+			<Text>\"Bien sur,\" це раціональна пропозиція!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_DEAL_REJECTED_LEADER_FRIEDRICH">
-			<Text>A ridiculous offer. Send one better, or not at all!</Text>
+			<Text>Смішна пропозиція. Надішліть кращу, або взагалі не надсилайте!</Text>
 		</Row>
 	</EnglishText>
 </Database>
